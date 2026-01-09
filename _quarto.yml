@@ -4,8 +4,8 @@ project:
 
 website:
   title: "**Data Wrangling and Visualization**"
-  site-url: https://jacklreilly.github.io/dwv_f25/
-  repo-url: https://github.com/jacklreilly/dwv_f25
+  site-url: https://jacklreilly.github.io/aip_s26/
+  repo-url: https://github.com/jacklreilly/aip_s26
   navbar:
     left:
       - href: overview.qmd
@@ -22,7 +22,7 @@ website:
         text: 🤖 AI & LLMs
   page-footer:
     left: |
-      © 2025 Jack Reilly<br>
+      © 2026 Jack Reilly<br>
       [Contact](mailto:jlreilly@syr.edu)
       
     center: |
