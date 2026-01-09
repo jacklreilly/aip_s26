@@ -1,0 +1,6 @@
+---
+title: "Debate 1"
+subtitle: "Title"
+---
+
+Debate stuff

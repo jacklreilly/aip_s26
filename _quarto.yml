@@ -12,10 +12,10 @@ website:
         text: 🏠 Overview
       - href: schedule.qmd
         text: 📅 Schedule
-      - href: assignments/index.qmd
+      - href: content/index.qmd
         text: 📚 Content
-      - href: problemsets/index.qmd
-        text: 📝 Assignments 
+      - href: work/index.qmd
+        text: 📝 Work 
       - href: policies.qmd
         text: 🏫 Policies
       - href: ai.qmd
@@ -33,61 +33,45 @@ website:
       [About](/about.qmd)
 
   sidebar:
-    - id: assign
+    - id: content
       style: docked
       title: "Content"
       #logo: images/pai600_dwv_logo2.svg
       contents:
         - section: "Weekly Content"
-          href: assignments/index.qmd
+          href: content/index.qmd
           contents:
-          - assignments/assign1.qmd
-          - assignments/assign2.qmd
-          - assignments/assign3.qmd
-          - assignments/assign4.qmd
-          - assignments/assign5.qmd
-          - assignments/assign6.qmd
-          - assignments/assign7.qmd
-          - assignments/assign8.qmd
-          - assignments/assign9.qmd
-          - assignments/assign10.qmd
-          - assignments/assign11.qmd
-          - assignments/assign12.qmd
-          - assignments/assign13.qmd
-          - assignments/assign14.qmd
-          - assignments/assign15.qmd
-          - assignments/assign16.qmd
+          - content/w11.qmd
+          - content/w12.qmd
+          - content/w21.qmd
+          - content/w22.qmd
 
-    - id: ps
+
+    - id: work
       style: docked
-      title: "Assignments"
+      title: "Work"
       #logo: images/pai600_dwv_logo2.svg
       contents:
-        - section: "Problem Sets"
-          href: problemsets/index.qmd
+        - section: "Debates"
+          href: work/index.qmd
           contents:
-          - problemsets/ps1.qmd
-          - problemsets/ps2.qmd
-          - problemsets/ps3.qmd
-          - problemsets/ps4.qmd
-          - problemsets/ps5.qmd
-          - problemsets/ps6.qmd
-          - problemsets/ps7.qmd
-          - problemsets/ps8.qmd
-          - problemsets/ps9.qmd
-          - problemsets/ps10.qmd
-          - problemsets/ps11.qmd
+          - work/d1.qmd
+          - work/d2.qmd
+          - work/d3.qmd
+          - work/d4.qmd
+          - work/d5.qmd
+          - work/d6.qmd
 
-        - section: "Practica"
-          href: problemsets/index.qmd
+        - section: "Assignments"
+          href: work/index.qmd
           contents:
-          - problemsets/prac1.qmd
-          - problemsets/prac2.qmd
+          - work/assign1.qmd
+          - work/assign2.qmd
 
         - section: "Final Project"
-          href: problemsets/final.qmd
+          href: work/final.qmd
           contents:
-          - problemsets/final.qmd
+          - work/final.qmd
 
 format:
   html:
