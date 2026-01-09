@@ -7,37 +7,29 @@ format:
     rtf: default
 ---
 
+This is a tentantive course schedule.  Content may change.
+
 ## Course Schedule
 
-| Week | **Topic**                          | **Tools**                        |  |
-|------|------------------------------------|----------------------------------|---------|
-|      | [Preliminaries](assignments/assign1.qmd)
-| 1    | [Course Introduction](assignments/assign2.qmd)                | Scripts; R and RStudio  |         |
-| 2    | [Reproducible Data Analyses](assignments/assign3.qmd)         | Markup Languages; Quarto     |         |
-| 3    | [File Management & Version Control](assignments/assign4.qmd)  | Filesystems; git; GitHub                    |         |
-| 4    | [A Field Guide to Data](assignments/assign5.qmd)              | Data Formats; surveys, readr; tidyr                       |         |
-| 5    | [Structural Data Manipulation](assignments/assign6.qmd)       | dplyr; srvyr                           |         |
-| 6    | [Data Visualization I](assignments/assign7.qmd)               | Grammar of Graphics; ggplot2     |         |
-| 7    | [Data Visualization II](assignments/assign8.qmd)              | ggplot2                          |         |
-| 8    | **Core Exam (Thursday, October 16)** |                                  |         |
-| 9    | [Workflow & Data Retrieval](assignments/assign10.qmd)     | tidycensus; APIs; database/SQL overview                     |         |
-| 10   | [Social Networks & Network Data](assignments/assign11.qmd)     | iGraph; statnet                       |         |
-| 11   | [Cartography](assignments/assign12.qmd)                       | tidyverse mapping; color scales; projection                       |         |
-| 12   | [Geographic Data](assignments/assign13.qmd)                      | sf; tigris; mapgl; mapbox; osm               |         |
-| 13   | [GIS Day, Catch Up, and Project Work](assignments/assign14.qmd)        |                               |         |
-| 14   | [Statistics & Flow Control](assignments/assign15.qmd)            | Loops, ttest(), lm(), glm()                   |         |
-| 15   | [Project Presentations](assignments/assign16.qmd)              |                                  |         |
-| F    | **Finals Week (Project Due)**      |                                  |         |
+|  | Week | **Tuesday** | **Thursday** |  |
+|--:|:-----|:--------------|:-----------|:-|
+| 1 | *Jan 13* | Class Introduction | Intelligence, Consciousness, Sentience | |
+| 2 | *Jan 20* | Emergence | **Debate I** | |
+| 3 | *Jan 27* | Evaluating Intelligence | AI Embodiment, Agency, & Responsibility | |
+| 4 | *Feb 3*  | Language & Intelligence | **Debate II** | |
+| 5 | *Feb 10* | Computation & AI | Silicon: Technology & Geopolitics | |
+| 6 | *Feb 17* | AI as a Business | **Debate III** | |
+| 7 | *Feb 24* | **Core Exam** | Harms of AI | |
+| 8 | *Mar 3*  | Data and AI | **Debate IV** | |
+|   |      | **Spring Break** | | |
+| 9 | *Mar 17* | Labor Replacement I | Labor Replacement II | |
+|10 | *Mar 24* | Environmental Factors | **Debate V** | |
+|11 | *Mar 31* | Democracy & AI | Autocracy & AI | |
+|12 | *Apr 7*  | Geopolitics Redux | **Debate VI** | |
+|13 | *Apr 14* | Governance and AI | Singularities, xRisk, & AGI | |
+|14 | *Apr 21* | **Final Presentations** | **Final Presentations** | |
+|   |      | **Finals Week** | | |
 
----
 
-### Advanced Topics *(if we have time)*
 
-| Week | **Topic**                      | **Tools** |  |
-|------|--------------------------------|-----------|---------|
-|    | Text Data & Data Scraping      |           |         |
-|    | Statistical Models
-|    | Missing Data
-|    | Web Apps & Visualization       |  quarto, shiny         |         |
-|    | AI Pair Programming & “Vibe Coding” |  github copilot     |         |
-|    | Local LLMs                     |           |         |
+All readings may be found on the course blackboard page.  Readings will be posted at least one week ahead of time. Each day will have one primary reading that should be read closely, a series of simpler secondary readings (often, news coverage, podcasts, and/or videos) that should be browsed or scanned, and (frequently) further secondary reading for those interested in diving deeper. The first week's reading may be found below as an example.
