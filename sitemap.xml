@@ -2,194 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jacklreilly.github.io/aip_s26/overview.html</loc>
-    <lastmod>2026-01-09T19:41:56.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign16.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign3.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign15.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign4.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign6.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign8.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign12.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/prac1.html</loc>
-    <lastmod>2026-01-09T19:41:56.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign10.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/index.html</loc>
-    <lastmod>2026-01-09T19:41:56.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/syllabus.html</loc>
-    <lastmod>2026-01-09T19:41:56.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps12.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps7.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps14.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps2.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/prac2.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/index.html</loc>
-    <lastmod>2026-01-09T19:41:56.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps11.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps4.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps3.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/policies.html</loc>
-    <lastmod>2026-01-09T19:41:56.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/ai.html</loc>
-    <lastmod>2026-01-09T19:41:56.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/ai_init.html</loc>
-    <lastmod>2026-01-09T19:41:56.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/ai_long.html</loc>
-    <lastmod>2026-01-09T19:41:56.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/index.html</loc>
-    <lastmod>2026-01-09T19:41:56.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/colophon.html</loc>
-    <lastmod>2026-01-09T19:41:56.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/about.html</loc>
-    <lastmod>2026-01-09T19:41:56.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps10.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps1.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/final.html</loc>
-    <lastmod>2026-01-09T19:41:56.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps8.html</loc>
-    <lastmod>2026-01-09T19:41:56.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps13.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/prac1.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps9.html</loc>
-    <lastmod>2026-01-09T19:41:56.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps5.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jacklreilly.github.io/aip_s26/problemsets/ps6.html</loc>
-    <lastmod>2026-01-09T19:41:56.128Z</lastmod>
+    <lastmod>2026-01-09T20:03:37.689Z</lastmod>
   </url>
   <url>
     <loc>https://jacklreilly.github.io/aip_s26/Scratch.html</loc>
-    <lastmod>2026-01-09T19:41:56.104Z</lastmod>
+    <lastmod>2026-01-09T20:03:37.666Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/prac2.html</loc>
-    <lastmod>2026-01-09T19:41:56.106Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/content/w22.html</loc>
+    <lastmod>2026-01-09T20:03:37.668Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign11.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/content/w21.html</loc>
+    <lastmod>2026-01-09T20:03:37.668Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign1.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/content/index.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign2.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/policies.html</loc>
+    <lastmod>2026-01-09T20:03:37.689Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign9.html</loc>
-    <lastmod>2026-01-09T19:41:56.106Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/work/d2.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign7.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/work/d1.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign5.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/work/index.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign14.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/work/d3.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
   </url>
   <url>
-    <loc>https://jacklreilly.github.io/aip_s26/assignments/assign13.html</loc>
-    <lastmod>2026-01-09T19:41:56.105Z</lastmod>
+    <loc>https://jacklreilly.github.io/aip_s26/colophon.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/index.html</loc>
+    <lastmod>2026-01-09T20:03:37.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/ai_long.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/ai_init.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/ai.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/work/d6.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/work/final.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/work/d5.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/work/assign1.html</loc>
+    <lastmod>2026-01-09T20:03:37.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/work/d4.html</loc>
+    <lastmod>2026-01-09T20:03:37.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/about.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/content/w11.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/content/w12.html</loc>
+    <lastmod>2026-01-09T20:03:37.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jacklreilly.github.io/aip_s26/syllabus.html</loc>
+    <lastmod>2026-01-09T20:03:37.689Z</lastmod>
   </url>
   <url>
     <loc>https://jacklreilly.github.io/aip_s26/schedule.html</loc>
-    <lastmod>2026-01-09T19:41:56.129Z</lastmod>
+    <lastmod>2026-01-09T20:03:37.689Z</lastmod>
   </url>
 </urlset>
