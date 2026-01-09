@@ -27,3 +27,10 @@
 #TOC a[aria-current="true"] {
   color: ;
 }
+
+
+.navbar-nav {
+  margin-left: auto;
+  justify-content: flex-end;
+  padding-right: 0;
+}
