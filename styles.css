@@ -29,8 +29,9 @@
 }
 
 
-.navbar-nav {
-  margin-left: auto;
-  justify-content: flex-end;
-  padding-right: 0;
+@media (min-width: 992px) {
+  .navbar .navbar-nav.me-auto {
+    margin-right: 0 !important;
+    margin-left: auto !important;
+  }
 }
