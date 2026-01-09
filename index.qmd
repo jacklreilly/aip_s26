@@ -1,9 +1,9 @@
 ---
-title: "Data Wrangling and Visualization"
-subtitle: "PAI 400/600 - Syracuse University"
+title: "Artificial Intelligence Policy"
+subtitle: "Syracuse University"
 author: "Prof. Jack Reilly"
-date: "2025-09-01"
-date-format: "F2025"
+date: "2026-01-01"
+date-format: "S2026"
 ---
 ::: {style="text-align:left;"}
 ![](images/jlr_headshot_syr.jpg){width=100px}
