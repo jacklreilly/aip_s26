@@ -20,6 +20,8 @@ website:
         text: 🏫 Policies
       - href: ai.qmd
         text: 🤖 AI & LLMs
+      - href: https://blackboard.syr.edu/
+        text: 💻 Blackboard
   page-footer:
     left: |
       © 2026 Jack Reilly<br>
