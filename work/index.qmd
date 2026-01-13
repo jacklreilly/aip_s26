@@ -5,6 +5,6 @@ format: html
 format-links: false
 ---
 
-Hello and welcome to the assignments page for our course. All weekly assignments will be posted here.
+Hello and welcome to the work page for our course. All assigned work for the course will be posted here, including debate guidelines and prompts, assignments, exam review guides, and project guidelines.
 
-Note that, while you can find assignments here, submission of assignments itself goes to in the [course blackboard](https://blackboard.syr.edu).
+Note that, while you can find assignments here, submission of assignments goes through the [course blackboard](https://blackboard.syr.edu).
