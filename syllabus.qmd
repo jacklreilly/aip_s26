@@ -3,9 +3,9 @@
 {{< include policies.qmd >}}
 
 ---
-title: "PAI 400/600: Data Wrangling and Visualization"
+title: "Artificial Intelligence Policy"
 author: "Prof. Jack Reilly"
-date: F2025
+date: S2026
 subtitle: "Course Syllabus"
 format: 
     html: default
