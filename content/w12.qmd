@@ -4,16 +4,16 @@ title: "1.2: Intelligence, Consciousness, and Common Sense"
 
 1. Think: *What is the difference between Intelligence, Consciousness, and Sentience? What about between Autonomous Systems, Artificial Intelligence, and Artificial General Intelligence? How can we become sufficiently precise in our language and thinking?*
 
-2. Read: Mitchell, Melanie. 2023. "Why AI Is Harder than We Think" 
+2. Read: Mitchell, Melanie. 2023. "[Why AI Is Harder than We Think](https://arxiv.org/abs/2104.12871v2)"
 
-3. Listen: *Complexity* podcast, Season 2, Episode 1: "What is Intelligence?"
+3. Listen: *Complexity* podcast, Season 2, Episode 1: "[What is Intelligence?](https://www.santafe.edu/culture/podcasts/ep-1-what-is-intelligence)"
 
 4. Browse:
-   - Lenharo, Mariana. 2023. "Decades-long bet on consciousness ends - and it's philosopher 1, neuroscientist 0" *Nature News*
-   - Lenharo, Mariana. 2024. "What should we do if AI becomes conscious? These scientists say it's time for a plan". *Nature News*
-   - Marcus, Gary. 2025. "Sam Altman thinks that AGI is basically a solved problem. I don't. Here's why." Blog post.
+   - Lenharo, Mariana. 2023. “[Decades-long bet on consciousness ends — and it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8).” *Nature News*.
+   - Lenharo, Mariana. 2024. “[What should we do if AI becomes conscious? These scientists say it’s time for a plan](https://www.nature.com/articles/d41586-024-04023-8).” *Nature News*.
+   - Marcus, Gary. 2025. “[Sam Altman thinks that AGI is basically a solved problem. I don’t. Here’s why](https://garymarcus.substack.com/p/sam-altman-thinks-that-agi-is-basically-a-solved-problem).” Substack.
 
 5. Consult as desired:
-   - Altman, Sam. 2025. "Reflections". Blog post.
-   - "Consciousness". Stanford Encyclopedia of Philosophy.
-   - "Artificial Intelligence". Stanford Encyclopedia of Philosophy.
+   - Altman, Sam. 2025. “[Reflections](https://blog.samaltman.com/reflections).” Blog post.
+   - “[Consciousness](https://plato.stanford.edu/entries/consciousness/).” *Stanford Encyclopedia of Philosophy*.
+   - “[Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/).” *Stanford Encyclopedia of Philosophy*.
