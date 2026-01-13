@@ -1,37 +1,4 @@
-/* css styles */
-
-#quarto-content h1 { color:  ;}
-#quarto-content h2 { color:  ;}
-#quarto-content h3 { color: ;}
-
-.quarto-title-banner {
-  background-color: ;
-}
-
 .navbar,
 .navbar.bg-primary {
   background-color: #cfa700;
-}
-
-
-#quarto-content a {
-  color: ;
-}
-
-#quarto-content a:hover {
-  color: ;
-}
-
-/* Active item in the page TOC */
-#TOC a.active,
-#TOC a[aria-current="true"] {
-  color: ;
-}
-
-
-@media (min-width: 992px) {
-  .navbar .navbar-nav.me-auto {
-    margin-right: 0 !important;
-    margin-left: auto !important;
-  }
 }
