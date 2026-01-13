@@ -37,3 +37,31 @@ All readings may be found linked from the course content pages.  Readings will b
 **Undergraduate students** are expected to read or listen to the primary source(s) for the day and scan background readings. 
 
 **Graduate students** are expected to read or listen to the primary source(s), scan background readings, and select one or more of the background readings to read in further depth, as well.
+
+
+## Course Schedule Redux
+
+|  | Week | Tuesday | Thursday |  |
+|--:|:-----|:--------------|:-----------|:-|
+|  | **Unit I** | **What is AI?** |  |  |
+| 1 | *Jan 13* | Class Introduction | Intelligence, Consciousness, Sentience | |
+| 2 | *Jan 20* | Emergence & Systems Thinking | Evaluating AI | |
+| 3 | *Jan 27* | AI Embodiment, Agency, & Responsibility | *Debate I* | |
+|  | **Unit II** | **AI and Technology** |  |  |
+| 4 | *Feb 3*  | *Crash Course*: Technology | Silicon | |
+| 5 | *Feb 10* | Language and Intelligence | *Debate II* | |
+|  | **Unit III** | **AI and the Economy** |  |  |
+| 6 | *Feb 17* | *Crash Course*: AI & The Economy | Finance Bubbles | |
+| 7 | *Feb 24* | Labor Replacement | **Debate III** | |
+|  | **Unit IV** | **AI and the World** |  |  |
+| 8 | *Mar 3*  | Core Exam | *Crash Course*: Foreign Policy & AI Geopolitics | |
+|   |      | ***Spring Break*** | | |
+| 9 | *Mar 17* | AI & Autocracy; Military | **Debate III** | |
+|  | **Unit V** | **AI and Politics** |  |  |
+|10 | *Mar 24* | Environmental Factors | Labor Replacement II | |
+|11 | *Mar 31* | Democracy & AI | **Debate IV** | |
+|  | **Unit VI** | **AI and Humanity** |  |  |
+|12 | *Apr 7*  | Geopolitics Redux | **Debate VI** | |
+|13 | *Apr 14* | Governance and AI | Singularities, xRisk, & AGI | |
+|14 | *Apr 21* | **Final Presentations** | **Final Presentations** | |
+|   |      | **Finals Week** | | |
