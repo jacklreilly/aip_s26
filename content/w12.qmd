@@ -4,7 +4,7 @@ title: "1.2: Intelligence, Consciousness, and Common Sense"
 
 1. Think: *What is the difference between Intelligence, Consciousness, and Sentience? What about between Autonomous Systems, Artificial Intelligence, and Artificial General Intelligence? How can we become sufficiently precise in our language and thinking?*
 
-2. Read: Mitchell, Melanie. 2023. "Why AI Is Harder than We Think" \md
+2. Read: Mitchell, Melanie. 2023. "Why AI Is Harder than We Think" 
 
 3. Listen: *Complexity* podcast, Season 2, Episode 1: "What is Intelligence?"
 
