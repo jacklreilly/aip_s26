@@ -16,7 +16,7 @@ format:
     </p>
 
     <div class="text-secondary">
-      <div><strong>PST 400/600</strong> • Spring 2026</div>
+      <div><strong>PAI 400/600</strong> • Spring 2026</div>
       <div>Maxwell School of Citizenship &amp; Public Affairs</div>
       <div>Syracuse University</div>
     </div>
