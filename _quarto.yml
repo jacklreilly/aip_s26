@@ -40,7 +40,7 @@ website:
       title: "Content"
       #logo: images/pai600_dwv_logo2.svg
       contents:
-        - section: "Weekly Content"
+        - section: "Course Content"
           href: content/index.qmd
           contents:
           - content/w11.qmd

@@ -2,8 +2,8 @@
 title: "1.1: Introduction"
 ---
 
-### Think
+#### 1. Think
  - What does "Artificial Intelligence" mean to you?  What are you expecting to learn from this class?	
 
-### Read 
+#### 2. Read 
  - Syllabus

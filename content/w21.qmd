@@ -2,25 +2,19 @@
 title: "2.1: Emergence and Systems Thinking"
 ---
 
-:::callout-note
-### 🧠 Think
+#### 🧠 Think 
+
 *Is "intelligence" an emergent phenomenon? Or something different? What does it mean to be "intelligent"? What about consciousness? When do we start treating a system as more than the sum of its parts, and why?*
-:::
 
-:::callout-tip
-### 📖 Read
+#### 📖 Read
 Boden, "Autonomy and Artificiality" from *The Philosophy of Artificial Life*
-:::
 
-:::callout-info
-### 🌐 Browse
+#### 🌐 Browse
 - Roose, "A Conversation With Bing's Chatbot Left Me Deeply Unsettled" NYTimes.
 - Schultz, "Flocking together: Study shows how animal groups find their way"
 - Krakauer, "What is Complexity?" *Santa Fe Institute Lecture*: <https://www.youtube.com/watch?v=JR93X7xK05o>
-:::
 
-:::callout-question
-### 📚 Consult as desired
+#### 📚 Consult as desired
 - Bedau, Mark. "Weak Emergence"
 - Johnson, "Eliminating the mystery from the concept of emergence"
 - Hofstadter, "Gödel, Escher, Bach: an Eternal Golden Braid"
@@ -28,4 +22,3 @@ Boden, "Autonomy and Artificiality" from *The Philosophy of Artificial Life*
 - Wolfram, *A New Kind of Science*
 - Simon, Herb. *Sciences of the Artificial*
 - "Emergent Properties", *Stanford Encyclopedia of Philosophy*
-:::
