@@ -7,7 +7,7 @@ format:
     rtf: default
 ---
 
-This is a tentantive course schedule.  Content may change.
+This is a tentative course schedule.  Content may change.
 
 ## 🗓️  Course Schedule
 
