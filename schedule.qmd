@@ -9,7 +9,7 @@ format:
 
 This is a tentantive course schedule.  Content may change.
 
-## Course Schedule
+## 🗓️  Course Schedule
 
 |  | Week | **Tuesday** | **Thursday** |  |
 |--:|:-----|:--------------|:-----------|:-|

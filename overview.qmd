@@ -7,7 +7,7 @@ format:
     rtf: default
 ---
 
-## Course Information
+## 🏛️ Course Information
 
 ### Class
 
@@ -25,17 +25,18 @@ format:
 
 [^oh]: In addition to formal office hours, I have an open door policy - feel free to stop by if you see the door open. In particular, I stay around after class for up to half an hour if students come by - feel free to stay after and meet with me. 
 
-**Zoom Hours**: Friday, 1-3 ([schedule online](https://jacklreilly.github.io/appointments.html))
-
 **Phone**: 315-443-2687 (office)
 
 **e-mail**: <jlreilly@syr.edu>
+
+### Quick Description
+This course is designed for students who want to think critically about artificial intelligence and design artificial intelligence policies for government, business, and nonprofit organizations of all sizes.
 
 ### Course Description
 This course serves as in introduction to the politics and policy of artificial intelligence.  It presumes no particular prior knowledge of artificial intelligence, political science, public policy, or computer science; rather, it will introduce students to what artificial intelligence is as well as to the ethics of AI, its social implications, and the policy choices around AI that currently face governments, corporations, and organizations worldwide. This is a "non-technical" course: assignments will include reading, class discussion and leadership, debates, writing, and learning about the use of AI tools and prompts to generate output. Students will not be expected, however, to program or write any formal code. 
 
 ### Course Structure
-
+ 
 **Principle - Practice - Politics - Policy**
 
 The course has four sequential units. First, we start with an introduction to the philosophy of artificial intelligence itself. What is "intelligence" and "consciousness" in the first place? What are minds? What are agents and legal persons, and when are agents responsible for their actions? What is artificial intelligence, and what is artificial "general" intelligence? Second, we proceed to discuss the mechanics of current computational approaches to AI, with a particular focus on large language models (such as OpenAI's ChatGPT), including approachable, non-technical overviews of the principles behind machine learning, neural networks, and assorted technologies that have given rise to the current state of the art in AI.  Third, we consider the societal impacts of current artificial intelligence systems, including data practices as well as current AI applications, uses, risks, and ethics. Fourth, we turn to policy, examining the decisions in front of governments, companies, and organizations in the United States and worldwide as well as complications in the policy process for producing effective AI legislation.
@@ -52,7 +53,7 @@ While this course has no *formal* pre-requisites, it does have a substantial *in
 2. Critically evaluate and debate alternate perspectives on contemporary AI policy issues, using evidence to construct and defend reasoned arguments.
 3. Design and evaluate AI policy proposals by applying principles of data ethics, policy analysis, and policy design to real-world issue domains.
 
-## Materials
+## 📘 Materials
 
 ### Books
 
@@ -79,7 +80,7 @@ Blackboard is our internet-based course platform:  <http://blackboard.syr.edu>. 
 #### Microsoft Teams
 In addition to Blackboard, we'll have a class discussion channel in Microsoft Teams for discussion question sharing as well as for sharing news articles.  Make sure you set up easy access for yourself wherever is convenient.
 
-## Course Requirements
+## 📌  Course Requirements
 
 ### Overview
 
@@ -140,7 +141,7 @@ An in class test on AI basics, held in the middle of the semester.
 ### Final Project
 A final research project on an aspect of AI policy. (There will be options.) Graduate students will have higher expectations than undergraduates.
 
-## Course Expectations \& Guidelines 
+## 🎓 Course Expectations & Guidelines 
 
 ### Etiquette & Decorum
 
@@ -166,7 +167,7 @@ If your email requires a long response, expect me to encourage you to meet with 
 ### Artificial Intelligence and Class Technology Policy
  To be discussed (and decided upon!) in class on a per-assignment basis.
 
-## Learning Objective Assessment
+## 📊 Learning Objective Assessment
 
 ### Course Assessment Plan
 | **Learning Objective** | **Assessment Measure** |

@@ -44,7 +44,7 @@ website:
           - content/w11.qmd
           - content/w12.qmd
           - content/w21.qmd
-          - content/w22.qmd
+
 
 
     - id: work

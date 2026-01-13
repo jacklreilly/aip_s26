@@ -1,5 +1,4 @@
 ---
-title: "Week 2.2"
-subtitle: " "
+title: "2.2 - Debate I"
 ---
 

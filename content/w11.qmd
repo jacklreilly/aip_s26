@@ -1,5 +1,9 @@
 ---
-title: "Week 1.1"
-subtitle: "Class Introduction"
+title: "1.1: Introduction"
 ---
 
+### Think
+ - What does "Artificial Intelligence" mean to you?  What are you expecting to learn from this class?"	
+
+### Read 
+ - Syllabus
