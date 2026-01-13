@@ -9,7 +9,7 @@ title: "2.1: Emergence and Systems Thinking"
 
 :::callout-tip
 ### 📖 Read
-Boden, "Autonomy and Artificiality". from *The Philosophy of Artificial Life*
+Boden, "Autonomy and Artificiality" from *The Philosophy of Artificial Life*
 :::
 
 :::callout-info
