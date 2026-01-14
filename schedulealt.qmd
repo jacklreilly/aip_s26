@@ -54,14 +54,14 @@ All readings may be found linked from the course content pages.  Readings will b
 | 6 | *Feb 17* | *Crash Course*: AI & The Economy | Finance Bubbles | |
 | 7 | *Feb 24* | Labor Replacement | **Debate III** | |
 |  | **Unit IV** | **AI and the World** |  |  |
-| 8 | *Mar 3*  | Core Exam | *Crash Course*: Foreign Policy & AI Geopolitics | |
+| 8 | *Mar 3*  | **Core Exam** | *Crash Course*: Foreign Policy & AI Geopolitics | |
 |   |      | ***Spring Break*** | | |
-| 9 | *Mar 17* | AI & Autocracy; Military | **Debate III** | |
+| 9 | *Mar 17* | AI & Autocracy; Military | **Debate IV** | |
 |  | **Unit V** | **AI and Politics** |  |  |
-|10 | *Mar 24* | Environmental Factors | Labor Replacement II | |
-|11 | *Mar 31* | Democracy & AI | **Debate IV** | |
+|10 | *Mar 24* | Governance and AI | Labor Replacement II | |
+|11 | *Mar 31* | Energy | **Debate V** | |
 |  | **Unit VI** | **AI and Humanity** |  |  |
-|12 | *Apr 7*  | Geopolitics Redux | **Debate VI** | |
-|13 | *Apr 14* | Governance and AI | Singularities, xRisk, & AGI | |
+|12 | *Apr 7*  | Harms of AI | Governance and AI | |
+|13 | *Apr 14* |   Singularities, xRisk, & AGI | **Debate VI** | |
 |14 | *Apr 21* | **Final Presentations** | **Final Presentations** | |
 |   |      | **Finals Week** | | |
