@@ -51,7 +51,7 @@
   {
     "objectID": "Scratch.html",
     "href": "Scratch.html",
-    "title": "**Artificial Intelligence Policy**",
+    "title": "Artificial Intelligence Policy",
     "section": "",
     "text": "Demonstrate capability in open science and contemporary reproducible data processing, wrangling, and management tools\nApply appropriate principles of data and file management to data projects\nEvaluate the credibility and clarity of data visualizations\nCreate effective, reproducible, and well designed data visualizations with appropriate tools\nAnalyze large-N datasets commonly used in public policy and behavioral science\n\nDemonstrate knowledge of open science and contemporary reproducible data processing, wrangling, and management tools and principles\nApply principles of data wrangling and management to data analysis tasks\nCreate reproducible data projects that incorporate effective, well-designed data visualizations\nAnalyze large-N datasets commonly used in public policy and behavioral science\nDemonstrate knowledge of open science and contemporary reproducible data processing, wrangling, and management tools and principles Apply principles of data wrangling and management to data analysis tasks Create reproducible data projects that incorporate effective, well-designed data visualizations Analyze large-N datasets commonly used in public policy and behavioral science\n9 Networks 10 Advanced Workflow, Census, & Databases 11 Maps & GIS 12 Text as Data 13 Web 14 Bonus: AI (Pair Programming & Local LLMs)"
   },
@@ -83,21 +83,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The site was built in Quarto in Postitron, and hosted on GitHub Pages. Course content (obviously) makes heavy use of R and RStudio. Slides are built with Apple Keynote and exported to PDFs."
+    "text": "Hello! I am Professor Jack Reilly, author of this site as well as your instructor for the class. You can find more about me on my website, but in short:\n\nI have a PhD in political science, with a focus on American politics and policy, quantitative data methods, and complex systems. Before that, I earned a BA in philosophy, where I focused on complex systems, artificial intelligence, and philosophy of mind.\nI’ve been teaching for about 15 years now, at multiple different institutions, with teaching that spans across complex systems, statistical and data research methods, political behavior, American politics and policy, political theory, and artificial intelligence. I always look forward to teaching artificial intelligence policy, in particular, as it’s the class that most blends all of my interests together in one place - politics and policy, computation and data, philosophy, and minds. It’s a wildy varied topic area - we’re in for a fun ride.\nI also research and write papers on American politics and quantitative methods and was born and raised right here in beautiful Upstate New York. The outdoors here in upstate are some of the most varied in the nation - if you haven’t yet visited the Finger Lakes or the Adirondacks, you really should!"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I am Professor Jack Reilly, author of this site as well as your instructor for the class. You can find more about me on my website, but in short:\n\nI have a PhD in political science, with a focus on American politics and policy, quantitative data methods, and complex systems. Before that, I earned a BA in philosophy, where I focused on complex systems, artificial intelligence, and philosophy of mind.\nI’ve been teaching for about 15 years now, at multiple different institutions, with teaching that spans across complex systems, statistical and data research methods, political behavior, American politics and policy, political theory, and artificial intelligence. I always look forward to teaching artificial intelligence policy, in particular, as it’s the class that most blends all of my interests together in one place - politics and policy, computation and data, philosophy, and minds. It’s a wildy varied topic area - we’re in for a fun ride.\nI also research and write papers on American politics and quantitative methods and was born and raised right here in beautiful Upstate New York. The outdoors here in upstate are some of the most varied in the nation - if you haven’t yet visited the Finger Lakes or the Adirondacks, you really should!"
   },
   {
     "objectID": "about.html#technical-details",
     "href": "about.html#technical-details",
     "title": "About",
-    "section": "",
-    "text": "The site was built in Quarto in Postitron, and hosted on GitHub Pages. Course content (obviously) makes heavy use of R and RStudio. Slides are built with Apple Keynote and exported to PDFs."
+    "section": "Technical Details",
+    "text": "Technical Details\nThe site was built in Quarto in Postitron, and hosted on GitHub Pages. I’m a big fan of reproducible technical workflows and open tools - if you are, or would like to learn more about them, you should take one of my other classes, Data Wrangling and Visualization, where we learn all about reproducible workflows, including how to make sites like this."
   },
   {
     "objectID": "about.html#credits-and-acknowledgements",
     "href": "about.html#credits-and-acknowledgements",
     "title": "About",
     "section": "Credits and Acknowledgements",
-    "text": "Credits and Acknowledgements\nThis course page was inspired, in spirit if not in all technical details, by related courses from Andrew Heiss and Kieran Healy. Other acknowledgements for particular content can be found in content pages and course slides."
+    "text": "Credits and Acknowledgements\nThis course page was inspired, in spirit if not in all technical details, by related courses from Andrew Heiss and Kieran Healy. I am grateful to them for making their materials and course websites public. Other acknowledgements for particular content can be found in content pages and course slides."
   },
   {
     "objectID": "work/d4.html",
@@ -244,7 +251,7 @@
   {
     "objectID": "cssstylesextras.html",
     "href": "cssstylesextras.html",
-    "title": "**Artificial Intelligence Policy**",
+    "title": "Artificial Intelligence Policy",
     "section": "",
     "text": "/* css styles */\n#quarto-content h1 { color: ;} #quarto-content h2 { color: ;} #quarto-content h3 { color: ;}\n.quarto-title-banner { background-color: ; }\n.navbar, .navbar.bg-primary { background-color: #cfa700; }\n#quarto-content a { color: ; }\n#quarto-content a:hover { color: ; }\n/* Active item in the page TOC */ #TOC a.active, #TOC a[aria-current=“true”] { color: ; }\n@media (min-width: 992px) { .navbar .navbar-nav.me-auto { margin-right: 0 !important; margin-left: auto !important; } }"
   },
@@ -406,7 +413,7 @@
     "href": "schedulealt.html#course-schedule-redux",
     "title": "Schedule",
     "section": "Course Schedule Redux",
-    "text": "Course Schedule Redux\n\n\n\n\n\n\n\n\n\n\n\nWeek\nTuesday\nThursday\n\n\n\n\n\n\nUnit I\nWhat is AI?\n\n\n\n\n1\nJan 13\nClass Introduction\nIntelligence, Consciousness, Sentience\n\n\n\n2\nJan 20\nEmergence & Systems Thinking\nEvaluating AI\n\n\n\n3\nJan 27\nAI Embodiment, Agency, & Responsibility\nDebate I\n\n\n\n\nUnit II\nAI and Technology\n\n\n\n\n4\nFeb 3\nCrash Course: Technology\nSilicon\n\n\n\n5\nFeb 10\nLanguage and Intelligence\nDebate II\n\n\n\n\nUnit III\nAI and the Economy\n\n\n\n\n6\nFeb 17\nCrash Course: AI & The Economy\nFinance Bubbles\n\n\n\n7\nFeb 24\nLabor Replacement\nDebate III\n\n\n\n\nUnit IV\nAI and the World\n\n\n\n\n8\nMar 3\nCore Exam\nCrash Course: Foreign Policy & AI Geopolitics\n\n\n\n\n\nSpring Break\n\n\n\n\n9\nMar 17\nAI & Autocracy; Military\nDebate IV\n\n\n\n\nUnit V\nAI and Politics\n\n\n\n\n10\nMar 24\nGovernance and AI\nLabor Replacement II\n\n\n\n11\nMar 31\nEnergy\nDebate V\n\n\n\n\nUnit VI\nAI and Humanity\n\n\n\n\n12\nApr 7\nHarms of AI\nGovernance and AI\n\n\n\n13\nApr 14\nSingularities, xRisk, & AGI\nDebate VI\n\n\n\n14\nApr 21\nFinal Presentations\nFinal Presentations\n\n\n\n\n\nFinals Week"
+    "text": "Course Schedule Redux\n\n\n\n\n\n\n\n\n\n\n\nWeek\nTuesday\nThursday\n\n\n\n\n\n\nUnit I\nWhat is AI?\n\n\n\n\n1\nJan 13\nClass Introduction\nIntelligence, Consciousness, Sentience\n\n\n\n2\nJan 20\nEmergence & Systems Thinking\nEvaluating AI\n\n\n\n3\nJan 27\nAI Embodiment, Agency, & Responsibility\nDebate I\n\n\n\n\nUnit II\nAI and Technology\n\n\n\n\n4\nFeb 3\nCrash Course: Technology\nLanguage and Intelligence\n\n\n\n5\nFeb 10\nData Privacy\nDebate II\n\n\n\n\nUnit III\nAI and the Economy\n\n\n\n\n6\nFeb 17\nCrash Course: AI & The Economy\nFinance Bubbles\n\n\n\n7\nFeb 24\nLabor Replacement\nDebate III\n\n\n\n\nUnit IV\nAI and the World\n\n\n\n\n8\nMar 3\nCore Exam\nCrash Course: Foreign Policy & AI Geopolitics\n\n\n\n\n\nSpring Break\n\n\n\n\n9\nMar 17\nAI & Autocracy; Military\nDebate IV\n\n\n\n\nUnit V\nAI and Politics\n\n\n\n\n10\nMar 24\nGovernance and AI\nLabor Replacement II\n\n\n\n11\nMar 31\nEnergy\nDebate V\n\n\n\n\nUnit VI\nAI and Humanity\n\n\n\n\n12\nApr 7\nHarms of AI\nGovernance and AI\n\n\n\n13\nApr 14\nSingularities, xRisk, & AGI\nDebate VI\n\n\n\n14\nApr 21\nFinal Presentations\nFinal Presentations\n\n\n\n\n\nFinals Week"
   },
   {
     "objectID": "content/w11.html",
