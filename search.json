@@ -51,7 +51,7 @@
   {
     "objectID": "Scratch.html",
     "href": "Scratch.html",
-    "title": "Artificial Intelligence Policy",
+    "title": "**Artificial Intelligence Policy**",
     "section": "",
     "text": "Demonstrate capability in open science and contemporary reproducible data processing, wrangling, and management tools\nApply appropriate principles of data and file management to data projects\nEvaluate the credibility and clarity of data visualizations\nCreate effective, reproducible, and well designed data visualizations with appropriate tools\nAnalyze large-N datasets commonly used in public policy and behavioral science\n\nDemonstrate knowledge of open science and contemporary reproducible data processing, wrangling, and management tools and principles\nApply principles of data wrangling and management to data analysis tasks\nCreate reproducible data projects that incorporate effective, well-designed data visualizations\nAnalyze large-N datasets commonly used in public policy and behavioral science\nDemonstrate knowledge of open science and contemporary reproducible data processing, wrangling, and management tools and principles Apply principles of data wrangling and management to data analysis tasks Create reproducible data projects that incorporate effective, well-designed data visualizations Analyze large-N datasets commonly used in public policy and behavioral science\n9 Networks 10 Advanced Workflow, Census, & Databases 11 Maps & GIS 12 Text as Data 13 Web 14 Bonus: AI (Pair Programming & Local LLMs)"
   },
@@ -251,7 +251,7 @@
   {
     "objectID": "cssstylesextras.html",
     "href": "cssstylesextras.html",
-    "title": "Artificial Intelligence Policy",
+    "title": "**Artificial Intelligence Policy**",
     "section": "",
     "text": "/* css styles */\n#quarto-content h1 { color: ;} #quarto-content h2 { color: ;} #quarto-content h3 { color: ;}\n.quarto-title-banner { background-color: ; }\n.navbar, .navbar.bg-primary { background-color: #cfa700; }\n#quarto-content a { color: ; }\n#quarto-content a:hover { color: ; }\n/* Active item in the page TOC */ #TOC a.active, #TOC a[aria-current=“true”] { color: ; }\n@media (min-width: 992px) { .navbar .navbar-nav.me-auto { margin-right: 0 !important; margin-left: auto !important; } }"
   },
