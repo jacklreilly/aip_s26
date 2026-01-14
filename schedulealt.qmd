@@ -48,8 +48,8 @@ All readings may be found linked from the course content pages.  Readings will b
 | 2 | *Jan 20* | Emergence & Systems Thinking | Evaluating AI | |
 | 3 | *Jan 27* | AI Embodiment, Agency, & Responsibility | *Debate I* | |
 |  | **Unit II** | **AI and Technology** |  |  |
-| 4 | *Feb 3*  | *Crash Course*: Technology | Silicon | |
-| 5 | *Feb 10* | Language and Intelligence | *Debate II* | |
+| 4 | *Feb 3*  | *Crash Course*: Technology | Language and Intelligence | |
+| 5 | *Feb 10* | Data Privacy | *Debate II* | |
 |  | **Unit III** | **AI and the Economy** |  |  |
 | 6 | *Feb 17* | *Crash Course*: AI & The Economy | Finance Bubbles | |
 | 7 | *Feb 24* | Labor Replacement | **Debate III** | |

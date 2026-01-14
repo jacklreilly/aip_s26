@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "**Artificial Intelligence Policy**"
+  title: "Artificial Intelligence Policy"
   site-url: https://jacklreilly.github.io/aip_s26/
   repo-url: https://github.com/jacklreilly/aip_s26
   navbar:

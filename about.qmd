@@ -2,10 +2,24 @@
 title: "About"
 ---
 
+## About Me
+
+::: {style="text-align:left;"}
+![](images/jlr_headshot_syr.jpg){width=100px}
+:::
+
+Hello! I am [Professor Jack Reilly](https://www.maxwell.syr.edu/directory/jack-reilly), author of this site as well as your instructor for the class.  You can find more about me on my [website](https://jacklreilly.github.io), but in short: 
+
+- I have a PhD in political science, with a focus on American politics and policy, quantitative data methods, and complex systems.  Before that, I earned a BA in philosophy, where I focused on complex systems, artificial intelligence, and philosophy of mind.  
+
+- I've been teaching for about 15 years now, at [multiple](https://www.ucdavis.edu) [different](https://www.ncf.edu) [institutions](https://www.syracuse.edu/), with teaching that spans across complex systems, statistical and data research methods, political behavior, American politics and policy, political theory, and artificial intelligence.  I always look forward to teaching artificial intelligence policy, in particular, as it's the class that most blends all of my interests together in one place - politics and policy, computation and data, philosophy, and minds. It's a wildy varied topic area - we're in for a fun ride.
+
+- I also research and write papers on [American politics and quantitative methods](https://jacklreilly.github.io/research) and was born and raised right here in beautiful [Upstate New York](https://discoverupstateny.com). The outdoors here in upstate are some of the most varied in the nation - if you haven't yet visited the Finger Lakes or the Adirondacks, you really should!
+
 ## Technical Details
 
-The site was built in [Quarto](https://quarto.org) in [Postitron](https://positron.posit.co), and hosted on [GitHub Pages](https://docs.github.com/en/pages). Course content (obviously) makes heavy use of [R](https://www.r-project.org) and [RStudio](https://posit.co/download/rstudio-desktop/). Slides are built with Apple Keynote and exported to PDFs.
+The site was built in [Quarto](https://quarto.org) in [Postitron](https://positron.posit.co), and hosted on [GitHub Pages](https://docs.github.com/en/pages). I'm a big fan of reproducible technical workflows and open tools - if you are, or would like to learn more about them, you should take one of my other classes, [Data Wrangling and Visualization](https://jacklreilly.github.io/dwv_f25), where we learn all about reproducible workflows, including how to make sites like this.
 
 ## Credits and Acknowledgements
 
-This course page was inspired, in spirit if not in all technical details, by related courses from [Andrew Heiss](https://datavizf25.classes.andrewheiss.com) and [Kieran Healy](https://mptc.io). Other acknowledgements for particular content can be found in content pages and course slides.
+This course page was inspired, in spirit if not in all technical details, by related courses from [Andrew Heiss](https://datavizf25.classes.andrewheiss.com) and [Kieran Healy](https://mptc.io). I am grateful to them for making their materials and course websites public. Other acknowledgements for particular content can be found in content pages and course slides.
