@@ -4,7 +4,7 @@ title: "3.1 - Embodied Intelligence, Agency, and Responsibility"
 
 #### 🧠 Think:
 - *How important is it for intelligence to be “embodied” in a physical agent that interacts with the “real” world, as opposed to digital representations of the world through text, images, video, and the internet? Does embodiment (or lack thereof) change how we think of learning?*
-- What about responsibility? Are AI agents responsible for their behavior? Should they be, legally? Should the companies that make them? Does whether agents are embodied change how we think about this responsibility?
+- *What about responsibility? Are AI agents responsible for their behavior? Should they be, legally? Should the companies that make them? Does whether agents are embodied change how we think about this responsibility?*
 
 #### 🎧 Listen:
 - *Complexity* podcast, Season 2, Episode 4: **“[Babies vs. Machines](https://www.santafe.edu/culture/podcasts/episode-4-babies-vs-machines)”**  
