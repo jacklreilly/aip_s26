@@ -10,7 +10,7 @@ format:
 ## 🗓️  Course Schedule
 
 |  | Week | Tuesday | Thursday |  |
-|--:|:-----|:--------------|:-----------|:-|
+|--:|:------|:-----------|:-----------|:-|
 |  | **Unit I** | **What is AI?** |  |  |
 | 1 | *Jan 13* | [Class Introduction](content/w11.qmd) | [Intelligence, Consciousness, Sentience](content/w12.qmd) | |
 | 2 | *Jan 20* | *Crash Course*: [Emergence & Systems Thinking](content/w21.qmd) | [Evaluating Intelligence](content/w22.qmd) | |
