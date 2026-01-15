@@ -45,23 +45,27 @@ All readings may be found linked from the course content pages.  Readings will b
 |--:|:-----|:--------------|:-----------|:-|
 |  | **Unit I** | **What is AI?** |  |  |
 | 1 | *Jan 13* | Class Introduction | Intelligence, Consciousness, Sentience | |
-| 2 | *Jan 20* | Emergence & Systems Thinking | Evaluating AI | |
-| 3 | *Jan 27* | AI Embodiment, Agency, & Responsibility | *Debate I* | |
+| 2 | *Jan 20* | Emergence & Systems Thinking | Evaluating Intelligence | |
+| 3 | *Jan 27* | AI Embodiment, Agency, & Responsibility | **Debate I** | |
+|
 |  | **Unit II** | **AI and Technology** |  |  |
-| 4 | *Feb 3*  | *Crash Course*: Technology | Language and Intelligence | |
-| 5 | *Feb 10* | Data Privacy | *Debate II* | |
-|  | **Unit III** | **AI and the Economy** |  |  |
-| 6 | *Feb 17* | *Crash Course*: AI & The Economy | Finance Bubbles | |
-| 7 | *Feb 24* | Labor Replacement | **Debate III** | |
-|  | **Unit IV** | **AI and the World** |  |  |
-| 8 | *Mar 3*  | **Core Exam** | *Crash Course*: Foreign Policy & AI Geopolitics | |
-|   |      | ***Spring Break*** | | |
-| 9 | *Mar 17* | AI & Autocracy; Military | **Debate IV** | |
+| 4 | *Feb 3*  | *Crash Course*: Computation | Language and Intelligence | |
+| 5 | *Feb 10* | Data Privacy | **Debate II** | |
+|
+|  | **Unit III** | **AI and the World** |  |  |
+| 6 | *Feb 17* | *Crash Course*: AI & The World | AI & Autocracy | |
+| 7 | *Feb 24* | AI Military? | **Debate III** | |
+|
+|  | **Unit IV** | **Building AI: Business and Economics** |  |  |
+| 8 | *Mar 3*  | **Core Exam** | *Crash Course*: Building AI: Business & Economics | |
+| 9 | *Mar 17* | Labor Replacement I | **Debate IV** | |
+|
 |  | **Unit V** | **AI and Politics** |  |  |
-|10 | *Mar 24* | Governance and AI | Labor Replacement II | |
+|10 | *Mar 24* | *Crash Course*: Governance and AI | Labor Replacement II | |
 |11 | *Mar 31* | Energy | **Debate V** | |
+|
 |  | **Unit VI** | **AI and Humanity** |  |  |
-|12 | *Apr 7*  | Harms of AI | Governance and AI | |
+|12 | *Apr 7*  | *Crash Course*: Harms of AI | Democracy, Governance, and AI | |
 |13 | *Apr 14* |   Singularities, xRisk, & AGI | **Debate VI** | |
 |14 | *Apr 21* | **Final Presentations** | **Final Presentations** | |
-|   |      | **Finals Week** | | |
+|   |      | *Finals Week* | | |

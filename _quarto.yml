@@ -41,12 +41,16 @@ website:
       title: "Content"
       #logo: images/pai600_dwv_logo2.svg
       contents:
-        - section: "Course Content"
+        - section: "1. What is AI?"
           href: content/index.qmd
           contents:
           - content/w11.qmd
           - content/w12.qmd
           - content/w21.qmd
+          - content/w22.qmd
+          - content/w31.qmd
+          - content/w32.qmd                    
+
 
 
 

@@ -9,30 +9,46 @@ format:
 
 ## 🗓️  Course Schedule
 
-|  | Week | **Tuesday** | **Thursday** |  |
+|  | Week | Tuesday | Thursday |  |
 |--:|:-----|:--------------|:-----------|:-|
-| 1 | *Jan 13* | Class Introduction | Intelligence, Consciousness, Sentience | |
-| 2 | *Jan 20* | Emergence | **Debate I** | |
-| 3 | *Jan 27* | Evaluating Intelligence | AI Embodiment, Agency, & Responsibility | |
-| 4 | *Feb 3*  | Language & Intelligence | **Debate II** | |
-| 5 | *Feb 10* | Computation & AI | Silicon: Technology & Geopolitics | |
-| 6 | *Feb 17* | AI as a Business | **Debate III** | |
-| 7 | *Feb 24* | **Core Exam** | Harms of AI | |
-| 8 | *Mar 3*  | Data and AI | **Debate IV** | |
-|   |      | **Spring Break** | | |
-| 9 | *Mar 17* | Labor Replacement I | Labor Replacement II | |
-|10 | *Mar 24* | Environmental Factors | **Debate V** | |
-|11 | *Mar 31* | Democracy & AI | Autocracy & AI | |
-|12 | *Apr 7*  | Geopolitics Redux | **Debate VI** | |
-|13 | *Apr 14* | Governance and AI | Singularities, xRisk, & AGI | |
+|  | **Unit I** | **What is AI?** |  |  |
+| 1 | *Jan 13* | [Class Introduction](content/w11.qmd) | [Intelligence, Consciousness, Sentience](content/w12.qmd) | |
+| 2 | *Jan 20* | *Crash Course*: [Emergence & Systems Thinking](content/w21.qmd) | [Evaluating Intelligence](content/w22.qmd) | |
+| 3 | *Jan 27* | [AI Embodiment, Agency, & Responsibility](content/w31.qmd) | **[Debate I](content/w32.qmd)** | |
+|
+|  | **Unit II** | **AI and Technology** |  |  |
+| 4 | *Feb 3*  | *Crash Course*: Computation | Language and Intelligence | |
+| 5 | *Feb 10* | Data Privacy | **Debate II** | |
+|
+|  | **Unit III** | **AI and the World** |  |  |
+| 6 | *Feb 17* | *Crash Course*: AI & The World | AI Geopolitics | |
+| 7 | *Feb 24* | AI & Autocracy | **Debate III** | |
+|
+|  | **Unit IV** | **Building AI: Business and Economics** |  |  |
+| 8 | *Mar 3*  | **Core Exam** | *Crash Course*: Building AI: Business & Economics | |
+| 9 | *Mar 17* | Labor Replacement I | **Debate IV** | |
+|
+|  | **Unit V** | **AI and Policy** |  |  |
+|10 | *Mar 24* | *Crash Course*: Governance and AI | Labor Replacement II | |
+|11 | *Mar 31* | Energy | **Debate V** | |
+|
+|  | **Unit VI** | **AI and Humanity** |  |  |
+|12 | *Apr 7*  | *Crash Course*: Harms of AI | Democracy, Governance, and AI | |
+|13 | *Apr 14* |   Singularities, xRisk, & AGI | **Debate VI** | |
 |14 | *Apr 21* | **Final Presentations** | **Final Presentations** | |
-|   |      | **Finals Week** | | |
+|   |      | *Finals Week* | | |
+
 
 *This is a tentative course schedule.  Content subject to change.*
 
+**Key**
 
-All readings may be found linked from the course content pages.  Readings will be posted at least one week ahead of time. Each day will have one or two primary readings that should be read closely, a series of simpler secondary readings (often, news coverage, podcasts, and/or videos) that should be browsed or scanned, and (frequently) further secondary reading for those interested in diving deeper. 
+*Crash Course* - lecture day; no student discussion leader
+
+**A Note on Readings**
+
+All readings may be found linked from the course content pages.  Readings will be posted at least one week ahead of time. Each day will have one or two primary sources that should be read, listened to, or watched in full, a series of simpler secondary readings (often, news coverage, podcasts, and/or videos) that should be browsed or scanned, and (frequently) further secondary and background reference reading for those interested in diving deeper. 
 
 **Undergraduate students** are expected to read or listen to the primary source(s) for the day and scan background readings. 
 
-**Graduate students** are expected to read or listen to the primary source(s), scan background readings, and select one or more of the background readings to read in further depth, as well.
+**Graduate students** are expected to read or listen to the primary source(s), scan secondary readings, and select one or more of the secondary or background readings to read in further depth, as well.

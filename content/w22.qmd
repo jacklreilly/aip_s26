@@ -1,4 +1,38 @@
 ---
-title: "2.2 - Debate I"
+title: "2.2 - Evaluating Intelligence"
 ---
 
+#### 🧠 Think:
+- *How can we, as fellow humans, assess whether or not a non-human “intelligence” is actually… intelligent? What kind of guidelines and rules of thumb should we form? What makes something an autonomous system, an intelligent system, a general intelligence system, or even a superintelligence?*
+
+#### 📖 Read:
+- Searle, **“Minds, Brains, and Programs”** (*aka* “The Chinese Room” argument)
+
+#### 📺 Watch:
+- **“Artificial Intelligence & Personhood”**, *Crash Course Philosophy* #23  
+  <https://www.youtube.com/watch?v=39EdqUbj92U>
+
+#### 🎧 Listen:
+- *Complexity* podcast, Season 2, Episode 5: **“How do we assess intelligence?”**  
+  <https://www.santafe.edu/culture/podcasts/episode-5-how-do-we-assess-intelligence>
+
+#### 🌐 Browse:
+- Mitchell, **“The Turing Test and our shifting conceptions of intelligence”**
+
+#### 📚 Additional Resources:
+- Turing, **“Computing Machinery and Intelligence”** (*aka* “The Turing Test”)
+- Lycan, **“Robots and Minds”**
+- Dennett, **“True Believers: The Intentional Strategy and Why it Works”**
+- Boden, **“Escaping from the Chinese Room”**
+- **“The Chinese Room Argument”**, *Stanford Encyclopedia of Philosophy*
+- **“The Turing Test”**, *Stanford Encyclopedia of Philosophy*
+
+#### 📝 Submit:
+- Discussion question to course chat
+
+::: {.callout-tip}
+### Tip
+- **📖 Read**, **🎧 Listen**, and/or **📺 Watch** items are required content for the day and should be completed before class.
+- **🌐 Browse** items should be skimmed but do not need deep reading unless you want to.
+- **📚 Additional Resources** are optional references for debates, final projects, and future use.
+:::
