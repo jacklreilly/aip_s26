@@ -5,7 +5,7 @@ title: "Debate 1"
 
 ## Resolution
 
-- An entity that passes the Turing Test is intelligent.
+**An entity that passes the Turing Test is intelligent.**
 
 ## Amendments and Adjustments
 
