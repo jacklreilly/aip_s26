@@ -9,7 +9,7 @@ title: "Debate 1"
 
 ## Amendments and Adjustments
 
-- See [debate guidelines](d1guidelines.qmd) and [debate tips](dtips.qmd) for guidance and details.
+- See [debate guidelines](dguidelines.qmd) and [debate tips](dtips.qmd) for guidance and details.
 - There are **no** adjustments to the standard debate format for this debate.
 
 ## Judge's Notes
