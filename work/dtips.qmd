@@ -1,0 +1,64 @@
+---
+title: "Debate Tips"
+
+---
+
+## General Tips and Advice 
+
+1. Refer to the other team as “our opponents” or “my opponent”.
+2. Think carefully about the resolution. What *exactly* is the resolution asking you to debate? Do not allow yourself to be distracted by anything off topic (which good debaters will try to do, of course). 
+3. Define the terms of the debate. Resolutions, by their nature, have inherent ambiguities.  Define and frame the resolution further in a way that is simultaneously fair and that gives you an argumentative advantage. Make the terms of the debate clear to the jury: what, for instance, should determine a winner and loser in the debate?  What points does your side need to make and what points does the other side need to make to win?  **Tell the jury what it means to win the debate.**
+
+4. In oral debate presentation, clarity is key. **Subtlety is not your friend.** Be straight, simple, and to the point.
+
+6. Debates happen **fast**. Plan. Pay attention to your time.  The debate can feel simultaneously short and long - a three minute constructive is plenty of time to say what you need to, so long as you plan well ahead of time.  Use all of your time effectively but do not go over.
+7. Speak quickly if you can, but above all else, be clear and calm. If you want to perform well you must practice giving your constructive speech at least twice.
+8. Use resources from class, including readings and lectures, as well as material from outside class.  Consider the optional readings listed in the course agenda. They are there to help you. 
+11. Remember: if you want to win, you need to focus on persuading the jury. How many times have you been in an argument with someone and find yourself thinking, *“oh my god, why don’t you understand?! The evidence is right there!”*?  Facts alone don’t win arguments. *Persuasion* wins arguments. 
+
+## The Constructive 
+
+1. Use the following format for your constructive speech:
+    - Claim I (The first point you argue.  Literally say, “Our first claim is that . . . “)
+        - Warrant (“This is true because…”)
+        - Evidence (reference sources to add authority to your claim; the more well known and respected, the better)
+        - Impact (“This is important because…”)
+    - Claim II (The second point you argue)
+        - Warrant
+        - Evidence
+        - Impact
+    - Claim III (The third point you argue)
+        - Warrant
+        - Evidence
+        - Impact
+2. Using three claims nicely maps on to three minutes.  That said, you can increase or decrease the number of claims if you think it important.  Just remember that quality matters. Too few substantive claims, and it seems like you don't have much to say; too many claims and the jury loses track of your argument.
+
+## The Cross Examination
+1. Avoid the trap of over explaining in either question or response. The most memorable points are quick and pithy. 
+    - If you're asking too long a question, both the other team and the jury will lose track of what you're asking.[^oq] 
+    - If you’re over explaining in response, you’re probably losing. More time spent in response is more time spent in your opponent's frame of the debate terms, and less time in yours. 
+2. In questions, go on the offensive and ask questions that you know your opponents don’t have good answers for. Good examples of questions include:
+    - Testing assumptions: "Does your argument depend on . . . "
+    - Highlight tradeoffs: "Does your policy require sacrificing . . . "
+    - Clarifications: "What exactly do you mean by . . ."
+    - Lock in concessions: "Do you agree that . . . "
+3. In responses, answer honestly, but remember that too much time in response is time that you're not spending pressing your opponent on the weaknesses in their arguments. Many best responses tend to deflect quickly, rather than parry fully.[^parry]
+    - Parry: "That's wrong because . . . "
+    - Deflect: "Even if that were true, it doesn't matter/doesn't undermine our claim because . . . "
+3. Remember: The cross examination is more typically won by asking good questions rather than having good responses.  Prepare accordingly.  A strong cross-examination plan can (and should) be written before debate day and probably needs only small tweaks and adjustments within the debate itself.
+
+[^oq]: You have all other parts of the debate to speech-ify.  This is your time to extract concessions from your opponents directly.
+[^parry]: An important caveat: if you deflect, rather than parry, a very legitimate question, the jury will likely see you as evasive and not engaging with the substance of the debate.
+
+## Rebuttal and Final Focus
+1. The rebuttal and final focus have related but different purposes. 
+    - The *rebuttal* is where you rebut and reinforce arguments, telling the jury why your opponents are wrong and you are right.  
+    - The *final focus* is where you focus the jury on why you should win the debate. It introduces no new arguments; it exists to crystallize what has come before.
+2. The rebuttal expands and contracts according to the scale of the arguments made. You want to be exhaustive, but remember that there is a limit to how many points can be remembered by a jury, so choose wisely. 
+5. In the final focus, use a similar format to the constructive:
+    - "Members of the jury, here is why we’ve won today’s round:"
+        - Reason (Tell the jury very literally why they should vote for you)
+        - Reason
+        - Reason 
+
+

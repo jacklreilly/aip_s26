@@ -1,0 +1,106 @@
+---
+title: "Debate Guidelines"
+
+---
+
+
+## Overview
+
+- A structured debate is a deliberation around a **resolution**.  
+- There are two sides: 
+    - One team **affirms** (supports) the resolution;
+    - Another team **negates** (opposes) the resolution.  
+- Each team offers facts, evidence, and argumentation in favor of their side.
+- Our class debates are team-based modified Lincoln-Douglas[^ld] debates. They have four phases:
+    1. **Constructive** (3 min per team)
+        - *1 min prep*
+    2. **Cross-Examination** (5 min total, back and forth)
+		- *2 min prep*
+    3. **Rebuttal** (2 min per team)
+		- *1 min prep*
+    4. **Final Focus** (1 min per team)
+- In addition to the two debating teams, there is a **jury** who deliberates and delivers a verdict (winner and opinion).
+- The debate round is timed by the **judge** so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them. The judge also enforces procedure.
+
+## Debate Schedule
+
+Each debate class will have two debates: a graduate debate followed by an undergraduate debate.  The affirmative team goes first in each debate, sitting to the judge's left (jury's right).
+
+: Schedule
+
+| Debate | Affirm | Negate | Jury |
+|:----:|:------|:------|:------------------------------|
+| 1 | Team 1 | Team 2 | Team 3 |
+| 2 | Team 2 | Team 3 | Team 1 |
+| 3 | Team 3 | Team 1 | Team 2 |
+| 4 | Team 2 | Team 1 | Team 3 |
+| 5 | Team 3 | Team 2 | Team 1 |
+| 6 | Team 1 | Team 3 | Team 2 |
+
+## The Debate Teams
+
+There are at least six roles per debating team. Different team members should take the lead in presenting different debate components.  Teams are encouraged, although not required, to vary who takes lead on each component across different debates as well.
+
+1. Constructive
+2. Cross-Examination: Questioner
+3. Cross-Examination: Responder
+4. Cross-Examination: Note-taker[^nt]
+5. Rebuttal 
+6. Final Focus
+
+[^nt]: The only role that does not have a direct speaking part, but a critical role for keeping track of concessions and important points to return to, helping both the rebuttal and final focus deploy their arguments.  In five person teams, there is no formal note-taker, and the role is filled by those in the rebuttal and final focus positions.
+
+In addition to each role being filled by one person, each role should also have an "understudy". Understudies are prepared to play that role in the event of an unexpected absence by the lead. 
+
+It is up to individual teams to equitably fill out debate roles. Each role can play to the strengths of different individuals. The constructive, for instance, is a three minute delivered speech, and possibly the single most important part of the debate - but is also the only portion that can be fully prepared in advance. It is good for a person who is a dynamic speaker but who may not be as strong thinking on their feet. All other components are a mix of pre-prepared material as well as adjustments that happen in real time.
+
+Finally, while student take roles, it is the entire team's responsibility to coordinate and prepare for each debate; it should not be the case that the person delivering the constructive is the only person to take part in writing it.[^prep] 
+
+[^prep]: An unprepared individual section reflects not just on the person delivering it, but the whole team.  
+
+## The Jury
+
+- The debate team *not* debating serves as the jury. The jury takes no speaking part in the debate, but does deliver the verdict once the debate is completed.[^grade] 
+- The jury must attempt to be as even handed and open-minded as possible: do not judge based upon which side you began thinking was the “correct” answer; judge based upon which side you think debated more effectively and persuaded toward their side. 
+- Jury deliberations take place after class debates have finished. The judge will set the jury deliberation time limit. Juries should hold votes on the victor (majority rule) and then deliver a verdict along with a brief opinion. The jury foreperson delivers the opinion of the jury for each debate. 
+
+## Logistics
+
+- In the debate, written materials are secondary to oral delivery of arguments. The only exception to this are your references, which each team must submit on paper to their opponents, judge, and jury *before* the debate to back up any specific factual claims made in the debate. 
+- For any specific fact-based claim your team makes, the opposition may challenge you to support that fact with a reference. If challenged, if you cannot support the fact with a specific citation on your reference sheet, the jury is instructed to disregard the claim.
+- Normal class rules on etiquette apply: I encourage you to have fun with the debate and get into it, but remember that you are debating a resolution, not people. Do not make it personal or attack the other team in ad hominem fashion. Professional disagreement is expected, disrespect is not.
+- Appeals or complaints on process, fairness, etc, are made to the judge. The judge, however, is primarily a glorified timekeeper: most appeals are unsuccessful so long as teams stay within time limits and maintain appropriate decorum. It is up to the teams themselves to resolve substantive disputes about content.
+- Both teams must agree, a week and a half before the debate, on the policy for AI usage for debate preparation. Once made, this decision is binding on both teams and cannot be changed.
+- If time runs out mid-sentence, speakers must stop immediately. I recommend keeping time yourself. 
+
+[^ld]: I tell you this intentionally so that you can, if you wish, go look up strategy for Lincoln-Douglas debate styles.  The modifications made are inspired partially by Public Forum debates and partially to allow for team-based debate.
+
+[^grade]: Debate grades are independent of jury deliberations and are assessed by the judge.
+
+
+## What to Bring and Prepare
+
+1. Typed case papers that are, word for word, what you will deliver for your constructive.
+2. Your sources. (Which you will submit).
+3. Questions for your opponents in the cross-examination. (These can be edited briefly after the constructive round, but you will not have enough time in debate to write good questions without preparing ahead of time.)
+4. Any notes that will help you prepare for the rebuttal and final focus.  You will not have time to draft a full word for word speech in the debate, so it's good to have some pieces that you can build from.
+5. A way to take notes on what your opponents say.  You may find pen and paper more useful for this than a laptop (and will almost certainly find touch-based devices not useful.)
+
+## Assessment
+
+Each team is assessed on a check scale. 
+
+: Debate Performance Rubric
+
+| Grade |  | Points | Description |
+|:----:|:------|:------|:------------------------------|
+| ✔️➕ | | 5 | Strong, persuasive debate |
+| ✔️ |  | 4 | Strong debate |
+| ✔️➖ |  | 3 | Acceptable debate, but with weaknesses |
+| ➖ |  | 2 | Minimally acceptable; unpersuasive |
+
+
+
+## Final Comments
+
+Good debates are like good [jazz](https://www.youtube.com/watch?v=ryA6eHZNnXY): free flowing, improvisational, and adaptable, encompassing both conflict and resolution, but grounded in a shared structure that keeps all players focused. Each part is but a piece of the whole. I encourage you to have fun with each debate, but remember that preparation is necessary for debates to go well, and your team needs to coordinate work toward a common debate strategy. Even the best debaters, if given no prep time, can still get overwhelmed by debate novices who are well prepared. Good luck!

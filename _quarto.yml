@@ -60,14 +60,16 @@ website:
       #logo: images/pai600_dwv_logo2.svg
       contents:
         - section: "Debates"
-          href: work/index.qmd
+          href: work/dguidelines.qmd
           contents:
-          - work/d1.qmd
-          - work/d2.qmd
-          - work/d3.qmd
-          - work/d4.qmd
-          - work/d5.qmd
-          - work/d6.qmd
+          - work/d1guidelines.qmd
+          - work/dtips.qmd
+          - work/d1res.qmd
+          - work/d2res.qmd
+          - work/d3res.qmd
+          - work/d4res.qmd
+          - work/d5res.qmd
+          - work/d6res.qmd
 
         - section: "Assignments"
           href: work/index.qmd

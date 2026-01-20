@@ -1,9 +1,0 @@
----
-title: "Debate 2"
-subtitle: "Title"
----
-
-
-## Overview
-
-Nothing to see here yet
