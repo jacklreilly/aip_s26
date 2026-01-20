@@ -60,9 +60,9 @@ website:
       #logo: images/pai600_dwv_logo2.svg
       contents:
         - section: "Debates"
-          href: work/dguidelines.qmd
+          href: work/index.qmd
           contents:
-          - work/d1guidelines.qmd
+          - work/dguidelines.qmd
           - work/dtips.qmd
           - work/d1res.qmd
           - work/d2res.qmd
