@@ -6,3 +6,9 @@ title: "3.2 - Debate I"
 
 - Debate I: "**An entity that passes the Turing Test is intelligent.**"
 - See [debate information pages](../work/d1res.qmd) for details.
+
+#### 📝 Submit:
+
+- On paper:
+    - References list (for debate teams)
+    - Debate roles (for debate teams; to professor)
