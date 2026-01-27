@@ -13,17 +13,18 @@ title: "4.1 - Computation"
     - *recommended, but not required:* "[Transformers explained visually](https://www.youtube.com/watch?v=wjZofJX0v4M)"
 
 #### 🎧 Listen: 
-- *Complexity Podcast* Episode 3: What Kind of Intelligence is an LLM?
+- *Complexity Podcast* [Episode 3: What Kind of Intelligence is an LLM?](https://complexity.simplecast.com/episodes/nature-of-intelligence-ep-3-what-kind-of-intelligence-is-an-llm)
 
 #### 🌐 Browse:
-  - Hicks et al, "ChatGPT is Bullshit" *Ethics and Information Technology*
+  - Hicks et al, "[ChatGPT is Bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)" *Ethics and Information Technology*
   - Wolfram, S. "[What is ChatGPT doing?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)"
   - A few items on evaluating AI Intelligence:
-    - Humanity's Last Exam: [Website](https://www.lastexam.ai) and article: Phan et al, *[Humanity's Last Exam](https://arxiv.org/pdf/2501.14249)*
+    - Humanity's Last Exam: [website](https://www.lastexam.ai) and article: Phan et al, *[Humanity's Last Exam](https://arxiv.org/pdf/2501.14249)*
     - Ullman, "[Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks](https://arxiv.org/pdf/2302.08399)"
     - Mitchell, "[How do we know how smart AI systems are?](https://www.science.org/doi/10.1126/science.adj5957)"
 
 #### 📚 Additional Resources:
+  - Complexity Podcast, [Episode 2: The Relationship Between Language and Thought](https://complexity.simplecast.com/episodes/nature-of-intelligence-ep-2-the-relationship-between-language-and-thought).  *We (regrettably) won't get to this episode of the Complexity podcast in our class, but this is a good time to listen to it if you have time.*
   - Only a few videos from 3Blue1Brown's series on Neural Networks are assigned above, but the entire sequence is worth watching for a non-technical overview: <https://www.3blue1brown.com/topics/neural-networks>
   - Witt, Stephen. *The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip* is worth reading in its entirety, but in particular, chapter 6, "Jellyfish" is an excellent non-technical overview of neural nets
   - Similarly, the *[Crash Course: Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)* series provides a high level overview of many current AI principles

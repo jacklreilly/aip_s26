@@ -14,6 +14,7 @@ title: "3.1 - Embodied Intelligence, Agency, and Responsibility"
 - Mitchell, et al. "[Fully Autonomous AI Agents Should Not be Developed](https://arxiv.org/abs/2502.02649)"
 
 #### 🌐 Browse:
+- Bostrom, "[Ethical Issues in Artificial Intelligence](https://nickbostrom.com/ethics/ai)" *The source of the famous "paperclip" argument*
 - Liu and Wu, [“A Brief History of Embodied Artificial Intelligence, and its Outlook”](https://cacm.acm.org/blogcacm/a-brief-history-of-embodied-artificial-intelligence-and-its-future-outlook/)
 - [“NHTSA Finds Teslas Deactivated Autopilot Seconds Before Crashes”](https://www.motortrend.com/news/nhtsa-tesla-autopilot-investigation-shutoff-crash)
 - Ziegler, Bart. 2023. [“When Will Cars Be Fully Self Driving?”](https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc)
