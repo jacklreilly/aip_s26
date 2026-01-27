@@ -9,41 +9,80 @@ format:
 
 ## 🗓️  Course Schedule
 
-|  | Week | Tuesday | Thursday |  |
-|--:|:------|:-----------|:-----------|:-|
-|  | **Unit I** | **What is AI?** |  |  |
-| 1 | *Jan 13* | [Class Introduction](content/w11.qmd) | [Intelligence, Consciousness, Sentience](content/w12.qmd) | |
-| 2 | *Jan 20* | *Crash Course*: [Emergence & Systems Thinking](content/w21.qmd) | [Evaluating Intelligence](content/w22.qmd) | |
-| 3 | *Jan 27* | [AI Embodiment, Agency, & Responsibility](content/w31.qmd) | **[Debate I](content/w32.qmd)** | |
-|
-|  | **Unit II** | **AI and Technology** |  |  |
-| 4 | *Feb 3*  | *Crash Course*: Computation | Language and Intelligence | |
-| 5 | *Feb 10* | Data Privacy | **Debate II** | |
-|
-|  | **Unit III** | **Building AI: Business and Economics** |  |  |
-| 6 | *Feb 17* | *Crash Course*: Building AI: Business & Economics | Energy | |
-| 7 | *Feb 24* | Labor Replacement I | **Debate III** | |
-|
-|  | **Unit IV** | **AI and the World** |  |  |
-| 8 | *Mar 3*  | **Core Exam** | *Crash Course*: AI & The World | |
-| 9 | *Mar 17* | AI Geopolitics | **Debate IV** | |
-|
-|  | **Unit V** | **AI and Policy** |  |  |
-|10 | *Mar 24* | *Crash Course*: Governance and AI | Labor Replacement II | |
-|11 | *Mar 31* | Democracy & AI | **Debate V** | |
-|
-|  | **Unit VI** | **AI and Humanity** |  |  |
-|12 | *Apr 7*  | *Crash Course*: Harms of AI | Authoritarianism and AI | |
-|13 | *Apr 14* |   Singularities, xRisk, & AGI | **Debate VI** | |
-|14 | *Apr 21* | **Final Presentations** | **Final Presentations** | |
-|   |      | *Finals Week* | | |
+## Unit I | *Philosophy*
 
+| Week | Date | Topic |
+|:--|:--|:--|
+| 1.1 | *Jan 13* | [Class Introduction](content/w11.qmd) |
+| 1.2 | *Jan 15* | [Intelligence, Consciousness, Sentience](content/w12.qmd) |
+| 2.1 | *Jan 20* | *Crash Course*: [Emergence Phenomena & Systems Thinking](content/w21.qmd) |
+| 2.2 | *Jan 22* | [Evaluating Intelligence](content/w22.qmd) |
+| 3.1 | *Jan 27* | [AI Embodiment, Agency, & Responsibility](content/w31.qmd) |
+| 3.2 | *Jan 29* | **[Debate I](content/w32.qmd)** |
+
+
+
+## Unit II | *Technology*
+
+| Week | Date | Topic |
+|:--|:--|:--|
+| 4.1 | *Feb 3* | *Crash Course*: [Designing AI: Computers & Technology](content/w41.qmd) |
+| 4.2 | *Feb 5* | [Data Privacy](content/w42.qmd) |
+| 5.1 | *Feb 10* | [Energy](content/w51.qmd) |
+| 5.2 | *Feb 12* | **[Debate II](content/w52.qmd)** |
+
+
+
+## Unit III | *Business*
+
+| Week | Date | Topic |
+|:--|:--|:--|
+| 6.1 | *Feb 17* | *Crash Course*: [Building AI: Business & Economics](content/w61.qmd) |
+| 6.2 | *Feb 19* | [Financing AI](content/w62.qmd) |
+| 7.1 | *Feb 24* | [Labor Replacement I](content/w71.qmd) |
+| 7.2 | *Feb 26* | **[Debate III](content/w72.qmd)** |
+
+
+
+## Unit IV | *Geopolitics*
+
+| Week | Date | Topic |
+|:--|:--|:--|
+| 8.1 | *Mar 3* | **[Core Exam](content/w81.qmd)** |
+| 8.2 | *Mar 5* | *Crash Course*: [Negotiating AI: Geopolitics & The World](content/w82.qmd) |
+| 9.1 | *Mar 17* | [Geopolitics](content/w91.qmd) |
+| 9.2 | *Mar 19* | **[Debate IV](content/w92.qmd)** |
+
+
+## Unit V | *Public Policy*
+
+| Week | Date | Topic |
+|:--|:--|:--|
+| 10.1 | *Mar 24* | *Crash Course*: [Managing AI: Domestic Politics & Governance](content/w101.qmd) |
+| 10.2 | *Mar 26* | [Labor Replacement II (or education)](content/w102.qmd) |
+| 11.1 | *Mar 31* | [Democracy & AI](content/w111.qmd) |
+| 11.2 | *Apr 2* | **[Debate V](content/w112.qmd)** |
+
+
+
+## Unit VI | *Humanity*
+
+| Week | Date | Topic |
+|:--|:--|:--|
+| 12.1 | *Apr 7* | *Crash Course*: [Assessing AI: Harms, Implications, and Futures](content/w121.qmd) |
+| 12.2 | *Apr 9* | [Authoritarianism and AI](content/w122.qmd) |
+| 13.1 | *Apr 14* | [Singularities, xRisk, & AGI](content/w131.qmd) |
+| 13.2 | *Apr 16* | **[Debate VI](content/w132.qmd)** |
+| 14.1 | *Apr 21* | **[Final Presentations](content/w141.qmd)** |
+| 14.2 | *Apr 23* | **[Final Presentations](content/w142.qmd)** |
 
 *This is a tentative course schedule.  Content subject to change.*
 
 **Key**
 
 *Crash Course* - lecture day; no student discussion leader
+
+## 🗒️ Notes
 
 **A Note on Readings**
 

@@ -45,7 +45,7 @@ title: "Debate Tips"
 3. In responses, answer honestly, but remember that too much time in response is time that you're not spending pressing your opponent on the weaknesses in their arguments. Many best responses tend to deflect quickly, rather than parry fully.[^parry]
     - Parry: "That's wrong because . . . "
     - Deflect: "Even if that were true, it doesn't matter/doesn't undermine our claim because . . . "
-3. Remember: The cross examination is more typically won by asking good questions rather than having good responses.  Prepare accordingly.  A strong cross-examination plan can (and should) be written before debate day and probably needs only small tweaks and adjustments within the debate itself.
+4. Remember: The cross examination is more typically won by asking good questions rather than having good responses.  Prepare accordingly.  A strong cross-examination plan can (and should) be written before debate day and probably needs only small tweaks and adjustments within the debate itself.
 
 [^oq]: You have all other parts of the debate to speech-ify.  This is your time to extract concessions from your opponents directly.
 [^parry]: An important caveat: if you deflect, rather than parry, a very legitimate question, the jury will likely see you as evasive and not engaging with the substance of the debate.
@@ -55,7 +55,7 @@ title: "Debate Tips"
     - The *rebuttal* is where you rebut and reinforce arguments, telling the jury why your opponents are wrong and you are right.  
     - The *final focus* is where you focus the jury on why you should win the debate. It introduces no new arguments; it exists to crystallize what has come before.
 2. The rebuttal expands and contracts according to the scale of the arguments made. You want to be exhaustive, but remember that there is a limit to how many points can be remembered by a jury, so choose wisely. 
-5. In the final focus, use a similar format to the constructive:
+3. In the final focus, use a similar format to the constructive:
     - "Members of the jury, here is why we’ve won today’s round:"
         - Reason (Tell the jury very literally why they should vote for you)
         - Reason

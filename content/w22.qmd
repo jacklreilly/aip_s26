@@ -24,6 +24,7 @@ title: "2.2 - Evaluating Intelligence"
 - [“The Turing Test”](https://plato.stanford.edu/entries/turing-test/), *Stanford Encyclopedia of Philosophy*
 - [“The Chinese Room Argument”](https://plato.stanford.edu/entries/chinese-room/), *Stanford Encyclopedia of Philosophy*
 - Boden, [Escaping from the Chinese Room](http://faculty.las.illinois.edu/rrushing/395/ewExternalFiles/Boden.pdf)
+- Dennett, [The Intentional Strategy and Why it Works](https://danielwharris.com/teaching/268/readings/Dennett.pdf)
 
 
 #### 📝 Submit:

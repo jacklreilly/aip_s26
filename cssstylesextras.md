@@ -1,3 +1,6 @@
+preferred navbar color
+#e8bc00
+
 /* css styles */
 
 #quarto-content h1 { color:  ;}

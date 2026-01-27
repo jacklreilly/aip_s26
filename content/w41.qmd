@@ -1,34 +1,42 @@
 ---
-title: "2.2 - Debate I"
+title: "4.1 - Computation"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
-
-#### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
+- *How do computers work? Can they ”simulate” minds? Or can they be minds? Practically, what goes into making a computer, and how do technological constraints structure the nature of AI itself?*
 
 #### 📺 Watch: 
-- test
+- Veritasium, "[The World's Most Important Machine](https://www.youtube.com/watch?v=MiUHjLxm3V0)"
+- CGP Grey, "[How Machines Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)" *(Note: this video has been retitled "How AI, like ChatGPT, learns")*
+    - and "[How Machines *Really* Learn](https://www.youtube.com/watch?v=wvWpdrfoEv0)" *New Title: How AI, like ChatGPT, really learns*
+- 3Blue1Brown, "[Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)"
+    - *recommended, but not required:* "[Transformers explained visually](https://www.youtube.com/watch?v=wjZofJX0v4M)"
+
+#### 🎧 Listen: 
+- *Complexity Podcast* Episode 3: What Kind of Intelligence is an LLM?
 
 #### 🌐 Browse:
-- test
+  - Hicks et al, "ChatGPT is Bullshit" *Ethics and Information Technology*
+  - Wolfram, S. "[What is ChatGPT doing?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)"
+  - A few items on evaluating AI Intelligence:
+    - Humanity's Last Exam: [Website](https://www.lastexam.ai) and article: Phan et al, *[Humanity's Last Exam](https://arxiv.org/pdf/2501.14249)*
+    - Ullman, "[Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks](https://arxiv.org/pdf/2302.08399)"
+    - Mitchell, "[How do we know how smart AI systems are?](https://www.science.org/doi/10.1126/science.adj5957)"
 
 #### 📚 Additional Resources:
-- test
-
-#### 📝 Submit:
-  - Discussion question to course chat
+  - Only a few videos from 3Blue1Brown's series on Neural Networks are assigned above, but the entire sequence is worth watching for a non-technical overview: <https://www.3blue1brown.com/topics/neural-networks>
+  - Witt, Stephen. *The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip* is worth reading in its entirety, but in particular, chapter 6, "Jellyfish" is an excellent non-technical overview of neural nets
+  - Similarly, the *[Crash Course: Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)* series provides a high level overview of many current AI principles
+  - There is also a *[Crash Course: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)* for more about computers themselves
+  - Finally, if you are already statistically inclined, the final episodes of *[Crash Course: Statistics](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW3iJO4T0qUeUEp_X-f1U7S)* also cover elements of machine learning and big data analysis building off of core statistical concepts
+  - Rumelhart, "The Architecture of the Mind: A Connectionist Approach" *Mind Design III*
+  - Churchland and Sejnowski, "The Computational Brain" *Mind Design III*
+  - Cowie and Woodard, "The Mind is Not (Just) a System of Modules Shaped (Just) by Natural Selection" *Mind Design III*
+  - Vaswani et al, "[Attention Is All You Need](https://arxiv.org/abs/1706.03762)"  (Google paper)
 
 ::: {.callout-tip}
 ### Tip
  - "📖 Read", "🎧 Listen", and/or "📺 Watch" items are required content for the day, and should be read/heard/watched before class on that day.
  - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
  - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
- :::
+:::

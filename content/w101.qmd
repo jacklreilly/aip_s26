@@ -1,5 +1,5 @@
 ---
-title: "2.2 - Debate I"
+title: "Placeholder - Check Back Later"
 ---
 
 #### ⚖️ Debate!
@@ -31,4 +31,4 @@ title: "2.2 - Debate I"
  - "📖 Read", "🎧 Listen", and/or "📺 Watch" items are required content for the day, and should be read/heard/watched before class on that day.
  - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
  - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
- :::
+:::
