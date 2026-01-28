@@ -1,34 +1,14 @@
 ---
-title: "Placeholder - Check Back Later"
+title: "5.2 - Debate II"
 ---
 
 #### ⚖️ Debate!
-- *test*
 
-#### 🧠 Think: 
-- *test*
-
-#### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
-
-#### 📺 Watch: 
-- test
-
-#### 🌐 Browse:
-- test
-
-#### 📚 Additional Resources:
-- test
+- Debate I: **The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.**
+- See [debate information pages](../work/d2res.qmd) for details.
 
 #### 📝 Submit:
-  - Discussion question to course chat
 
-::: {.callout-tip}
-### Tip
- - "📖 Read", "🎧 Listen", and/or "📺 Watch" items are required content for the day, and should be read/heard/watched before class on that day.
- - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
- - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
-:::
+- On paper:
+    - References list (for debate teams)
+    - Debate roles (for debate teams; to professor)

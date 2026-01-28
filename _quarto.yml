@@ -54,8 +54,9 @@ website:
           href: content/index.qmd
           contents:
           - content/w41.qmd
-
-
+          - content/w42.qmd
+          - content/w51.qmd
+          - content/w52.qmd
 
     - id: work
       style: docked

@@ -1,27 +1,25 @@
 ---
-title: "Placeholder - Check Back Later"
+title: "5.1 - Energy"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
+- *How do we manage the massive energy demands of AI?*
 
 #### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
-
-#### 📺 Watch: 
-- test
+- Chen, 2025. "[How much energy will AI really consume? The good, the bad, and the unknown](https://www.nature.com/articles/d41586-025-00616-z)" *Nature*
+- Stover, 2024. "[AI goes nuclear](https://thebulletin.org/2024/12/ai-goes-nuclear/)" *The Bulletin of the Atomic Scientists*
 
 #### 🌐 Browse:
-- test
+  - Ars Technica, "[Can we make AI less power-hungry? These researchers are working on it.](https://arstechnica.com/ai/2025/03/can-we-make-ai-less-power-hungry-these-researchers-are-working-on-it/)"
+  - The Economist, "[How safe is nuclear energy?](https://www.economist.com/graphic-detail/2022/07/19/how-safe-is-nuclear-energy)"
+  - Mandler, 2024. "[Three Mile Island nuclear plant will reopen to power Microsoft data centers](https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai)"
+  - Erdenesanaa, 2024. "[A.I. Could Soon Need as Much Electricity as an Entire Country](https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricity-as-an-entire-country.html)" *NYTimes*
+  - Goldman Sachs, "[Is nuclear energy the answer to AI data centers' power consumption?](https://www.goldmansachs.com/insights/articles/is-nuclear-energy-the-answer-to-ai-data-centers-power-consumption)"
+  - Bacquero, "[The Energy Footprint of Humans and Large Language Models](https://cacm.acm.org/blogcacm/the-energy-footprint-of-humans-and-large-language-models/)"
+
 
 #### 📚 Additional Resources:
-- test
+- Crawford, 2022. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence.* Yale.
 
 #### 📝 Submit:
   - Discussion question to course chat
@@ -32,3 +30,4 @@ title: "Placeholder - Check Back Later"
  - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
  - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
 :::
+
