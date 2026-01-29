@@ -1,11 +1,33 @@
 ---
-title: "Assignment 1"
+title: "Assignment 1 - Using LLMs"
 format: 
     html: default
     pdf: default
 ---
 
+## Instructions
 
-## Overview
+For this assignment, choose your favorite LLM (it can be anything, free or otherwise - ChatGPT, Gemini, Claude, Grok, etc). Use it to answer the following questions.
 
-Nothing to see here yet
+1. Ask the LLM to write a paper on a topic of your choosing. It should be a topic that you know *very* well, so that you can identify correct and incorrect information easily. The topic doesn't have to be directly related to policy.[^fn] Feel free to specify the question however you want, but make sure it looks like a "regular" essay prompt: there should be details about topic, page length requirements, bibliographic expectations, etc.
+2. Once you are satisfied with your prompt, give it to your chosen LLM. Then, grade the LLM's answer, looking for style, prose, accuracy, and overall argumentation. In your grade, provide both a letter grade (A to F) and, more critically, a justification for that grade. What did the LLM do well? What did it do poorly? Are there any factual inaccuracies or hallucinations? Is there anything that really should have been included in the essay, but wasn't? Did it follow proper formatting and length requirements?
+3. Give the LLM feedback on its first essay and ask for improvements. Then, assess the improvements. Did the LLM accurately correct mistakes?
+4. Reflect on the process. In other assignments where you are allowed to use LLMs, how does this experience inform your future use of LLMs? How can you best utilize this tool while still taking responsibility for the quality of the final product?
+
+[^fn]: In fact, it might be better if it isn't! If you want to make it about policy, that's perfectly ok, but it's more important you know the topic very well, so that you are able to easily assess the results of your prompting.
+
+## Submission
+
+Your submission should include:
+
+1. Your original prompt to your LLM (and an identification of what LLM you used), along with the LLM's original answer.
+2. Your grade and assessment of the LLM's answer (~500 words).
+3. The feedback you gave the LLM and the LLM's new answer.
+4. A brief assessment of whether the new answer met expectations (~200 words).
+5. A reflection on the quality of the LLM's answer and process (~200 words).
+
+You should also be prepared to briefly discuss your assignment in class.
+
+## Deadline
+
+This assignment is due **February 19** (Week 6.2) to Blackboard as a PDF.

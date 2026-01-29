@@ -1,5 +1,5 @@
 ---
-title: "Debate 2"
+title: "Debate 2 - Technology"
 ---
 
 
@@ -15,5 +15,5 @@ title: "Debate 2"
 ## Judge's Notes
 
 - This debate has the same general form as Debate #1. All the same things apply: think carefully about what the resolution is actually about and how you want to frame the debate.
-- Unlike the first debate, however, this resolution has an increased role for external research. You may wish to learn more about details of the resolution (methods and mechanisms of energy production; AI demand for energy; methods of energy production; the current role the state has in energy; etc). 
+- Unlike the first debate, however, this resolution has an increased role for external research. You may wish to learn more about details of the resolution (methods and mechanisms of energy production; AI demand for energy; the current role the state has in energy; etc). 
 - That said, make sure to think about the right level of detail: this is a short-form debate, not an extended white paper, so while you need evidence, getting too deep into the weeds of energy policy may not be to your advantage.

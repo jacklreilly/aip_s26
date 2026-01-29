@@ -5,7 +5,57 @@ format:
     pdf: default
 ---
 
+## Possible Topics 
 
-## Overview
+Choose one of the following.
 
-Nothing to see here yet
+1. Choose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:
+   - A definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?
+   - An assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?
+   - The policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?
+   - Discussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up "winning" and "losing"?
+2. Identify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.
+3. Write a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.
+4. Choose your own topic! Students selecting this option must have their project approved by the professor.
+
+## Requirements
+
+You will need to prepare a paper and a class presentation around your chosen topic.
+
+### Papers
+
+Papers should be double-spaced in 12 point font with one inch margins. Papers should also include proper citations and a works cited page. Any style formatting is acceptable, so long as it is internally consistent. I encourage in-text citations and the use of footnotes over endnotes.
+
+**Undergraduate**: 8-10 pages
+
+**Graduate**: 14-16 pages
+
+### Presentations
+
+Presentations should be designed in a graphically compelling fashion and practiced ahead of time. Professionalism counts! You should be in command of your material, and be ready to answer audience questions about your project proposal after you finish.  Exact length constraints will depend on the number of presentations, but you should imagine targeting about 5-7 minutes, with groups being allocated slightly more time.
+
+### Collaboration
+
+You may work individually or in a group of up to three for this final project. Those working in groups should prepare papers that meet the following length requirements:
+
+**Undergraduate**: $length = (6+3x) \pm 1$
+
+**Graduate**: $length = (10+5x) \pm 1$
+
+Where $x$ is the number of people working in the group and $length$ is paper length measured in pages.  Collaborative projects should be understood as full co-authorships: all group members are responsible for all content, and they should read (and be presented) like a coherent whole, not as separate uncoordinated mini-papers assembled within an umbrella document.
+
+### AI Policy
+
+You may use AI to assist you in the creation of your projects. You must disclose what AIs you used, and how and for what purpose you used them, in an appendix. (Did you use it to search for literature? For explanations of policy areas or policy problems? To assist in the creation of a draft or in editing?)
+
+If you use AI, remember what we have discussed in our class: AI has its uses, but you must also be aware of its weaknesses. AI prose is often poor from an academic perspective, and typically lacks precision, commitment, and clarity of original thought. LLMs can also have an uncomfortably loose relationship with truth. Accordingly, I would suggest that it is appropriate to use AI to assist you in automating research tasks, but also strongly encourage you not to substitute it for your own writing, thoughts, judgment, and proposal.
+
+### Deadlines
+
+- March 26: Topics must be chosen and submitted (and approved, if necessary). See [Assignment 2](assign2.qmd).
+- Week 14: Presentations will be given in class during the final week of class, with exact days TBD.
+- May 1: Papers due. Papers should incorporate feedback from the presentation.
+
+## Submit
+
+Papers and slides to Blackboard; PDF format. Don't forget your AI appendix (even if to say you did not use AI) and your works cited page.

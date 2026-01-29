@@ -27,7 +27,7 @@ format:
 | Week | Date | Topic |
 |:--|:--|:--|
 | 4.1 | *Feb 3* | *Crash Course*: [Designing AI: Computers & Technology](content/w41.qmd) |
-| 4.2 | *Feb 5* | [Data Privacy](content/w42.qmd) |
+| 4.2 | *Feb 5* | [Data Privacy and Algorithmic Bias](content/w42.qmd) |
 | 5.1 | *Feb 10* | [Energy](content/w51.qmd) |
 | 5.2 | *Feb 12* | **[Debate II](content/w52.qmd)** |
 
@@ -59,7 +59,7 @@ format:
 | Week | Date | Topic |
 |:--|:--|:--|
 | 10.1 | *Mar 24* | *Crash Course*: [Managing AI: Domestic Politics & Governance]() |
-| 10.2 | *Mar 26* | [Labor Replacement II (or education)]() |
+| 10.2 | *Mar 26* | [Labor Replacement II]() |
 | 11.1 | *Mar 31* | [Democracy & AI]() |
 | 11.2 | *Apr 2* | **[Debate V]()** |
 
