@@ -217,121 +217,157 @@
   {
     "objectID": "work/d4res.html",
     "href": "work/d4res.html",
-    "title": "Debate 4",
+    "title": "Debate 4 - Geopolitics",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 4"
+      "Debate 4 - Geopolitics"
     ]
   },
   {
     "objectID": "work/d4res.html#resolution",
     "href": "work/d4res.html#resolution",
-    "title": "Debate 4",
+    "title": "Debate 4 - Geopolitics",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 4"
+      "Debate 4 - Geopolitics"
     ]
   },
   {
     "objectID": "work/d4res.html#amendments-and-adjustments",
     "href": "work/d4res.html#amendments-and-adjustments",
-    "title": "Debate 4",
+    "title": "Debate 4 - Geopolitics",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nTBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 4"
+      "Debate 4 - Geopolitics"
     ]
   },
   {
     "objectID": "work/d4res.html#judges-notes",
     "href": "work/d4res.html#judges-notes",
-    "title": "Debate 4",
+    "title": "Debate 4 - Geopolitics",
     "section": "Judge’s Notes",
     "text": "Judge’s Notes",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 4"
+      "Debate 4 - Geopolitics"
     ]
   },
   {
     "objectID": "work/d3res.html",
     "href": "work/d3res.html",
-    "title": "Debate 3",
+    "title": "Debate 3 - Business",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 3"
+      "Debate 3 - Business"
     ]
   },
   {
     "objectID": "work/d3res.html#resolution",
     "href": "work/d3res.html#resolution",
-    "title": "Debate 3",
+    "title": "Debate 3 - Business",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 3"
+      "Debate 3 - Business"
     ]
   },
   {
     "objectID": "work/d3res.html#amendments-and-adjustments",
     "href": "work/d3res.html#amendments-and-adjustments",
-    "title": "Debate 3",
+    "title": "Debate 3 - Business",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nTBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 3"
+      "Debate 3 - Business"
     ]
   },
   {
     "objectID": "work/d3res.html#judges-notes",
     "href": "work/d3res.html#judges-notes",
-    "title": "Debate 3",
+    "title": "Debate 3 - Business",
     "section": "Judge’s Notes",
     "text": "Judge’s Notes",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 3"
+      "Debate 3 - Business"
     ]
   },
   {
     "objectID": "work/assign1.html",
     "href": "work/assign1.html",
-    "title": "Assignment 1",
+    "title": "Assignment 1 - Using LLMs",
     "section": "",
-    "text": "Nothing to see here yet",
+    "text": "For this assignment, choose your favorite LLM (it can be anything, free or otherwise - ChatGPT, Gemini, Claude, Grok, etc). Use it to answer the following questions.\n\nAsk the LLM to write a paper on a topic of your choosing. It should be a topic that you know very well, so that you can identify correct and incorrect information easily. The topic doesn’t have to be directly related to policy.1 Feel free to specify the question however you want, but make sure it looks like a “regular” essay prompt: there should be details about topic, page length requirements, bibliographic expectations, etc.\nOnce you are satisfied with your prompt, give it to your chosen LLM. Then, grade the LLM’s answer, looking for style, prose, accuracy, and overall argumentation. In your grade, provide both a letter grade (A to F) and, more critically, a justification for that grade. What did the LLM do well? What did it do poorly? Are there any factual inaccuracies or hallucinations? Is there anything that really should have been included in the essay, but wasn’t? Did it follow proper formatting and length requirements?\nGive the LLM feedback on its first essay and ask for improvements. Then, assess the improvements. Did the LLM accurately correct mistakes?\nReflect on the process. In other assignments where you are allowed to use LLMs, how does this experience inform your future use of LLMs? How can you best utilize this tool while still taking responsibility for the quality of the final product?",
     "crumbs": [
       "📝 Work",
       "Assignments",
-      "Assignment 1"
+      "Assignment 1 - Using LLMs"
     ]
   },
   {
-    "objectID": "work/assign1.html#overview",
-    "href": "work/assign1.html#overview",
-    "title": "Assignment 1",
+    "objectID": "work/assign1.html#instructions",
+    "href": "work/assign1.html#instructions",
+    "title": "Assignment 1 - Using LLMs",
     "section": "",
-    "text": "Nothing to see here yet",
+    "text": "For this assignment, choose your favorite LLM (it can be anything, free or otherwise - ChatGPT, Gemini, Claude, Grok, etc). Use it to answer the following questions.\n\nAsk the LLM to write a paper on a topic of your choosing. It should be a topic that you know very well, so that you can identify correct and incorrect information easily. The topic doesn’t have to be directly related to policy.1 Feel free to specify the question however you want, but make sure it looks like a “regular” essay prompt: there should be details about topic, page length requirements, bibliographic expectations, etc.\nOnce you are satisfied with your prompt, give it to your chosen LLM. Then, grade the LLM’s answer, looking for style, prose, accuracy, and overall argumentation. In your grade, provide both a letter grade (A to F) and, more critically, a justification for that grade. What did the LLM do well? What did it do poorly? Are there any factual inaccuracies or hallucinations? Is there anything that really should have been included in the essay, but wasn’t? Did it follow proper formatting and length requirements?\nGive the LLM feedback on its first essay and ask for improvements. Then, assess the improvements. Did the LLM accurately correct mistakes?\nReflect on the process. In other assignments where you are allowed to use LLMs, how does this experience inform your future use of LLMs? How can you best utilize this tool while still taking responsibility for the quality of the final product?",
     "crumbs": [
       "📝 Work",
       "Assignments",
-      "Assignment 1"
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/assign1.html#submission",
+    "href": "work/assign1.html#submission",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "Submission",
+    "text": "Submission\nYour submission should include:\n\nYour original prompt to your LLM (and an identification of what LLM you used), along with the LLM’s original answer.\nYour grade and assessment of the LLM’s answer (~500 words).\nThe feedback you gave the LLM and the LLM’s new answer.\nA brief assessment of whether the new answer met expectations (~200 words).\nA reflection on the quality of the LLM’s answer and process (~200 words).\n\nYou should also be prepared to briefly discuss your assignment in class.",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/assign1.html#deadline",
+    "href": "work/assign1.html#deadline",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "Deadline",
+    "text": "Deadline\nThis assignment is due February 19 (Week 6.2) to Blackboard as a PDF.",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/assign1.html#footnotes",
+    "href": "work/assign1.html#footnotes",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn fact, it might be better if it isn’t! If you want to make it about policy, that’s perfectly ok, but it’s more important you know the topic very well, so that you are able to easily assess the results of your prompting.↩︎",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
     ]
   },
   {
@@ -350,18 +386,40 @@
     "href": "work/final.html",
     "title": "Final Project",
     "section": "",
-    "text": "Nothing to see here yet",
+    "text": "Choose one of the following.\n\nChoose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:\n\nA definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?\nAn assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?\nThe policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?\nDiscussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up “winning” and “losing”?\n\nIdentify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.\nWrite a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.\nChoose your own topic! Students selecting this option must have their project approved by the professor.",
     "crumbs": [
       "📝 Work",
       "Final Project"
     ]
   },
   {
-    "objectID": "work/final.html#overview",
-    "href": "work/final.html#overview",
+    "objectID": "work/final.html#possible-topics",
+    "href": "work/final.html#possible-topics",
     "title": "Final Project",
     "section": "",
-    "text": "Nothing to see here yet",
+    "text": "Choose one of the following.\n\nChoose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:\n\nA definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?\nAn assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?\nThe policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?\nDiscussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up “winning” and “losing”?\n\nIdentify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.\nWrite a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.\nChoose your own topic! Students selecting this option must have their project approved by the professor.",
+    "crumbs": [
+      "📝 Work",
+      "Final Project"
+    ]
+  },
+  {
+    "objectID": "work/final.html#requirements",
+    "href": "work/final.html#requirements",
+    "title": "Final Project",
+    "section": "Requirements",
+    "text": "Requirements\nYou will need to prepare a paper and a class presentation around your chosen topic.\n\nPapers\nPapers should be double-spaced in 12 point font with one inch margins. Papers should also include proper citations and a works cited page. Any style formatting is acceptable, so long as it is internally consistent. I encourage in-text citations and the use of footnotes over endnotes.\nUndergraduate: 8-10 pages\nGraduate: 14-16 pages\n\n\nPresentations\nPresentations should be designed in a graphically compelling fashion and practiced ahead of time. Professionalism counts! You should be in command of your material, and be ready to answer audience questions about your project proposal after you finish. Exact length constraints will depend on the number of presentations, but you should imagine targeting about 5-7 minutes, with groups being allocated slightly more time.\n\n\nCollaboration\nYou may work individually or in a group of up to three for this final project. Those working in groups should prepare papers that meet the following length requirements:\nUndergraduate: \\(length = (6+3x) \\pm 1\\)\nGraduate: \\(length = (10+5x) \\pm 1\\)\nWhere \\(x\\) is the number of people working in the group and \\(length\\) is paper length measured in pages. Collaborative projects should be understood as full co-authorships: all group members are responsible for all content, and they should read (and be presented) like a coherent whole, not as separate uncoordinated mini-papers assembled within an umbrella document.\n\n\nAI Policy\nYou may use AI to assist you in the creation of your projects. You must disclose what AIs you used, and how and for what purpose you used them, in an appendix. (Did you use it to search for literature? For explanations of policy areas or policy problems? To assist in the creation of a draft or in editing?)\nIf you use AI, remember what we have discussed in our class: AI has its uses, but you must also be aware of its weaknesses. AI prose is often poor from an academic perspective, and typically lacks precision, commitment, and clarity of original thought. LLMs can also have an uncomfortably loose relationship with truth. Accordingly, I would suggest that it is appropriate to use AI to assist you in automating research tasks, but also strongly encourage you not to substitute it for your own writing, thoughts, judgment, and proposal.\n\n\nDeadlines\n\nMarch 26: Topics must be chosen and submitted (and approved, if necessary). See Assignment 2.\nWeek 14: Presentations will be given in class during the final week of class, with exact days TBD.\nMay 1: Papers due. Papers should incorporate feedback from the presentation.",
+    "crumbs": [
+      "📝 Work",
+      "Final Project"
+    ]
+  },
+  {
+    "objectID": "work/final.html#submit",
+    "href": "work/final.html#submit",
+    "title": "Final Project",
+    "section": "Submit",
+    "text": "Submit\nPapers and slides to Blackboard; PDF format. Don’t forget your AI appendix (even if to say you did not use AI) and your works cited page.",
     "crumbs": [
       "📝 Work",
       "Final Project"
@@ -370,49 +428,49 @@
   {
     "objectID": "work/d6res.html",
     "href": "work/d6res.html",
-    "title": "Debate 6",
+    "title": "Debate 6 - Humanity",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 6"
+      "Debate 6 - Humanity"
     ]
   },
   {
     "objectID": "work/d6res.html#resolution",
     "href": "work/d6res.html#resolution",
-    "title": "Debate 6",
+    "title": "Debate 6 - Humanity",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 6"
+      "Debate 6 - Humanity"
     ]
   },
   {
     "objectID": "work/d6res.html#amendments-and-adjustments",
     "href": "work/d6res.html#amendments-and-adjustments",
-    "title": "Debate 6",
+    "title": "Debate 6 - Humanity",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nTBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 6"
+      "Debate 6 - Humanity"
     ]
   },
   {
     "objectID": "work/d6res.html#judges-notes",
     "href": "work/d6res.html#judges-notes",
-    "title": "Debate 6",
+    "title": "Debate 6 - Humanity",
     "section": "Judge’s Notes",
     "text": "Judge’s Notes",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 6"
+      "Debate 6 - Humanity"
     ]
   },
   {
@@ -539,49 +597,49 @@
   {
     "objectID": "work/d2res.html",
     "href": "work/d2res.html",
-    "title": "Debate 2",
+    "title": "Debate 2 - Technology",
     "section": "",
     "text": "The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2"
+      "Debate 2 - Technology"
     ]
   },
   {
     "objectID": "work/d2res.html#resolution",
     "href": "work/d2res.html#resolution",
-    "title": "Debate 2",
+    "title": "Debate 2 - Technology",
     "section": "",
     "text": "The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2"
+      "Debate 2 - Technology"
     ]
   },
   {
     "objectID": "work/d2res.html#amendments-and-adjustments",
     "href": "work/d2res.html#amendments-and-adjustments",
-    "title": "Debate 2",
+    "title": "Debate 2 - Technology",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nSee debate guidelines and debate tips for guidance and details.\nThere are no adjustments to the standard debate format for this debate.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2"
+      "Debate 2 - Technology"
     ]
   },
   {
     "objectID": "work/d2res.html#judges-notes",
     "href": "work/d2res.html#judges-notes",
-    "title": "Debate 2",
+    "title": "Debate 2 - Technology",
     "section": "Judge’s Notes",
-    "text": "Judge’s Notes\n\nThis debate has the same general form as Debate #1. All the same things apply: think carefully about what the resolution is actually about and how you want to frame the debate.\nUnlike the first debate, however, this resolution has an increased role for external research. You may wish to learn more about details of the resolution (methods and mechanisms of energy production; AI demand for energy; methods of energy production; the current role the state has in energy; etc).\nThat said, make sure to think about the right level of detail: this is a short-form debate, not an extended white paper, so while you need evidence, getting too deep into the weeds of energy policy may not be to your advantage.",
+    "text": "Judge’s Notes\n\nThis debate has the same general form as Debate #1. All the same things apply: think carefully about what the resolution is actually about and how you want to frame the debate.\nUnlike the first debate, however, this resolution has an increased role for external research. You may wish to learn more about details of the resolution (methods and mechanisms of energy production; AI demand for energy; the current role the state has in energy; etc).\nThat said, make sure to think about the right level of detail: this is a short-form debate, not an extended white paper, so while you need evidence, getting too deep into the weeds of energy policy may not be to your advantage.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2"
+      "Debate 2 - Technology"
     ]
   },
   {
@@ -756,121 +814,145 @@
   {
     "objectID": "work/assign2.html",
     "href": "work/assign2.html",
-    "title": "Assignment 2",
+    "title": "Assignment 2 - Final Project Identification",
     "section": "",
-    "text": "Nothing to see here yet",
+    "text": "Submit a short (&lt;1 page) abstract for your final project. This abstract should include:\n\nThe topic you are choosing. This includes both:\n\nAn identification of topic 1, 2, 3, or 4 from the final project page.\nWhat subject within that topic you are choosing to work on for your project.\n\nSubjects within topics can be refined a little between identification and final project - I’m not looking for a final definitive exact topic identifcation for this assignment; I’m just looking for the overall field or subject you’re focused on along with a little context.\nFour citations for sources (from outside of class) that will begin informing your project.\nWho you are working on your project with (if anyone).\n\nI strongly recommend meeting with me before submitting your project to talk it through.",
     "crumbs": [
       "📝 Work",
       "Assignments",
-      "Assignment 2"
+      "Assignment 2 - Final Project Identification"
     ]
   },
   {
-    "objectID": "work/assign2.html#overview",
-    "href": "work/assign2.html#overview",
-    "title": "Assignment 2",
+    "objectID": "work/assign2.html#instructions",
+    "href": "work/assign2.html#instructions",
+    "title": "Assignment 2 - Final Project Identification",
     "section": "",
-    "text": "Nothing to see here yet",
+    "text": "Submit a short (&lt;1 page) abstract for your final project. This abstract should include:\n\nThe topic you are choosing. This includes both:\n\nAn identification of topic 1, 2, 3, or 4 from the final project page.\nWhat subject within that topic you are choosing to work on for your project.\n\nSubjects within topics can be refined a little between identification and final project - I’m not looking for a final definitive exact topic identifcation for this assignment; I’m just looking for the overall field or subject you’re focused on along with a little context.\nFour citations for sources (from outside of class) that will begin informing your project.\nWho you are working on your project with (if anyone).\n\nI strongly recommend meeting with me before submitting your project to talk it through.",
     "crumbs": [
       "📝 Work",
       "Assignments",
-      "Assignment 2"
+      "Assignment 2 - Final Project Identification"
+    ]
+  },
+  {
+    "objectID": "work/assign2.html#submission",
+    "href": "work/assign2.html#submission",
+    "title": "Assignment 2 - Final Project Identification",
+    "section": "Submission",
+    "text": "Submission\nEach member of a group must submit their work independently (even though the content and files will be the same).",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 2 - Final Project Identification"
+    ]
+  },
+  {
+    "objectID": "work/assign2.html#deadline",
+    "href": "work/assign2.html#deadline",
+    "title": "Assignment 2 - Final Project Identification",
+    "section": "Deadline",
+    "text": "Deadline\nThis assignment is due March 26 (Week 10.2) to Blackboard as a PDF.",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 2 - Final Project Identification"
     ]
   },
   {
     "objectID": "work/d1res.html",
     "href": "work/d1res.html",
-    "title": "Debate 1",
+    "title": "Debate 1 - Philosophy",
     "section": "",
     "text": "An entity that passes the Turing Test is intelligent.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 1"
+      "Debate 1 - Philosophy"
     ]
   },
   {
     "objectID": "work/d1res.html#resolution",
     "href": "work/d1res.html#resolution",
-    "title": "Debate 1",
+    "title": "Debate 1 - Philosophy",
     "section": "",
     "text": "An entity that passes the Turing Test is intelligent.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 1"
+      "Debate 1 - Philosophy"
     ]
   },
   {
     "objectID": "work/d1res.html#amendments-and-adjustments",
     "href": "work/d1res.html#amendments-and-adjustments",
-    "title": "Debate 1",
+    "title": "Debate 1 - Philosophy",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nSee debate guidelines and debate tips for guidance and details.\nThere are no adjustments to the standard debate format for this debate.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 1"
+      "Debate 1 - Philosophy"
     ]
   },
   {
     "objectID": "work/d1res.html#judges-notes",
     "href": "work/d1res.html#judges-notes",
-    "title": "Debate 1",
+    "title": "Debate 1 - Philosophy",
     "section": "Judge’s Notes",
     "text": "Judge’s Notes\nIt may help to think of this debate as a warm-up and illustration of the debate format. Later debates typically take place over more substantive policy disputes, with a potential greater role for evidence; this first debate is meant to illustrate the form of debate itself. It can help, for instance, to think about how you might have a debate over similar “debate training” resolutions, like:\n\n“A hot dog is a sandwich”\n“Cereal is a soup”\n“Peppers are fruits”\n“Pluto should be classified as a planet”\n“Chess is a sport”\n“Coffee is better than tea”\n“Breakfast food is superior to dinner food”\n\nYou should expect that much of this debate will turn on how key terms like “intelligence” and “passing the Turing Test” are defined. It’s not that there is no role for evidence in these resolutions - there is - but evidentiary proof is secondary to argumentative structure and strategy in winning these kinds of “training” debates. Remember, the goal is not to be correct: the goal is to make the best case possible under reasonable definitions (and learn something substantive about both sides of a debate along the way).",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 1"
+      "Debate 1 - Philosophy"
     ]
   },
   {
     "objectID": "work/d5res.html",
     "href": "work/d5res.html",
-    "title": "Debate 5",
+    "title": "Debate 5 - Policy",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 5"
+      "Debate 5 - Policy"
     ]
   },
   {
     "objectID": "work/d5res.html#resolution",
     "href": "work/d5res.html#resolution",
-    "title": "Debate 5",
+    "title": "Debate 5 - Policy",
     "section": "",
     "text": "TBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 5"
+      "Debate 5 - Policy"
     ]
   },
   {
     "objectID": "work/d5res.html#amendments-and-adjustments",
     "href": "work/d5res.html#amendments-and-adjustments",
-    "title": "Debate 5",
+    "title": "Debate 5 - Policy",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nTBD",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 5"
+      "Debate 5 - Policy"
     ]
   },
   {
     "objectID": "work/d5res.html#judges-notes",
     "href": "work/d5res.html#judges-notes",
-    "title": "Debate 5",
+    "title": "Debate 5 - Policy",
     "section": "Judge’s Notes",
     "text": "Judge’s Notes",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 5"
+      "Debate 5 - Policy"
     ]
   },
   {
@@ -1102,7 +1184,7 @@
     "href": "syllabus.html#unit-ii-technology",
     "title": "Artificial Intelligence Policy",
     "section": "Unit II | Technology",
-    "text": "Unit II | Technology\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n4.1\nFeb 3\nCrash Course: Designing AI: Computers & Technology\n\n\n4.2\nFeb 5\nData Privacy\n\n\n5.1\nFeb 10\nEnergy\n\n\n5.2\nFeb 12\nDebate II"
+    "text": "Unit II | Technology\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n4.1\nFeb 3\nCrash Course: Designing AI: Computers & Technology\n\n\n4.2\nFeb 5\nData Privacy and Algorithmic Bias\n\n\n5.1\nFeb 10\nEnergy\n\n\n5.2\nFeb 12\nDebate II"
   },
   {
     "objectID": "syllabus.html#unit-iii-business",
@@ -1123,7 +1205,7 @@
     "href": "syllabus.html#unit-v-public-policy",
     "title": "Artificial Intelligence Policy",
     "section": "Unit V | Public Policy",
-    "text": "Unit V | Public Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement II (or education)\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
+    "text": "Unit V | Public Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement II\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
   },
   {
     "objectID": "syllabus.html#unit-vi-humanity",
@@ -1165,7 +1247,7 @@
     "href": "schedule.html#unit-ii-technology",
     "title": "Schedule",
     "section": "Unit II | Technology",
-    "text": "Unit II | Technology\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n4.1\nFeb 3\nCrash Course: Designing AI: Computers & Technology\n\n\n4.2\nFeb 5\nData Privacy\n\n\n5.1\nFeb 10\nEnergy\n\n\n5.2\nFeb 12\nDebate II"
+    "text": "Unit II | Technology\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n4.1\nFeb 3\nCrash Course: Designing AI: Computers & Technology\n\n\n4.2\nFeb 5\nData Privacy and Algorithmic Bias\n\n\n5.1\nFeb 10\nEnergy\n\n\n5.2\nFeb 12\nDebate II"
   },
   {
     "objectID": "schedule.html#unit-iii-business",
@@ -1186,7 +1268,7 @@
     "href": "schedule.html#unit-v-public-policy",
     "title": "Schedule",
     "section": "Unit V | Public Policy",
-    "text": "Unit V | Public Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement II (or education)\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
+    "text": "Unit V | Public Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement II\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
   },
   {
     "objectID": "schedule.html#unit-vi-humanity",

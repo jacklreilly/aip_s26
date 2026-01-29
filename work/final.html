@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -107,18 +136,36 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="../work/index.html" aria-current="page"> 
 <span class="menu-text">📝 Work</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../policies.html"> 
-<span class="menu-text">🏫 Policies</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-policies" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">🏫 Policies</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-policies">    
+        <li>
+    <a class="dropdown-item" href="../policies.html">
+ <span class="dropdown-text">🏛️ Campus Policies</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../ai.html"> 
-<span class="menu-text">🤖 AI &amp; LLMs</span></a>
+        <li>
+    <a class="dropdown-item" href="../ai.html">
+ <span class="dropdown-text">🤖 AI &amp; LLMs</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://blackboard.syr.edu/"> 
-<span class="menu-text">💻 Blackboard</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-links" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">🔗 Links</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-links">    
+        <li>
+    <a class="dropdown-item" href="https://blackboard.syr.edu/">
+ <span class="dropdown-text">💻 Blackboard</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="https://teams.microsoft.com/l/team/19%3Ao9tovA_55UGMcoafRyUYhZus5Ju63bfSTr8SreWTZ241%40thread.tacv2/conversations?groupId=637c3533-290a-4524-9088-f07060f76735&amp;tenantId=4278a402-1a9e-4eb9-8414-ffb55a5fcf1e">
+ <span class="dropdown-text">💬 Discussion Board</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -166,37 +213,37 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/d1res.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Debate 1</span></a>
+ <span class="menu-text">Debate 1 - Philosophy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/d2res.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Debate 2</span></a>
+ <span class="menu-text">Debate 2 - Technology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/d3res.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Debate 3</span></a>
+ <span class="menu-text">Debate 3 - Business</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/d4res.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Debate 4</span></a>
+ <span class="menu-text">Debate 4 - Geopolitics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/d5res.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Debate 5</span></a>
+ <span class="menu-text">Debate 5 - Policy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/d6res.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Debate 6</span></a>
+ <span class="menu-text">Debate 6 - Humanity</span></a>
   </div>
 </li>
       </ul>
@@ -213,13 +260,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/assign1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Assignment 1</span></a>
+ <span class="menu-text">Assignment 1 - Using LLMs</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../work/assign2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Assignment 2</span></a>
+ <span class="menu-text">Assignment 2 - Final Project Identification</span></a>
   </div>
 </li>
       </ul>
@@ -251,7 +298,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#possible-topics" id="toc-possible-topics" class="nav-link active" data-scroll-target="#possible-topics">Possible Topics</a></li>
+  <li><a href="#requirements" id="toc-requirements" class="nav-link" data-scroll-target="#requirements">Requirements</a>
+  <ul class="collapse">
+  <li><a href="#papers" id="toc-papers" class="nav-link" data-scroll-target="#papers">Papers</a></li>
+  <li><a href="#presentations" id="toc-presentations" class="nav-link" data-scroll-target="#presentations">Presentations</a></li>
+  <li><a href="#collaboration" id="toc-collaboration" class="nav-link" data-scroll-target="#collaboration">Collaboration</a></li>
+  <li><a href="#ai-policy" id="toc-ai-policy" class="nav-link" data-scroll-target="#ai-policy">AI Policy</a></li>
+  <li><a href="#deadlines" id="toc-deadlines" class="nav-link" data-scroll-target="#deadlines">Deadlines</a></li>
+  </ul></li>
+  <li><a href="#submit" id="toc-submit" class="nav-link" data-scroll-target="#submit">Submit</a></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="final.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="final.docx"><i class="bi bi-file-word"></i>MS Word</a></li><li><a href="final.rtf"><i class="bi bi-file"></i>RTF</a></li></ul></div></nav>
     </div>
@@ -290,9 +346,59 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>Nothing to see here yet</p>
+<section id="possible-topics" class="level2">
+<h2 class="anchored" data-anchor-id="possible-topics">Possible Topics</h2>
+<p>Choose one of the following.</p>
+<ol type="1">
+<li>Choose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:
+<ul>
+<li>A definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?</li>
+<li>An assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?</li>
+<li>The policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?</li>
+<li>Discussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up “winning” and “losing”?</li>
+</ul></li>
+<li>Identify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.</li>
+<li>Write a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.</li>
+<li>Choose your own topic! Students selecting this option must have their project approved by the professor.</li>
+</ol>
+</section>
+<section id="requirements" class="level2">
+<h2 class="anchored" data-anchor-id="requirements">Requirements</h2>
+<p>You will need to prepare a paper and a class presentation around your chosen topic.</p>
+<section id="papers" class="level3">
+<h3 class="anchored" data-anchor-id="papers">Papers</h3>
+<p>Papers should be double-spaced in 12 point font with one inch margins. Papers should also include proper citations and a works cited page. Any style formatting is acceptable, so long as it is internally consistent. I encourage in-text citations and the use of footnotes over endnotes.</p>
+<p><strong>Undergraduate</strong>: 8-10 pages</p>
+<p><strong>Graduate</strong>: 14-16 pages</p>
+</section>
+<section id="presentations" class="level3">
+<h3 class="anchored" data-anchor-id="presentations">Presentations</h3>
+<p>Presentations should be designed in a graphically compelling fashion and practiced ahead of time. Professionalism counts! You should be in command of your material, and be ready to answer audience questions about your project proposal after you finish. Exact length constraints will depend on the number of presentations, but you should imagine targeting about 5-7 minutes, with groups being allocated slightly more time.</p>
+</section>
+<section id="collaboration" class="level3">
+<h3 class="anchored" data-anchor-id="collaboration">Collaboration</h3>
+<p>You may work individually or in a group of up to three for this final project. Those working in groups should prepare papers that meet the following length requirements:</p>
+<p><strong>Undergraduate</strong>: <span class="math inline">\(length = (6+3x) \pm 1\)</span></p>
+<p><strong>Graduate</strong>: <span class="math inline">\(length = (10+5x) \pm 1\)</span></p>
+<p>Where <span class="math inline">\(x\)</span> is the number of people working in the group and <span class="math inline">\(length\)</span> is paper length measured in pages. Collaborative projects should be understood as full co-authorships: all group members are responsible for all content, and they should read (and be presented) like a coherent whole, not as separate uncoordinated mini-papers assembled within an umbrella document.</p>
+</section>
+<section id="ai-policy" class="level3">
+<h3 class="anchored" data-anchor-id="ai-policy">AI Policy</h3>
+<p>You may use AI to assist you in the creation of your projects. You must disclose what AIs you used, and how and for what purpose you used them, in an appendix. (Did you use it to search for literature? For explanations of policy areas or policy problems? To assist in the creation of a draft or in editing?)</p>
+<p>If you use AI, remember what we have discussed in our class: AI has its uses, but you must also be aware of its weaknesses. AI prose is often poor from an academic perspective, and typically lacks precision, commitment, and clarity of original thought. LLMs can also have an uncomfortably loose relationship with truth. Accordingly, I would suggest that it is appropriate to use AI to assist you in automating research tasks, but also strongly encourage you not to substitute it for your own writing, thoughts, judgment, and proposal.</p>
+</section>
+<section id="deadlines" class="level3">
+<h3 class="anchored" data-anchor-id="deadlines">Deadlines</h3>
+<ul>
+<li>March 26: Topics must be chosen and submitted (and approved, if necessary). See <a href="../work/assign2.html">Assignment 2</a>.</li>
+<li>Week 14: Presentations will be given in class during the final week of class, with exact days TBD.</li>
+<li>May 1: Papers due. Papers should incorporate feedback from the presentation.</li>
+</ul>
+</section>
+</section>
+<section id="submit" class="level2">
+<h2 class="anchored" data-anchor-id="submit">Submit</h2>
+<p>Papers and slides to Blackboard; PDF format. Don’t forget your AI appendix (even if to say you did not use AI) and your works cited page.</p>
 
 
 </section>
