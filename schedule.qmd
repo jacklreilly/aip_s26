@@ -54,7 +54,7 @@ format:
 | 9.2 | *Mar 19* | **[Debate IV]()** |
 
 
-## Unit V | *Public Policy*
+## Unit V | *Policy*
 
 | Week | Date | Topic |
 |:--|:--|:--|
