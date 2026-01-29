@@ -37,10 +37,10 @@ format:
 
 | Week | Date | Topic |
 |:--|:--|:--|
-| 6.1 | *Feb 17* | *Crash Course*: [Building AI: Business & Economics](content/w61.qmd) |
-| 6.2 | *Feb 19* | [Financing AI](content/w62.qmd) |
-| 7.1 | *Feb 24* | [Labor Replacement I](content/w71.qmd) |
-| 7.2 | *Feb 26* | **[Debate III](content/w72.qmd)** |
+| 6.1 | *Feb 17* | *Crash Course*: [Building AI: Business & Economics]() |
+| 6.2 | *Feb 19* | [Financing AI]() |
+| 7.1 | *Feb 24* | [Labor Replacement I]() |
+| 7.2 | *Feb 26* | **[Debate III]()** |
 
 
 
@@ -48,20 +48,20 @@ format:
 
 | Week | Date | Topic |
 |:--|:--|:--|
-| 8.1 | *Mar 3* | **[Core Exam](content/w81.qmd)** |
-| 8.2 | *Mar 5* | *Crash Course*: [Negotiating AI: Geopolitics & The World](content/w82.qmd) |
-| 9.1 | *Mar 17* | [Geopolitics](content/w91.qmd) |
-| 9.2 | *Mar 19* | **[Debate IV](content/w92.qmd)** |
+| 8.1 | *Mar 3* | **[Core Exam]()** |
+| 8.2 | *Mar 5* | *Crash Course*: [Negotiating AI: Geopolitics & The World]() |
+| 9.1 | *Mar 17* | [Geopolitics]() |
+| 9.2 | *Mar 19* | **[Debate IV]()** |
 
 
 ## Unit V | *Public Policy*
 
 | Week | Date | Topic |
 |:--|:--|:--|
-| 10.1 | *Mar 24* | *Crash Course*: [Managing AI: Domestic Politics & Governance](content/w101.qmd) |
-| 10.2 | *Mar 26* | [Labor Replacement II (or education)](content/w102.qmd) |
-| 11.1 | *Mar 31* | [Democracy & AI](content/w111.qmd) |
-| 11.2 | *Apr 2* | **[Debate V](content/w112.qmd)** |
+| 10.1 | *Mar 24* | *Crash Course*: [Managing AI: Domestic Politics & Governance]() |
+| 10.2 | *Mar 26* | [Labor Replacement II (or education)]() |
+| 11.1 | *Mar 31* | [Democracy & AI]() |
+| 11.2 | *Apr 2* | **[Debate V]()** |
 
 
 
@@ -69,12 +69,12 @@ format:
 
 | Week | Date | Topic |
 |:--|:--|:--|
-| 12.1 | *Apr 7* | *Crash Course*: [Assessing AI: Harms, Implications, and Futures](content/w121.qmd) |
-| 12.2 | *Apr 9* | [Authoritarianism and AI](content/w122.qmd) |
-| 13.1 | *Apr 14* | [Singularities, xRisk, & AGI](content/w131.qmd) |
-| 13.2 | *Apr 16* | **[Debate VI](content/w132.qmd)** |
-| 14.1 | *Apr 21* | **[Final Presentations](content/w141.qmd)** |
-| 14.2 | *Apr 23* | **[Final Presentations](content/w142.qmd)** |
+| 12.1 | *Apr 7* | *Crash Course*: [Assessing AI: Harms, Implications, and Futures]() |
+| 12.2 | *Apr 9* | [Authoritarianism and AI]() |
+| 13.1 | *Apr 14* | [Singularities, xRisk, & AGI]() |
+| 13.2 | *Apr 16* | **[Debate VI]()** |
+| 14.1 | *Apr 21* | **[Final Presentations]()** |
+| 14.2 | *Apr 23* | **[Final Presentations]()** |
 
 *This is a tentative course schedule.  Content subject to change.*
 
