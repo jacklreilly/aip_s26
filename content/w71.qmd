@@ -21,7 +21,7 @@ title: "Placeholder - Check Back Later"
 - test
 
 #### 📚 Additional Resources:
-- test
+- Korinek, 2024. "[Preparing for the (Non-Existent?) Future of Work](https://doi.org/10.1093/oxfordhb/9780197579329.013.44)" *Oxford Handbook of AI Governance*
 
 #### 📝 Submit:
   - Discussion question to course chat
