@@ -7,6 +7,17 @@ title: "Debate 3 - Business"
 
 - TBD
 
+: Teams
+
+| Affirm | Negate | Jury |
+|:------|:------|:------------------------------|
+| Team 1 | Team 2 | Team 3 |
+| Team 2 | Team 3 | Team 1 |
+| Team 3 | Team 1 | Team 2 |
+| Team 2 | Team 1 | Team 3 |
+| Team 3 | Team 2 | Team 1 |
+| Team 1 | Team 3 | Team 2 |
+
 ## Amendments and Adjustments
 
 - TBD

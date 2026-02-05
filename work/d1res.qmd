@@ -7,6 +7,13 @@ title: "Debate 1 - Philosophy"
 
 **An entity that passes the Turing Test is intelligent.**
 
+: Teams
+
+| Affirm | Negate | Jury |
+|:------|:------|:------------------------------|
+| Team 1 | Team 2 | Team 3 |
+
+
 ## Amendments and Adjustments
 
 - See [debate guidelines](dguidelines.qmd) and [debate tips](dtips.qmd) for guidance and details.

@@ -7,6 +7,12 @@ title: "Debate 2 - Technology"
 
 **The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.**
 
+: Teams
+
+| Affirm | Negate | Jury |
+|:------|:------|:------------------------------|
+ Team 2 | Team 3 | Team 1 |
+
 ## Amendments and Adjustments
 
 - See [debate guidelines](dguidelines.qmd) and [debate tips](dtips.qmd) for guidance and details.
