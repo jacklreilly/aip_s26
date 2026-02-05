@@ -17,6 +17,7 @@ title: "3.1 - Embodied Intelligence, Agency, and Responsibility"
 - Bostrom, "[Ethical Issues in Artificial Intelligence](https://nickbostrom.com/ethics/ai)" *The source of the famous "paperclip" argument*
 - Liu and Wu, [“A Brief History of Embodied Artificial Intelligence, and its Outlook”](https://cacm.acm.org/blogcacm/a-brief-history-of-embodied-artificial-intelligence-and-its-future-outlook/)
 - [“NHTSA Finds Teslas Deactivated Autopilot Seconds Before Crashes”](https://www.motortrend.com/news/nhtsa-tesla-autopilot-investigation-shutoff-crash)
+- ["Waymo is having a hard time stopping for school buses"](https://www.theverge.com/transportation/874385/waymo-school-bus-austin-safety-robotaxi) 2026.
 - Ziegler, Bart. 2023. [“When Will Cars Be Fully Self Driving?”](https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc)
 - [“The evolving safety and policy challenges of self-driving cars”](https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/), Brookings  
 

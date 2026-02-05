@@ -10,6 +10,7 @@ title: "4.2 - Data Privacy and Algorithmic Bias"
 - "[How Tech Giants Cut Corners to Harvest Data for A.I.](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)" NYTimes.
 
 #### 🌐 Browse:
+  - Hao, 2020. "[We read the paper that forced Timnit Gebru out of Google. Here’s what it says.](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)" MIT Technology Review.
   - "[Oh Dear, Did Someone Steal Something from OpenAI?](https://www.wsj.com/tech/ai/oh-dear-did-someone-steal-something-from-openai-8e8a267c)" Wall Street Journal.
   - "[Meta torrented over 80 TB of Pirated Books to Train AI, Authors Say](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)".  Ars Technica.
   - "[OpenAI Says DeepSeek May Have Improperly Harvested Its Data](https://www.nytimes.com/2025/01/29/technology/openai-deepseek-data-harvest.html)" NYTimes.
