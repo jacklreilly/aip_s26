@@ -1,27 +1,16 @@
 ---
-title: "Placeholder - Check Back Later"
+title: "6.2 - Financing AI"
 ---
 
-#### ⚖️ Debate!
-- *test*
 
 #### 🧠 Think: 
-- *test*
-
-#### 📖 Read: 
-- test
+- *Is the scale of AI rollout sustainable?  Is the scale of the financing and expenditures involved set us up for future AI growth, or set the economy up for disaster when an inevitable market correction occurs?*
 
 #### 🎧 Listen: 
-- test
+- Paul Kedrosky, 2025. "[This is How the AI Bubble Could Burst](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/09/23/this-is-how-the-ai-bubble-could-burst)" Podcast: *Plain English with Derek Thompson*
+- Azeem Azhar, 2025. "[Everyone Thinks AI is a Bubble.  What if They're Wrong?](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/10/17/everybody-thinks-ai-is-a-bubble-what-if-theyre-wrong)" Podcast: *Plain English with Derek Thompson*
 
-#### 📺 Watch: 
-- test
-
-#### 🌐 Browse:
-- test
-
-#### 📚 Additional Resources:
-- test
+*Additional material forthcoming*
 
 #### 📝 Submit:
   - Discussion question to course chat

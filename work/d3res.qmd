@@ -5,21 +5,19 @@ title: "Debate 3 - Business"
 
 ## Resolution
 
-- TBD
+**The current AI buildout is a substantial economic bubble, the correction of which will cause widespread economic harm.**
 
 : Teams
 
 | Affirm | Negate | Jury |
 |:------|:------|:------------------------------|
-| Team 1 | Team 2 | Team 3 |
-| Team 2 | Team 3 | Team 1 |
 | Team 3 | Team 1 | Team 2 |
-| Team 2 | Team 1 | Team 3 |
-| Team 3 | Team 2 | Team 1 |
-| Team 1 | Team 3 | Team 2 |
 
 ## Amendments and Adjustments
 
-- TBD
+- See [debate guidelines](dguidelines.qmd) and [debate tips](dtips.qmd) for guidance and details.
+- There are **no** adjustments to the standard debate format for this debate.
 
 ## Judge's Notes
+
+- Like Debate #2, this debate may require some additional external research.

@@ -64,6 +64,14 @@ website:
           - content/w42.qmd
           - content/w51.qmd
           - content/w52.qmd
+        - section: "3. Business"
+          href: content/index.qmd
+          contents:
+          - content/w61.qmd
+          - content/w62.qmd
+          - content/w71.qmd
+          - content/w72.qmd
+       
 
     - id: work
       style: docked

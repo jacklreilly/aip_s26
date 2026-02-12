@@ -2,6 +2,10 @@
 {{< include schedule.qmd >}}
 {{< include policies.qmd >}}
 
+### Syllabus Format Note
+
+This syllabus is coverted automatically to your document format from its original version. Please visit [the course website](https://jacklreilly.github.io/aip_s26/syllabus.html) to see the original version and for any changes.  
+
 ---
 title: "Artificial Intelligence Policy"
 author: "Prof. Jack Reilly"

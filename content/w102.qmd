@@ -1,27 +1,30 @@
 ---
-title: "Placeholder - Check Back Later"
+title: "10.2 - Labor Replacement"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
+- *What happens as computers and automation replaces humans as the best way to produce economic value?*
 
 #### 📖 Read: 
-- test
+  - Frey and Osborne, 2017. "[The future of employment: How susceptible are jobs to computerisation?](https://www.sciencedirect.com/science/article/abs/pii/S0040162516302244)"
+  - Frey and Osborne, 2023. "[Generative Al and the Future of Work: A Reappraisal](https://heinonline.org/HOL/P?h=hein.journals/brownjwa30&i=161)"
 
 #### 🎧 Listen: 
 - test
 
 #### 📺 Watch: 
-- test
+- CGP Grey, "[Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)"
 
 #### 🌐 Browse:
-- test
+- Felten, "[How will Language Modelers like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)"
+- Google, "[Towards an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)"
+- [Generative AI for Economic Research](https://genaiforecon.org/JEL-2024-Dec-LLMsCollaborateReason.pdf)
+- The Economist, "[How AI will divide the best from the rest](https://www.economist.com/finance-and-economics/2025/02/13/how-ai-will-divide-the-best-from-the-rest)"
+- Pew Research, [Workers Experience with Chatbots and their Jobs](https://www.pewresearch.org/social-trends/2025/02/25/workers-experience-with-ai-chatbots-in-their-jobs/)
+- Thompson, 2015. "[A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/)". *The Atlantic*
 
 #### 📚 Additional Resources:
-- test
+- Korinek, 2024. "[Preparing for the (Non-Existent?) Future of Work](https://doi.org/10.1093/oxfordhb/9780197579329.013.44)" *Oxford Handbook of AI Governance*
 
 #### 📝 Submit:
   - Discussion question to course chat

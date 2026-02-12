@@ -1,27 +1,25 @@
 ---
-title: "Placeholder - Check Back Later"
+title: "6.1 - CC: AI Business"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
+*What monetizable product is it that AI companies make? Is it cost-effective, given labor, compute, and energy costs? Absent venture capital, how profitable is it likely to be short-, medium-, and long-term?*
 
 #### 📖 Read: 
-- test
+- Paterson, Cal. "[Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)" Blog post.
+- Leaked Google Memo: "[We Have No Moat, And Neither Does OpenAI](https://semianalysis.com/2023/05/04/google-we-have-no-moat-and-neither/)" (You don't need to read the paywalled "Timeline" portion)
 
 #### 🎧 Listen: 
-- test
-
-#### 📺 Watch: 
-- test
+- Dario Amodei, 2026. "[Something Will Go Wrong: Anthropic's Chief on the Coming AI Disruption](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)" *Interesting Times with Ross Douthat* New York Times Podcasts.
 
 #### 🌐 Browse:
-- test
+- Thompson, Ben. "[AI's Uneven Arrival](https://stratechery.com/2025/ais-uneven-arrival/)".  Blog post.
+- "[Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/)"
+- *The Economist:* "[Will the bubble burst for AI in 2025, or will it start to deliver?](https://www.economist.com/the-world-ahead/2024/11/18/will-the-bubble-burst-for-ai-in-2025-or-will-it-start-to-deliver)" and "[The very real constraints on artificial intelligence in 2025](https://www.economist.com/the-world-ahead/2024/11/20/the-very-real-constraints-on-artificial-intelligence-in-2025)"
+- Zuckerberg, Mark. "[Open Source AI is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)"
+- Glazer, "[Why AI Risks Are Keeping Board Members Up at Night](https://www.wsj.com/business/c-suite/ai-risk-management-boardroom-b8956c61)" *Wall Street Journal*
+- "[Apple Engineers Show How Flimsy AI 'Reasoning' Can Be](https://www.wired.com/story/apple-ai-llm-reasoning-research/)" Wired.
 
-#### 📚 Additional Resources:
-- test
 
 #### 📝 Submit:
   - Discussion question to course chat
