@@ -39,7 +39,7 @@ format:
 |:--|:--|:--|
 | 6.1 | *Feb 17* | *Crash Course*: [Building AI: Business & Economics](content/w61.qmd) |
 | 6.2 | *Feb 19* | [Financing AI](content/w62.qmd) |
-| 7.1 | *Feb 24* | [Labor Replacement I](content/w71.qmd) |
+| 7.1 | *Feb 24* | [~~Labor Replacement I~~ *Rebooting the Singularity*](content/w71.qmd) |
 | 7.2 | *Feb 26* | **[Debate III](content/w72.qmd)** |
 
 
