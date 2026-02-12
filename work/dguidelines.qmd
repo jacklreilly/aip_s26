@@ -11,7 +11,7 @@ title: "Debate Guidelines"
     - One team **affirms** (supports) the resolution;
     - Another team **negates** (opposes) the resolution.  
 - Each team offers facts, evidence, and argumentation in favor of their side.
-- Our class debates are team-based modified Lincoln-Douglas[^ld] debates. They have four phases:
+- Our class debates are team-based modified Lincoln-Douglas[^ld] debates. A standard debate[^form] in our class has four phases:
     1. **Constructive** (3 min per team)
         - *1 min prep*
     2. **Cross-Examination** (5 min total, back and forth)
@@ -19,8 +19,13 @@ title: "Debate Guidelines"
     3. **Rebuttal** (2 min per team)
 		- *1 min prep*
     4. **Final Focus** (1 min per team)
+  
 - In addition to the two debating teams, there is a **jury** who deliberates and delivers a verdict (winner and opinion).
 - The debate round is timed by the **judge** so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them. The judge also enforces procedure.
+
+[^ld]: I tell you this intentionally so that you can, if you wish, go look up strategy for Lincoln-Douglas debate styles.  The modifications made are inspired partially by Public Forum debates and partially to allow for team-based debate.
+
+[^form]: Note that while this is the standard debate format, as we move through the course, we may add additional elements.  Consult individual debate pages for details.
 
 ## Debate Schedule
 
@@ -73,7 +78,6 @@ Finally, while student take roles, it is the entire team's responsibility to coo
 - Both teams must agree, a week and a half before the debate, on the policy for AI usage for debate preparation. Once made, this decision is binding on both teams and cannot be changed.
 - If time runs out mid-sentence, speakers must stop immediately. I recommend keeping time yourself. 
 
-[^ld]: I tell you this intentionally so that you can, if you wish, go look up strategy for Lincoln-Douglas debate styles.  The modifications made are inspired partially by Public Forum debates and partially to allow for team-based debate.
 
 [^grade]: Debate grades are independent of jury deliberations and are assessed by the judge.
 

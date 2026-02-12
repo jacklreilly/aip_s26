@@ -16,8 +16,16 @@ title: "Debate 3 - Business"
 ## Amendments and Adjustments
 
 - See [debate guidelines](dguidelines.qmd) and [debate tips](dtips.qmd) for guidance and details.
-- There are **no** adjustments to the standard debate format for this debate.
+- The standard class debate format for this debate has been modified in the following ways:
+    1. **Constructive** (4 min per team)
+        - *1 min prep*
+    2. **Cross-Examination** (8 min total, back and forth)
+		- *2 min prep*
+    3. **Rebuttal** (2.5 min per team)
+		- *1 min prep*
+    4. **Final Focus** (1 min per team)
 
 ## Judge's Notes
 
 - Like Debate #2, this debate may require some additional external research.
+- While not the *immediate* resolution, a clear subtext to this debate is *"Is AI moving too fast? Is it getting too big too fast? Is the expected value of AI too negative, given foreseeable costs and benefits? Do the pitfalls and perils outweigh the promise?"*. While debates are always won and lost by debating the actual resolution, it can be beneficial in prep to consider this broader question, along with the implications that question has for policy that we may or may not wish to pursue.

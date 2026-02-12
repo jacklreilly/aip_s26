@@ -85,7 +85,7 @@ website:
           - work/dtips.qmd
           - work/d1res.qmd
           - work/d2res.qmd
-
+          - work/d3res.qmd
 
         - section: "Assignments"
           href: work/index.qmd
