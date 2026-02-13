@@ -4,13 +4,32 @@ title: "6.2 - Financing AI"
 
 
 #### 🧠 Think: 
-- *Is the scale of AI rollout sustainable?  Is the scale of the financing and expenditures involved set us up for future AI growth, or set the economy up for disaster when an inevitable market correction occurs?*
+- *Is the magnitude of AI rollout sustainable?  Is the scale of the financing and expenditures involved set us up for future AI growth, or set the economy up for disaster when an inevitable market correction occurs? What kinds of returns and productivity improvements are we actaully seeing in business and the workplace?*
+
+#### 📖 Read: 
+- Gruda and Aeon, 2025. "[Seven Myths about AI and Productivity: What the Evidence Really Says](https://cmr.berkeley.edu/2025/10/seven-myths-about-ai-and-productivity-what-the-evidence-really-says/)". California Management Review.
+- Snyder, 2025. "[MIT Finds 95% Of GenAI Pilots Fail Because Companies Avoid Friction](https://www.forbes.com/sites/jasonsnyder/2025/08/26/mit-finds-95-of-genai-pilots-fail-because-companies-avoid-friction/)" Forbes.
 
 #### 🎧 Listen: 
 - Paul Kedrosky, 2025. "[This is How the AI Bubble Could Burst](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/09/23/this-is-how-the-ai-bubble-could-burst)" Podcast: *Plain English with Derek Thompson*
 - Azeem Azhar, 2025. "[Everyone Thinks AI is a Bubble.  What if They're Wrong?](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/10/17/everybody-thinks-ai-is-a-bubble-what-if-theyre-wrong)" Podcast: *Plain English with Derek Thompson*
 
-*Additional material forthcoming*
+#### 🌐 Browse: 
+- Viral X article: Shumer, 2026. "[Something Big is Happening](https://x.com/mattshumer_/status/2021256989876109403)"
+  - *Note: this link is included as an examplar of the kind of big claims being made about AI by its promoters; you've probably seen a thousand of these, but here's one in case you have seen the latest formulation. Judge for yourself and be sure to engage your critical thinking.*
+- 🤡 Parody/Humor: "[As Long as the Graph Goes Up and to the Right](https://x.com/gothburz/status/1999124665801880032?s=20)"
+
+#### 📚 Additional Resources:
+- Niederhoffer et al, 2025. "[AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)" Harvard Business Review.
+- Challapally et al, 2025. "[The GenAI Divide: State of AI in Busienss 2025](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf)". MIT NANDA.
+- Anthropic, 2026"[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)"
+- Kosmyna, 2025. "[Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)" arXiv.
+- Becker et al, 2025. "[Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)" METR.
+- Jaffe et al, 2024. "[Generative AI in Real-World Workplaces: The Second Microsoft Report on AI and Productivity Research](https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/Generative-AI-in-Real-World-Workplaces.pdf)" Microsoft.
+- Atlassian, 2025. "[The AI Collaboration Index: How Leading Companies unlock AI ROI](https://atlassianblog.wpengine.com/wp-content/uploads/2025/09/atlassian-ai-collaboration-report-2025.pdf)"
+- Shekhar, 2025. "[Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://shekhar14.medium.com/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code-b8025e7f132a)"
+
+
 
 #### 📝 Submit:
   - Discussion question to course chat
