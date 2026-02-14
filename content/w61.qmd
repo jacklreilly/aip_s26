@@ -14,6 +14,8 @@ title: "6.1 - CC: AI Business"
 
 #### 🌐 Browse:
 - Thompson, Ben. "[AI's Uneven Arrival](https://stratechery.com/2025/ais-uneven-arrival/)".  Blog post.
+- Olson, 2026. "[The Week Anthropic Tanked the Market and Pulled Ahead of Its Rivals](https://www.wsj.com/tech/ai/the-week-anthropic-tanked-the-market-and-pulled-ahead-of-its-rivals-ef59dff1)"
+- Jin, 2025. "[Anthropic Is on Track to Turn a Profit Much Faster Than OpenAI](https://www.wsj.com/tech/ai/openai-anthropic-profitability-e9f5bcd6)" Wall Street Journal.
 - "[Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/)"
 - *The Economist:* "[Will the bubble burst for AI in 2025, or will it start to deliver?](https://www.economist.com/the-world-ahead/2024/11/18/will-the-bubble-burst-for-ai-in-2025-or-will-it-start-to-deliver)" and "[The very real constraints on artificial intelligence in 2025](https://www.economist.com/the-world-ahead/2024/11/20/the-very-real-constraints-on-artificial-intelligence-in-2025)"
 - Zuckerberg, Mark. "[Open Source AI is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)"
