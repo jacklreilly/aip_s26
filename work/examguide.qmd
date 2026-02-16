@@ -1,0 +1,82 @@
+---
+title: "Exam Guide"
+format: 
+    html: default
+    pdf: default
+---
+
+## Overall Guidelines
+ - The exam will be in class, paper and pen (no pencils, please - they smudge!).  No computers will be used or needed.  Write legibly.[^writing]
+ - The exam will have two sections - IDs and short answer.
+    - An “ID”, or identification, question, simply gives you a term and asks you to define it and identify its relevance for the study of AI and AI Policy.
+    - A short answer is like a short essay - nothing terribly long, but should be structured, potentially with short paragraphs.  You could also be given a news article or data graphic about AI and be asked to interpret and situate it, saying why it is important to the broader discussion of AI.
+ - I do not imagine the exam will take the entire class period, but you will have the entire class period to complete it.
+
+[^writing]: I'll try to decipher everything, but ultimately, if I can't read it, it can't earn points.
+
+## Definitions and Key Concepts
+### Philosophy of AI
+1. Foundations
+    - Intelligence
+    - Consciousness
+    - Sentience
+    - “Common Sense”
+    - Autonomous Systems
+    - Simulation
+    - Emergence
+    - Game of Life
+2. AI Design & Assessment
+    - Strong AI
+    - Weak AI
+    - Turing Test
+    - Chinese Room Argument 
+    - Embodiment
+    - Agency
+    - Responsibility
+    - Role of Language in Thought & Intelligence
+
+### Technology of AI
+1. Hardware
+    - Turing Machine
+    - Basic parts of a computer (processor, memory, etc)
+    - Serial vs. Parallel Processing
+    - CPUs vs GPUs (and other, more specialized processing)
+    - Moore’s Law
+    - Silicon - design vs. fabrication
+    - “Die shrinks”
+    - Chip fabrication requirements 
+2. Software
+    - Low vs. High Level programming languages 
+    - Modeling
+    - Machine Learning
+    - Large Language Models
+    - Tokens
+    - Transformers
+    - Omitted Data/Algorithmic Bias
+    - Out of Sample Predictions/Long-Tail Problems
+    - Overfitting
+
+### Business of AI
+1. Building AI Systems
+    - Infrastructure
+    - Bubbles
+    - Products
+    - B2B vs Consumer
+    - Disruption
+    - Moats
+    - Startup tradeoffs: Profit vs Market Share
+    - Revenue streams
+    - AI product possibilities 
+    - Market positions of current major tech & AI companies
+2. Implications
+    - Data Access
+    - Energy  
+    - Labor Replacement
+    - Materials & supply chains
+
+
+## Example Short Answer
+- Given what we know about AI, how would you advise a firm looking to adopt an AI system to support its employees?  What kinds of concerns should the firm have, and how might it ameliorate them?
+- What is the difference between “Weak AI” and “Strong AI”?
+- What is the Turing Test, and is it a sufficient “test” of AI?
+- What would be an example of algorithmic bias in the world, why might it have arisen, and what is a proposal for managing it?
