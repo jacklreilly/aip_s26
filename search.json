@@ -257,518 +257,115 @@
     "text": "Footnotes\n\n\nI, for instance, used AI tools to help me build this course website, and I would guess that I was able to do it about twice as quickly as I would have been able to without AI.↩︎\nFor just a small sampling, see here, here, here, and here.↩︎\nGenerally speaking, at least. If you’re paying attention to some of the details with AI, you know about something called an LRM - or Large Reasoning Model. To a first approximation, they try to introduce better and more complex reasoning into the base prediction process, sometimes going so far as to do things like generate Python code to do math and statistical analysis. These “reasoning” models, however, still often fall short on relatively simple reasoning tasks (see Apple, 2025, The Illusion of Thinking).↩︎\nFrankfurt, 2005, On Bullshit; Hicks, Humphries, and Slater, 2024, ChatGPT is Bullshit. For those interested in a full taxonomy, Frankfurt helpfully helps us distinguish between bullshit and any number of additional similar-but-different not-quite-truthisms, including humbug, hot air, bluff, bravado, and lying.↩︎\nFor another excellent example of profanity being used ever so eloquently in academia, see Healy, 2017, “Fuck Nuance”, which genuinely contains very good advice on writing. (Although to be fair, you can also get most of the point of that article just from the title . . . which is also the point.)↩︎\nSee, for instance, Lehmann, Cornelius, and Sting, 2024↩︎\nThere’s no school like the old school. Insert proper “value of doing the tough work” metaphor here: eating your vegetables, walking uphill both ways to school in a snowstorm, learning to program in assembly before C, etc.↩︎\nMany publications, for instance, have explicit and clear instructions that prevent you from cheekily listing ChatGPT or Claude as a coauthor, in fact - even if they allow for the use of ChatGPT in the production of the manuscript. See, for instance, this discussion in regards to journals published by Springer-Nature.↩︎\nA good parallel here is Microsoft Office: if you write some nonsensical hot garbage in Word, Microsoft is never going to take responsiblity for any of that business. They’ll (correctly) note that it was just some dumb human that wrote it using their tool.↩︎\nAn arduous, unending, and unenviable task, like Sisyphus with his rock.↩︎\nAI slop: also known as, well, you know.↩︎\nAccordingly, I will generally not spend time trying to guess if your assignments are improperly AI generated, nor will I typically engage with technology that purports to do this for me. The technical tools that try to detect LLM writing are imperfect, anyway, resulting in a lot of uncertainty and false positives.↩︎\nGood, and effective, AI usage often has the property of being largely undetectable, even to a trained eye – that’s often part of what makes it an effective use of the tool, actually!↩︎\nAn all too common mistake made today by many people, for the record. Much of the pearl-clutching around AI in education is really focused on how we can know or detect whether or not students are “cheating” on test and assignments, and less about how we can actually integrate AI meaningfully into the learning process.↩︎"
   },
   {
-    "objectID": "work/final.html",
-    "href": "work/final.html",
-    "title": "Final Project",
+    "objectID": "work/examguide.html",
+    "href": "work/examguide.html",
+    "title": "Exam Guide",
     "section": "",
-    "text": "Choose one of the following.\n\nChoose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:\n\nA definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?\nAn assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?\nThe policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?\nDiscussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up “winning” and “losing”?\n\nIdentify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.\nWrite a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.\nChoose your own topic! Students selecting this option must have their project approved by the professor.",
-    "crumbs": [
-      "📝 Work",
-      "Final Project"
-    ]
+    "text": "The exam will be in class, paper and pen (no pencils, please - they smudge!). No computers will be used or needed. Write legibly.1\nThe exam will have two sections - IDs and short answer.\n\nAn “ID”, or identification, question, simply gives you a term and asks you to define it and identify its relevance for the study of AI and AI Policy.\nA short answer is like a short essay - nothing terribly long, but should be structured, potentially with short paragraphs. You could also be given a news article or data graphic about AI and be asked to interpret and situate it, saying why it is important to the broader discussion of AI.\n\nI do not imagine the exam will take the entire class period, but you will have the entire class period to complete it."
   },
   {
-    "objectID": "work/final.html#possible-topics",
-    "href": "work/final.html#possible-topics",
-    "title": "Final Project",
+    "objectID": "work/examguide.html#overall-guidelines",
+    "href": "work/examguide.html#overall-guidelines",
+    "title": "Exam Guide",
     "section": "",
-    "text": "Choose one of the following.\n\nChoose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:\n\nA definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?\nAn assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?\nThe policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?\nDiscussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up “winning” and “losing”?\n\nIdentify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.\nWrite a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.\nChoose your own topic! Students selecting this option must have their project approved by the professor.",
-    "crumbs": [
-      "📝 Work",
-      "Final Project"
-    ]
+    "text": "The exam will be in class, paper and pen (no pencils, please - they smudge!). No computers will be used or needed. Write legibly.1\nThe exam will have two sections - IDs and short answer.\n\nAn “ID”, or identification, question, simply gives you a term and asks you to define it and identify its relevance for the study of AI and AI Policy.\nA short answer is like a short essay - nothing terribly long, but should be structured, potentially with short paragraphs. You could also be given a news article or data graphic about AI and be asked to interpret and situate it, saying why it is important to the broader discussion of AI.\n\nI do not imagine the exam will take the entire class period, but you will have the entire class period to complete it."
   },
   {
-    "objectID": "work/final.html#requirements",
-    "href": "work/final.html#requirements",
-    "title": "Final Project",
-    "section": "Requirements",
-    "text": "Requirements\nYou will need to prepare a paper and a class presentation around your chosen topic.\n\nPapers\nPapers should be double-spaced in 12 point font with one inch margins. Papers should also include proper citations and a works cited page. Any style formatting is acceptable, so long as it is internally consistent. I encourage in-text citations and the use of footnotes over endnotes.\nUndergraduate: 8-10 pages\nGraduate: 14-16 pages\n\n\nPresentations\nPresentations should be designed in a graphically compelling fashion and practiced ahead of time. Professionalism counts! You should be in command of your material, and be ready to answer audience questions about your project proposal after you finish. Exact length constraints will depend on the number of presentations, but you should imagine targeting about 5-7 minutes, with groups being allocated slightly more time.\n\n\nCollaboration\nYou may work individually or in a group of up to three for this final project. Those working in groups should prepare papers that meet the following length requirements:\nUndergraduate: \\(length = (6+3x) \\pm 1\\)\nGraduate: \\(length = (10+5x) \\pm 1\\)\nWhere \\(x\\) is the number of people working in the group and \\(length\\) is paper length measured in pages. Collaborative projects should be understood as full co-authorships: all group members are responsible for all content, and they should read (and be presented) like a coherent whole, not as separate uncoordinated mini-papers assembled within an umbrella document.\n\n\nAI Policy\nYou may use AI to assist you in the creation of your projects. You must disclose what AIs you used, and how and for what purpose you used them, in an appendix. (Did you use it to search for literature? For explanations of policy areas or policy problems? To assist in the creation of a draft or in editing?)\nIf you use AI, remember what we have discussed in our class: AI has its uses, but you must also be aware of its weaknesses. AI prose is often poor from an academic perspective, and typically lacks precision, commitment, and clarity of original thought. LLMs can also have an uncomfortably loose relationship with truth. Accordingly, I would suggest that it is appropriate to use AI to assist you in automating research tasks, but also strongly encourage you not to substitute it for your own writing, thoughts, judgment, and proposal.\n\n\nDeadlines\n\nMarch 26: Topics must be chosen and submitted (and approved, if necessary). See Assignment 2.\nWeek 14: Presentations will be given in class during the final week of class, with exact days TBD.\nMay 1: Papers due. Papers should incorporate feedback from the presentation.",
-    "crumbs": [
-      "📝 Work",
-      "Final Project"
-    ]
+    "objectID": "work/examguide.html#definitions-and-key-concepts",
+    "href": "work/examguide.html#definitions-and-key-concepts",
+    "title": "Exam Guide",
+    "section": "Definitions and Key Concepts",
+    "text": "Definitions and Key Concepts\n\nPhilosophy of AI\n\nFoundations\n\nIntelligence\nConsciousness\nSentience\n“Common Sense”\nAutonomous Systems\nSimulation\nEmergence\nGame of Life\n\nAI Design & Assessment\n\nStrong AI\nWeak AI\nTuring Test\nChinese Room Argument\nEmbodiment\nAgency\nResponsibility\nRole of Language in Thought & Intelligence\n\n\n\n\nTechnology of AI\n\nHardware\n\nTuring Machine\nBasic parts of a computer (processor, memory, etc)\nSerial vs. Parallel Processing\nCPUs vs GPUs (and other, more specialized processing)\nMoore’s Law\nSilicon - design vs. fabrication\n“Die shrinks”\nChip fabrication requirements\n\nSoftware\n\nLow vs. High Level programming languages\nModeling\nMachine Learning\nLarge Language Models\nTokens\nTransformers\nOmitted Data/Algorithmic Bias\nOut of Sample Predictions/Long-Tail Problems\nOverfitting\n\n\n\n\nBusiness of AI\n\nBuilding AI Systems\n\nInfrastructure\nBubbles\nProducts\nB2B vs Consumer\nDisruption\nMoats\nStartup tradeoffs: Profit vs Market Share\nRevenue streams\nAI product possibilities\nMarket positions of current major tech & AI companies\n\nImplications\n\nData Access\nEnergy\n\nLabor Replacement\nMaterials & supply chains"
   },
   {
-    "objectID": "work/final.html#submit",
-    "href": "work/final.html#submit",
-    "title": "Final Project",
-    "section": "Submit",
-    "text": "Submit\nPapers and slides to Blackboard; PDF format. Don’t forget your AI appendix (even if to say you did not use AI) and your works cited page.",
-    "crumbs": [
-      "📝 Work",
-      "Final Project"
-    ]
+    "objectID": "work/examguide.html#example-short-answer",
+    "href": "work/examguide.html#example-short-answer",
+    "title": "Exam Guide",
+    "section": "Example Short Answer",
+    "text": "Example Short Answer\n\nGiven what we know about AI, how would you advise a firm looking to adopt an AI system to support its employees? What kinds of concerns should the firm have, and how might it ameliorate them?\nWhat is the difference between “Weak AI” and “Strong AI”?\nWhat is the Turing Test, and is it a sufficient “test” of AI?\nWhat would be an example of algorithmic bias in the world, why might it have arisen, and what is a proposal for managing it?"
   },
   {
-    "objectID": "work/dtips.html",
-    "href": "work/dtips.html",
-    "title": "Debate Tips",
-    "section": "",
-    "text": "Refer to the other team as “our opponents” or “my opponent”.\nThink carefully about the resolution. What exactly is the resolution asking you to debate? Do not allow yourself to be distracted by anything off topic (which good debaters will try to do, of course).\nDefine the terms of the debate. Resolutions, by their nature, have inherent ambiguities. Define and frame the resolution further in a way that is simultaneously fair and that gives you an argumentative advantage. Make the terms of the debate clear to the jury: what, for instance, should determine a winner and loser in the debate? What points does your side need to make and what points does the other side need to make to win? Tell the jury what it means to win the debate.\nIn oral debate presentation, clarity is key. Subtlety is not your friend. Be straight, simple, and to the point.\nDebates happen fast. Plan. Pay attention to your time. The debate can feel simultaneously short and long - a three minute constructive is plenty of time to say what you need to, so long as you plan well ahead of time. Use all of your time effectively but do not go over.\nSpeak quickly if you can, but above all else, be clear and calm. If you want to perform well you must practice giving your constructive speech at least twice.\nUse resources from class, including readings and lectures, as well as material from outside class. Consider the optional readings listed in the course agenda. They are there to help you.\nRemember: if you want to win, you need to focus on persuading the jury. How many times have you been in an argument with someone and find yourself thinking, “oh my god, why don’t you understand?! The evidence is right there!”? Facts alone don’t win arguments. Persuasion wins arguments.",
-    "crumbs": [
-      "📝 Work",
-      "Debates",
-      "Debate Tips"
-    ]
-  },
-  {
-    "objectID": "work/dtips.html#general-tips-and-advice",
-    "href": "work/dtips.html#general-tips-and-advice",
-    "title": "Debate Tips",
-    "section": "",
-    "text": "Refer to the other team as “our opponents” or “my opponent”.\nThink carefully about the resolution. What exactly is the resolution asking you to debate? Do not allow yourself to be distracted by anything off topic (which good debaters will try to do, of course).\nDefine the terms of the debate. Resolutions, by their nature, have inherent ambiguities. Define and frame the resolution further in a way that is simultaneously fair and that gives you an argumentative advantage. Make the terms of the debate clear to the jury: what, for instance, should determine a winner and loser in the debate? What points does your side need to make and what points does the other side need to make to win? Tell the jury what it means to win the debate.\nIn oral debate presentation, clarity is key. Subtlety is not your friend. Be straight, simple, and to the point.\nDebates happen fast. Plan. Pay attention to your time. The debate can feel simultaneously short and long - a three minute constructive is plenty of time to say what you need to, so long as you plan well ahead of time. Use all of your time effectively but do not go over.\nSpeak quickly if you can, but above all else, be clear and calm. If you want to perform well you must practice giving your constructive speech at least twice.\nUse resources from class, including readings and lectures, as well as material from outside class. Consider the optional readings listed in the course agenda. They are there to help you.\nRemember: if you want to win, you need to focus on persuading the jury. How many times have you been in an argument with someone and find yourself thinking, “oh my god, why don’t you understand?! The evidence is right there!”? Facts alone don’t win arguments. Persuasion wins arguments.",
-    "crumbs": [
-      "📝 Work",
-      "Debates",
-      "Debate Tips"
-    ]
-  },
-  {
-    "objectID": "work/dtips.html#the-constructive",
-    "href": "work/dtips.html#the-constructive",
-    "title": "Debate Tips",
-    "section": "The Constructive",
-    "text": "The Constructive\n\nUse the following format for your constructive speech:\n\nClaim I (The first point you argue. Literally say, “Our first claim is that . . . “)\n\nWarrant (“This is true because…”)\nEvidence (reference sources to add authority to your claim; the more well known and respected, the better)\nImpact (“This is important because…”)\n\nClaim II (The second point you argue)\n\nWarrant\nEvidence\nImpact\n\nClaim III (The third point you argue)\n\nWarrant\nEvidence\nImpact\n\n\nUsing three claims nicely maps on to three minutes. That said, you can increase or decrease the number of claims if you think it important. Just remember that quality matters. Too few substantive claims, and it seems like you don’t have much to say; too many claims and the jury loses track of your argument.",
-    "crumbs": [
-      "📝 Work",
-      "Debates",
-      "Debate Tips"
-    ]
-  },
-  {
-    "objectID": "work/dtips.html#the-cross-examination",
-    "href": "work/dtips.html#the-cross-examination",
-    "title": "Debate Tips",
-    "section": "The Cross Examination",
-    "text": "The Cross Examination\n\nAvoid the trap of over explaining in either question or response. The most memorable points are quick and pithy.\n\nIf you’re asking too long a question, both the other team and the jury will lose track of what you’re asking.1\nIf you’re over explaining in response, you’re probably losing. More time spent in response is more time spent in your opponent’s frame of the debate terms, and less time in yours.\n\nIn questions, go on the offensive and ask questions that you know your opponents don’t have good answers for. Good examples of questions include:\n\nTesting assumptions: “Does your argument depend on . . .”\nHighlight tradeoffs: “Does your policy require sacrificing . . .”\nClarifications: “What exactly do you mean by . . .”\nLock in concessions: “Do you agree that . . .”\n\nIn responses, answer honestly, but remember that too much time in response is time that you’re not spending pressing your opponent on the weaknesses in their arguments. Many best responses tend to deflect quickly, rather than parry fully.2\n\nParry: “That’s wrong because . . .”\nDeflect: “Even if that were true, it doesn’t matter/doesn’t undermine our claim because . . .”\n\nRemember: The cross examination is more typically won by asking good questions rather than having good responses. Prepare accordingly. A strong cross-examination plan can (and should) be written before debate day and probably needs only small tweaks and adjustments within the debate itself.",
-    "crumbs": [
-      "📝 Work",
-      "Debates",
-      "Debate Tips"
-    ]
-  },
-  {
-    "objectID": "work/dtips.html#rebuttal-and-final-focus",
-    "href": "work/dtips.html#rebuttal-and-final-focus",
-    "title": "Debate Tips",
-    "section": "Rebuttal and Final Focus",
-    "text": "Rebuttal and Final Focus\n\nThe rebuttal and final focus have related but different purposes.\n\nThe rebuttal is where you rebut and reinforce arguments, telling the jury why your opponents are wrong and you are right.\n\nThe final focus is where you focus the jury on why you should win the debate. It introduces no new arguments; it exists to crystallize what has come before.\n\nThe rebuttal expands and contracts according to the scale of the arguments made. You want to be exhaustive, but remember that there is a limit to how many points can be remembered by a jury, so choose wisely.\nIn the final focus, use a similar format to the constructive:\n\n“Members of the jury, here is why we’ve won today’s round:”\n\nReason (Tell the jury very literally why they should vote for you)\nReason\nReason",
-    "crumbs": [
-      "📝 Work",
-      "Debates",
-      "Debate Tips"
-    ]
-  },
-  {
-    "objectID": "work/dtips.html#footnotes",
-    "href": "work/dtips.html#footnotes",
-    "title": "Debate Tips",
+    "objectID": "work/examguide.html#footnotes",
+    "href": "work/examguide.html#footnotes",
+    "title": "Exam Guide",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nYou have all other parts of the debate to speech-ify. This is your time to extract concessions from your opponents directly.↩︎\nAn important caveat: if you deflect, rather than parry, a very legitimate question, the jury will likely see you as evasive and not engaging with the substance of the debate.↩︎",
-    "crumbs": [
-      "📝 Work",
-      "Debates",
-      "Debate Tips"
-    ]
+    "text": "Footnotes\n\n\nI’ll try to decipher everything, but ultimately, if I can’t read it, it can’t earn points.↩︎"
   },
   {
-    "objectID": "work/d6res.html",
-    "href": "work/d6res.html",
-    "title": "Debate 6 - Humanity",
+    "objectID": "work/d4res.html",
+    "href": "work/d4res.html",
+    "title": "Debate 4 - Geopolitics",
     "section": "",
-    "text": "The United States should ban the sale of advanced US-designed GPUs to China.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 3\nTeam 2"
+    "text": "The United States government should further subsidize Intel’s foundry operations.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 1\nTeam 3"
   },
   {
-    "objectID": "work/d6res.html#resolution",
-    "href": "work/d6res.html#resolution",
-    "title": "Debate 6 - Humanity",
+    "objectID": "work/d4res.html#resolution",
+    "href": "work/d4res.html#resolution",
+    "title": "Debate 4 - Geopolitics",
     "section": "",
-    "text": "The United States should ban the sale of advanced US-designed GPUs to China.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 3\nTeam 2"
+    "text": "The United States government should further subsidize Intel’s foundry operations.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 1\nTeam 3"
   },
   {
-    "objectID": "work/d6res.html#amendments-and-adjustments",
-    "href": "work/d6res.html#amendments-and-adjustments",
-    "title": "Debate 6 - Humanity",
+    "objectID": "work/d4res.html#amendments-and-adjustments",
+    "href": "work/d4res.html#amendments-and-adjustments",
+    "title": "Debate 4 - Geopolitics",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nTBD"
   },
   {
-    "objectID": "work/d6res.html#judges-notes",
-    "href": "work/d6res.html#judges-notes",
-    "title": "Debate 6 - Humanity",
+    "objectID": "work/d4res.html#judges-notes",
+    "href": "work/d4res.html#judges-notes",
+    "title": "Debate 4 - Geopolitics",
     "section": "Judge’s Notes",
     "text": "Judge’s Notes"
   },
   {
-    "objectID": "work/d2res.html",
-    "href": "work/d2res.html",
-    "title": "Debate 2 - Technology",
+    "objectID": "work/d1res.html",
+    "href": "work/d1res.html",
+    "title": "Debate 1 - Philosophy",
     "section": "",
-    "text": "The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 3\nTeam 1",
+    "text": "An entity that passes the Turing Test is intelligent.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 2\nTeam 3",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2 - Technology"
+      "Debate 1 - Philosophy"
     ]
   },
   {
-    "objectID": "work/d2res.html#resolution",
-    "href": "work/d2res.html#resolution",
-    "title": "Debate 2 - Technology",
+    "objectID": "work/d1res.html#resolution",
+    "href": "work/d1res.html#resolution",
+    "title": "Debate 1 - Philosophy",
     "section": "",
-    "text": "The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 3\nTeam 1",
+    "text": "An entity that passes the Turing Test is intelligent.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 2\nTeam 3",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2 - Technology"
+      "Debate 1 - Philosophy"
     ]
   },
   {
-    "objectID": "work/d2res.html#amendments-and-adjustments",
-    "href": "work/d2res.html#amendments-and-adjustments",
-    "title": "Debate 2 - Technology",
+    "objectID": "work/d1res.html#amendments-and-adjustments",
+    "href": "work/d1res.html#amendments-and-adjustments",
+    "title": "Debate 1 - Philosophy",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nSee debate guidelines and debate tips for guidance and details.\nThere are no adjustments to the standard debate format for this debate.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2 - Technology"
+      "Debate 1 - Philosophy"
     ]
   },
   {
-    "objectID": "work/d2res.html#judges-notes",
-    "href": "work/d2res.html#judges-notes",
-    "title": "Debate 2 - Technology",
+    "objectID": "work/d1res.html#judges-notes",
+    "href": "work/d1res.html#judges-notes",
+    "title": "Debate 1 - Philosophy",
     "section": "Judge’s Notes",
-    "text": "Judge’s Notes\n\nThis debate has the same general form as Debate #1. All the same things apply: think carefully about what the resolution is actually about and how you want to frame the debate.\nUnlike the first debate, however, this resolution has an increased role for external research. You may wish to learn more about details of the resolution (methods and mechanisms of energy production; AI demand for energy; the current role the state has in energy; etc).\nThat said, make sure to think about the right level of detail: this is a short-form debate, not an extended white paper, so while you need evidence, getting too deep into the weeds of energy policy may not be to your advantage.",
+    "text": "Judge’s Notes\nIt may help to think of this debate as a warm-up and illustration of the debate format. Later debates typically take place over more substantive policy disputes, with a potential greater role for evidence; this first debate is meant to illustrate the form of debate itself. It can help, for instance, to think about how you might have a debate over similar “debate training” resolutions, like:\n\n“A hot dog is a sandwich”\n“Cereal is a soup”\n“Peppers are fruits”\n“Pluto should be classified as a planet”\n“Chess is a sport”\n“Coffee is better than tea”\n“Breakfast food is superior to dinner food”\n\nYou should expect that much of this debate will turn on how key terms like “intelligence” and “passing the Turing Test” are defined. It’s not that there is no role for evidence in these resolutions - there is - but evidentiary proof is secondary to argumentative structure and strategy in winning these kinds of “training” debates. Remember, the goal is not to be correct: the goal is to make the best case possible under reasonable definitions (and learn something substantive about both sides of a debate along the way).",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 2 - Technology"
+      "Debate 1 - Philosophy"
     ]
-  },
-  {
-    "objectID": "work/d5res.html",
-    "href": "work/d5res.html",
-    "title": "Debate 5 - Policy",
-    "section": "",
-    "text": "To ameliorate future disruption in the labor market caused by artificial intelligence, the United States should implement a universal basic income.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 3\nTeam 2\nTeam 1"
-  },
-  {
-    "objectID": "work/d5res.html#resolution",
-    "href": "work/d5res.html#resolution",
-    "title": "Debate 5 - Policy",
-    "section": "",
-    "text": "To ameliorate future disruption in the labor market caused by artificial intelligence, the United States should implement a universal basic income.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 3\nTeam 2\nTeam 1"
-  },
-  {
-    "objectID": "work/d5res.html#amendments-and-adjustments",
-    "href": "work/d5res.html#amendments-and-adjustments",
-    "title": "Debate 5 - Policy",
-    "section": "Amendments and Adjustments",
-    "text": "Amendments and Adjustments\n\nTBD"
-  },
-  {
-    "objectID": "work/d5res.html#judges-notes",
-    "href": "work/d5res.html#judges-notes",
-    "title": "Debate 5 - Policy",
-    "section": "Judge’s Notes",
-    "text": "Judge’s Notes"
-  },
-  {
-    "objectID": "work/assign1.html",
-    "href": "work/assign1.html",
-    "title": "Assignment 1 - Using LLMs",
-    "section": "",
-    "text": "For this assignment, choose your favorite LLM (it can be anything, free or otherwise - ChatGPT, Gemini, Claude, Grok, etc). Use it to answer the following questions.\n\nAsk the LLM to write a paper on a topic of your choosing. It should be a topic that you know very well, so that you can identify correct and incorrect information easily. The topic doesn’t have to be directly related to policy.1 Feel free to specify the question however you want, but make sure it looks like a “regular” essay prompt: there should be details about topic, page length requirements, bibliographic expectations, etc.\nOnce you are satisfied with your prompt, give it to your chosen LLM. Then, grade the LLM’s answer, looking for style, prose, accuracy, and overall argumentation. In your grade, provide both a letter grade (A to F) and, more critically, a justification for that grade. What did the LLM do well? What did it do poorly? Are there any factual inaccuracies or hallucinations? Is there anything that really should have been included in the essay, but wasn’t? Did it follow proper formatting and length requirements?\nGive the LLM feedback on its first essay and ask for improvements. Then, assess the improvements. Did the LLM accurately correct mistakes?\nReflect on the process. In other assignments where you are allowed to use LLMs, how does this experience inform your future use of LLMs? How can you best utilize this tool while still taking responsibility for the quality of the final product?",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 1 - Using LLMs"
-    ]
-  },
-  {
-    "objectID": "work/assign1.html#instructions",
-    "href": "work/assign1.html#instructions",
-    "title": "Assignment 1 - Using LLMs",
-    "section": "",
-    "text": "For this assignment, choose your favorite LLM (it can be anything, free or otherwise - ChatGPT, Gemini, Claude, Grok, etc). Use it to answer the following questions.\n\nAsk the LLM to write a paper on a topic of your choosing. It should be a topic that you know very well, so that you can identify correct and incorrect information easily. The topic doesn’t have to be directly related to policy.1 Feel free to specify the question however you want, but make sure it looks like a “regular” essay prompt: there should be details about topic, page length requirements, bibliographic expectations, etc.\nOnce you are satisfied with your prompt, give it to your chosen LLM. Then, grade the LLM’s answer, looking for style, prose, accuracy, and overall argumentation. In your grade, provide both a letter grade (A to F) and, more critically, a justification for that grade. What did the LLM do well? What did it do poorly? Are there any factual inaccuracies or hallucinations? Is there anything that really should have been included in the essay, but wasn’t? Did it follow proper formatting and length requirements?\nGive the LLM feedback on its first essay and ask for improvements. Then, assess the improvements. Did the LLM accurately correct mistakes?\nReflect on the process. In other assignments where you are allowed to use LLMs, how does this experience inform your future use of LLMs? How can you best utilize this tool while still taking responsibility for the quality of the final product?",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 1 - Using LLMs"
-    ]
-  },
-  {
-    "objectID": "work/assign1.html#submission",
-    "href": "work/assign1.html#submission",
-    "title": "Assignment 1 - Using LLMs",
-    "section": "Submission",
-    "text": "Submission\nYour submission should include:\n\nYour original prompt to your LLM (and an identification of what LLM you used), along with the LLM’s original answer.\nYour grade and assessment of the LLM’s answer (~500 words).\nThe feedback you gave the LLM and the LLM’s new answer.\nA brief assessment of whether the new answer met expectations (~200 words).\nA reflection on the quality of the LLM’s answer and process (~200 words).\n\nYou should also be prepared to briefly discuss your assignment in class.",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 1 - Using LLMs"
-    ]
-  },
-  {
-    "objectID": "work/assign1.html#deadline",
-    "href": "work/assign1.html#deadline",
-    "title": "Assignment 1 - Using LLMs",
-    "section": "Deadline",
-    "text": "Deadline\nThis assignment is due February 19 (Week 6.2) to Blackboard as a PDF.",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 1 - Using LLMs"
-    ]
-  },
-  {
-    "objectID": "work/assign1.html#footnotes",
-    "href": "work/assign1.html#footnotes",
-    "title": "Assignment 1 - Using LLMs",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIn fact, it might be better if it isn’t! If you want to make it about policy, that’s perfectly ok, but it’s more important you know the topic very well, so that you are able to easily assess the results of your prompting.↩︎",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 1 - Using LLMs"
-    ]
-  },
-  {
-    "objectID": "cssstylesextras.html",
-    "href": "cssstylesextras.html",
-    "title": "Artificial Intelligence Policy",
-    "section": "",
-    "text": "preferred navbar color #e8bc00\n/* css styles */\n#quarto-content h1 { color: ;} #quarto-content h2 { color: ;} #quarto-content h3 { color: ;}\n.quarto-title-banner { background-color: ; }\n.navbar, .navbar.bg-primary { background-color: #cfa700; }\n#quarto-content a { color: ; }\n#quarto-content a:hover { color: ; }\n/* Active item in the page TOC */ #TOC a.active, #TOC a[aria-current=“true”] { color: ; }\n@media (min-width: 992px) { .navbar .navbar-nav.me-auto { margin-right: 0 !important; margin-left: auto !important; } }\n    - section: \"2. AI and Technology\"\n      href: content/index.qmd\n      contents:\n      - content/w41.qmd\n      - content/w42.qmd\n      - content/w51.qmd\n      - content/w52.qmd\n    - section: \"3. AI and the World\"\n      href: content/index.qmd\n      contents:\n      - content/w61.qmd\n      - content/w62.qmd\n      - content/w71.qmd\n      - content/w72.qmd\n    - section: \"4. AI and Business\"\n      href: content/index.qmd\n      contents:\n      - content/w81.qmd\n      - content/w82.qmd\n      - content/w91.qmd\n      - content/w92.qmd\n    - section: \"5. AI and Governance\"\n      href: content/index.qmd\n      contents:\n      - content/w101.qmd\n      - content/w102.qmd\n      - content/w111.qmd\n      - content/w112.qmd\n    - section: \"6. AI and Humanity\"\n      href: content/index.qmd\n      contents:\n      - content/w121.qmd\n      - content/w122.qmd\n      - content/w131.qmd\n      - content/w132.qmd"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Artificial Intelligence Policy",
-    "section": "",
-    "text": "Think critically about artificial intelligence and learn how to design and evaluate artificial intelligence policies for government, business, and nonprofit organizations of all sizes.\n    \n\n    \n      PAI 400/600 • Spring 2026\n      Maxwell School of Citizenship & Public Affairs\n      Syracuse University\n    \n  \n\n\n\n\n\n\n\n\n\n\n\nNoteInstructor\n\n\n\n\n👤 Dr. Jack Reilly\n🏛️ Eggers Hall 225\n✉️ jlreilly@syr.edu\n\n\n\n\n\n\n\n\n\n\nNoteCourse details\n\n\n\n\n📅 Tuesdays & Thursdays\n🕒 2:00 – 3:20 PM\n📍 Eggers Hall 070\n\n\n\n\n\nPlease browse the course pages for course overview, schedule, content and reading, work and assignments, course and campus policies, and guidelines for initially thinking about use of AI in this class. If you would prefer to have the syllabus as a single page, go here. And note you can download any page on the website you like as a pdf or formatted document.\nI look forward to seeing you in class."
-  },
-  {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Artificial Intelligence Policy",
-    "section": "",
-    "text": "Time: Tuesday and Thursday, 2:00 PM - 3:20 PM\nLocation: Eggers 070\n\n\n\nProfessor Jack Reilly\nOffice: Eggers 225\nOffice Hours: Tuesday and Thursday, 11 AM - Noon, Wednesday 1:30-2:30 PM, and by appointment.1\nPhone: 315-443-2687 (office)\ne-mail: jlreilly@syr.edu\n\n\n\nThis course is designed for students who want to think critically about artificial intelligence and design artificial intelligence policies for government, business, and nonprofit organizations of all sizes.\n\n\n\nThis course serves as an introduction to the politics and policy of artificial intelligence. It presumes no particular prior knowledge of artificial intelligence, political science, public policy, or computer science; rather, it will introduce students to what artificial intelligence is as well as to the ethics of AI, its social implications, and the policy choices around AI that currently face governments, corporations, and organizations worldwide. This is a “non-technical” course: assignments will include reading, class discussion and leadership, debates, writing, and learning about the use of AI tools and prompts to generate output. Students will not be expected, however, to program or write any formal code.\n\n\n\nPrinciple - Practice - Politics - Policy\nThe course moves from the conceptual to the practical. First, we start with an introduction to the philosophy of artificial intelligence itself. What is “intelligence” and “consciousness” in the first place? What are minds? What are agents and legal persons, and when are agents responsible for their actions? What is artificial intelligence, and what is artificial “general” intelligence? Second, we proceed to discuss the mechanics of current computational approaches to AI, with a particular focus on large language models (such as OpenAI’s ChatGPT), including approachable, non-technical overviews of the principles behind machine learning, neural networks, and assorted technologies that have given rise to the current state of the art in AI. Third, we consider the societal impacts of current artificial intelligence systems, including data practices as well as current AI applications, uses, risks, and ethics. Fourth, we turn to policy, examining the decisions in front of governments, companies, and organizations in the United States and worldwide as well as complications in the policy process for producing effective AI legislation.\n\n\n\nIntroductory coursework in (any) related area(s). No particular knowledge is expected, but the reading level is high and this course may not be suitable for first year students.\nWhile this course has no formal pre-requisites, it does have a substantial informal prerequisite: motivation. This class is conducted as a seminar, not a lecture, and interest and participation is presumed and required.\n\n\n\n\nExplain the core technical, economic, and political forces that shape how modern AI models are developed, deployed, and governed.\nCritically evaluate and debate alternate perspectives on contemporary AI policy issues, using evidence to construct and defend reasoned arguments.\nDesign and evaluate AI policy proposals by applying principles of data ethics, policy analysis, and policy design to real-world issue domains."
-  },
-  {
-    "objectID": "syllabus.html#course-information",
-    "href": "syllabus.html#course-information",
-    "title": "Artificial Intelligence Policy",
-    "section": "",
-    "text": "Time: Tuesday and Thursday, 2:00 PM - 3:20 PM\nLocation: Eggers 070\n\n\n\nProfessor Jack Reilly\nOffice: Eggers 225\nOffice Hours: Tuesday and Thursday, 11 AM - Noon, Wednesday 1:30-2:30 PM, and by appointment.1\nPhone: 315-443-2687 (office)\ne-mail: jlreilly@syr.edu\n\n\n\nThis course is designed for students who want to think critically about artificial intelligence and design artificial intelligence policies for government, business, and nonprofit organizations of all sizes.\n\n\n\nThis course serves as an introduction to the politics and policy of artificial intelligence. It presumes no particular prior knowledge of artificial intelligence, political science, public policy, or computer science; rather, it will introduce students to what artificial intelligence is as well as to the ethics of AI, its social implications, and the policy choices around AI that currently face governments, corporations, and organizations worldwide. This is a “non-technical” course: assignments will include reading, class discussion and leadership, debates, writing, and learning about the use of AI tools and prompts to generate output. Students will not be expected, however, to program or write any formal code.\n\n\n\nPrinciple - Practice - Politics - Policy\nThe course moves from the conceptual to the practical. First, we start with an introduction to the philosophy of artificial intelligence itself. What is “intelligence” and “consciousness” in the first place? What are minds? What are agents and legal persons, and when are agents responsible for their actions? What is artificial intelligence, and what is artificial “general” intelligence? Second, we proceed to discuss the mechanics of current computational approaches to AI, with a particular focus on large language models (such as OpenAI’s ChatGPT), including approachable, non-technical overviews of the principles behind machine learning, neural networks, and assorted technologies that have given rise to the current state of the art in AI. Third, we consider the societal impacts of current artificial intelligence systems, including data practices as well as current AI applications, uses, risks, and ethics. Fourth, we turn to policy, examining the decisions in front of governments, companies, and organizations in the United States and worldwide as well as complications in the policy process for producing effective AI legislation.\n\n\n\nIntroductory coursework in (any) related area(s). No particular knowledge is expected, but the reading level is high and this course may not be suitable for first year students.\nWhile this course has no formal pre-requisites, it does have a substantial informal prerequisite: motivation. This class is conducted as a seminar, not a lecture, and interest and participation is presumed and required.\n\n\n\n\nExplain the core technical, economic, and political forces that shape how modern AI models are developed, deployed, and governed.\nCritically evaluate and debate alternate perspectives on contemporary AI policy issues, using evidence to construct and defend reasoned arguments.\nDesign and evaluate AI policy proposals by applying principles of data ethics, policy analysis, and policy design to real-world issue domains."
-  },
-  {
-    "objectID": "syllabus.html#materials",
-    "href": "syllabus.html#materials",
-    "title": "Artificial Intelligence Policy",
-    "section": "📘 Materials",
-    "text": "📘 Materials\n\nBooks\n\nRequired\n\nNone. All materials will be available online.\nMaterials may require logging in through the library for access.\n\nRecommended\n\nHaugeland et al, 2023. Mind Design III: Philosophy, Psychology, and Artificial Intelligence.\n\n\n\n\nComputing\nWe will make use of AI models in class as end-users, so you should have a computer you can use to access them. No coding will be required in the course.\nSyracuse University has a campus-wide license to the enterprise version of Anthropic’s Claude, which gives you increased usage before your compute is limited. Anthropic also guarantees Syracuse that it will not train Claude’s models on your data. I recommend you use it when asked in course assignments if you do not have higher-level access to another LLM. Syracuse University: Claude Enterprise\n\n\nOnline Course Resources\n\nWebsite\nThis course website is our primary source of course organization and material: here, you can find the course syllabus, daily content, assignments, and more.\n\n\nBlackboard\nBlackboard is our internet-based course platform: http://blackboard.syr.edu. In it, you will find submission portals for assignments and a link to our course webpage, along with (potentially) a few resources that are copyright protected and not suitable to post here.\n\n\nMicrosoft Teams\nIn addition to Blackboard, we’ll have a class discussion channel in Microsoft Teams for discussion question sharing as well as for sharing news articles. Make sure you set up easy access for yourself wherever is convenient."
-  },
-  {
-    "objectID": "syllabus.html#course-requirements",
-    "href": "syllabus.html#course-requirements",
-    "title": "Artificial Intelligence Policy",
-    "section": "📌 Course Requirements",
-    "text": "📌 Course Requirements\n\nOverview\n\nSeminar Participation (20%)\n\nAttendance, Reading, and Participation\nDiscussion Questions\nAI News Submissions\nDiscussion Leadership\n\nPrepared Work for Class (40%)\n\nDebates (30%)\nShort Assignments (10%)\n\nCore Exam (20%)\nFinal Project (20%)\n\nPresentation\nPaper\n\n\n\n\nSeminar Participation\n\nDaily Attendance, Participation, and Reading\nThis is a preceptorial-style seminar taught at a high level: it only works if everyone takes part. I have a high opinion of your intellectual capability and a similarly high opinion of the quality of your potential contributions - make sure to show them to me!\n\n\nDiscussion Questions\nSubmit discussion questions or points (broadly construed) to the class by 9 AM on the day of class. Make sure to send messages to the course Teams chat so everyone can read them.\n\n\nAI News Submissions\nIn class, we’ll occasionally use time in class to discuss AI news from the week. (Especially if something particularly interesting happens . . . which, because this is AI, happens a lot). If you come across interesting AI news - or broad tech industry news - submit it to our Teams chat.\n\n\nDiscussion Leadership\nEach class has an assigned discussion leader from among the students. While all students are under an obligation to read (or listen, or watch) the material each day from class, the discussion leader has a special role as the person who starts our discussion for the day rolling, and steps in should our discussion of the day’s material falter.\n\n\nParticipation Grading Policy\nA seminar like this doesn’t work if everyone only seeks to do the bare minimum. Informed class participation is expected and required each day in class; you shouldn’t be counting things like “I submitted a number of news articles already this semester, so I no longer need to submit news articles or talk in class”. Participate across all elements of the seminar as and when the spirit moves you, and keep that participation up through the semester, and you’ll do fine for this portion of the class.2\nWith that said, it is useful to have some baselines and expectations for everyone to keep in mind. A few that are useful:\n\nAttendance: One of the guiding principles of my class is that you are adults, and thus, capable of managing your own obligations and time. I have little interest in policing your lives, and I understand that everyone has bad days, things that come up, etc.3 You can miss up to three days of class without excuse or penalty, unless that day is a day you have a special obligation. If you are supposed to be a discussion leader, or giving a presentation, taking part in a debate, or miss more than three days, make sure to send me a note.\n\nDiscussion Questions: At least one each day. (Although do note: you should sometimes submit more than one, too!)\nIn-Class Participation: We should hear your contributions every day. We’ll have systems in class to make sure that everyone gets a turn. I won’t be keeping exact tallies of who said what, or how much, but I will take note of your general contribution tendencies.\n\nNews Submissions: At least two news submissions per semester (hopefully more)!\nDiscussion Leadership: Split evenly according to the number of students in the class.\n\n\n\n\nPrepared Class Work\n\nDebates\nWe will have six formal debates in the class, following a modified Lincoln-Douglas debate format (if you are unfamiliar with these rules, don’t worry! We’ll cover them.) Each student will have a role in each debate, although not all roles are equal: it is easier to judge than it is to affirm or negate. All students will have equal debate responsibilities across the class.\n\n\nShort Assignments\nSmall assignments about AI tools will be given throughout the semester. They may involve presentations to the class.\n\n\n\nCore Exam\nAn in class test on AI basics, held in the middle of the semester.\n\n\nFinal Project\nA final research project on an aspect of AI policy. (There will be options.) Graduate students will have higher expectations than undergraduates."
-  },
-  {
-    "objectID": "syllabus.html#course-expectations-guidelines",
-    "href": "syllabus.html#course-expectations-guidelines",
-    "title": "Artificial Intelligence Policy",
-    "section": "🎓 Course Expectations & Guidelines",
-    "text": "🎓 Course Expectations & Guidelines\n\nEtiquette & Decorum\nThis is an upper level undergraduate and graduate course: I take it for granted that you have a basic interest in the material and an enthusiastic attitude toward participation. A university classroom is fundamentally a learning community that operates on respect: be courteous to fellow students and the professor, attend class on time, listen to fellow seminar participants when they talk, and disagree (or agree) with others’ arguments professionally. Keep cell phones and other technology silenced and out of sight unless doing something directly relevant to the discussion in the class.4\n\n\nOffice & Consultation Hours, Appointments\nI encourage you to chat with me at any point if you have questions about the course. You are always welcome to drop by my office hours, and can schedule a meeting with me by going to my website here: http://jacklreilly.github.io. You do not need an appointment for regularly scheduled drop-in office hours: they are there for you! Furthermore, I have a general open-door policy: feel free to stop by to see if my door is open, and if it is, just come on in. (Don’t feel like you’re intruding! I’ll tell you if it’s not a good time.)\n\n\nE-mail\nEmail is the best way to contact me. I try to be pretty responsive, but as a baseline, I always aim to get back to you in a modified 24-hour fashion: by the end of the business day the day after you email (at minimum). So if you email me at 2 PM Tuesday, I’ll get back to you by 6 PM Wednesday at the latest; if 10 PM Thursday, by 6 PM Friday; if you email me at 3 PM on Friday, by 6 PM Monday, etc.5\n\n\n\n\n\n\nNote\n\n\n\nIf your email requires a long response, expect me to encourage you to meet with me in person so we can have a more effective discussion.\n\n\n\n\nArtificial Intelligence and Class Technology Policy\nTo be discussed (and decided upon!) in class on a per-assignment basis."
-  },
-  {
-    "objectID": "syllabus.html#learning-objective-assessment",
-    "href": "syllabus.html#learning-objective-assessment",
-    "title": "Artificial Intelligence Policy",
-    "section": "📊 Learning Objective Assessment",
-    "text": "📊 Learning Objective Assessment\n\nCourse Assessment Plan\n\n\n\n\n\n\n\nLearning Objective\nAssessment Measure\n\n\n\n\nExplain the core technical, economic, and political forces that shape how modern AI models are developed, deployed, and governed.\nCore Exam\n\n\nCritically evaluate and debate diverse perspectives on contemporary AI policy issues, using evidence to construct and defend reasoned arguments.\nDebates\n\n\nDesign and evaluate AI policy proposals by applying principles of data ethics, policy analysis, and policy design to real-world issue domains.\nFinal Project"
-  },
-  {
-    "objectID": "syllabus.html#course-schedule",
-    "href": "syllabus.html#course-schedule",
-    "title": "Artificial Intelligence Policy",
-    "section": "🗓️ Course Schedule",
-    "text": "🗓️ Course Schedule"
-  },
-  {
-    "objectID": "syllabus.html#unit-i-philosophy",
-    "href": "syllabus.html#unit-i-philosophy",
-    "title": "Artificial Intelligence Policy",
-    "section": "Unit I | Philosophy",
-    "text": "Unit I | Philosophy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n1.1\nJan 13\nClass Introduction\n\n\n1.2\nJan 15\nIntelligence, Consciousness, Sentience\n\n\n2.1\nJan 20\nCrash Course: Emergence Phenomena & Systems Thinking\n\n\n2.2\nJan 22\nEvaluating Intelligence\n\n\n3.1\nJan 27\nAI Embodiment, Agency, & Responsibility\n\n\n3.2\nJan 29\nDebate I"
-  },
-  {
-    "objectID": "syllabus.html#unit-ii-technology",
-    "href": "syllabus.html#unit-ii-technology",
-    "title": "Artificial Intelligence Policy",
-    "section": "Unit II | Technology",
-    "text": "Unit II | Technology\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n4.1\nFeb 3\nCrash Course: Designing AI: Computers & Technology\n\n\n4.2\nFeb 5\nData Privacy and Algorithmic Bias\n\n\n5.1\nFeb 10\nEnergy\n\n\n5.2\nFeb 12\nDebate II"
-  },
-  {
-    "objectID": "syllabus.html#unit-iii-business",
-    "href": "syllabus.html#unit-iii-business",
-    "title": "Artificial Intelligence Policy",
-    "section": "Unit III | Business",
-    "text": "Unit III | Business\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n6.1\nFeb 17\nCrash Course: Building AI: Business & Economics\n\n\n6.2\nFeb 19\nFinancing AI\n\n\n7.1\nFeb 24\nLabor Replacement I Rebooting the Singularity\n\n\n7.2\nFeb 26\nDebate III"
-  },
-  {
-    "objectID": "syllabus.html#unit-iv-geopolitics",
-    "href": "syllabus.html#unit-iv-geopolitics",
-    "title": "Artificial Intelligence Policy",
-    "section": "Unit IV | Geopolitics",
-    "text": "Unit IV | Geopolitics\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n8.1\nMar 3\nCore Exam\n\n\n8.2\nMar 5\nCrash Course: Negotiating AI: Geopolitics & The World\n\n\n9.1\nMar 17\nGeopolitics\n\n\n9.2\nMar 19\nDebate IV"
-  },
-  {
-    "objectID": "syllabus.html#unit-v-policy",
-    "href": "syllabus.html#unit-v-policy",
-    "title": "Artificial Intelligence Policy",
-    "section": "Unit V | Policy",
-    "text": "Unit V | Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement II\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
-  },
-  {
-    "objectID": "syllabus.html#unit-vi-humanity",
-    "href": "syllabus.html#unit-vi-humanity",
-    "title": "Artificial Intelligence Policy",
-    "section": "Unit VI | Humanity",
-    "text": "Unit VI | Humanity\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n12.1\nApr 7\nCrash Course: Assessing AI: Harms, Implications, and Futures\n\n\n12.2\nApr 9\nAuthoritarianism and AI\n\n\n13.1\nApr 14\nSingularities, xRisk, & AGI\n\n\n13.2\nApr 16\nDebate VI\n\n\n14.1\nApr 21\nFinal Presentations\n\n\n14.2\nApr 23\nFinal Presentations\n\n\n\nThis is a tentative course schedule. Content subject to change.\nKey\nCrash Course - lecture day; no student discussion leader"
-  },
-  {
-    "objectID": "syllabus.html#notes",
-    "href": "syllabus.html#notes",
-    "title": "Artificial Intelligence Policy",
-    "section": "🗒️ Notes",
-    "text": "🗒️ Notes\nA Note on Readings\nAll readings may be found linked from the course content pages. Readings will be posted at least one week ahead of time. Each day will have one or two primary sources that should be read, listened to, or watched in full, a series of simpler secondary readings (often, news coverage, podcasts, and/or videos) that should be browsed or scanned, and (frequently) further secondary and background reference reading for those interested in diving deeper.\nUndergraduate students are expected to read or listen to the primary source(s) for the day and scan background readings.\nGraduate students are expected to read or listen to the primary source(s), scan secondary readings, and select one or more of the secondary or background readings to read in further depth, as well."
-  },
-  {
-    "objectID": "syllabus.html#campus-academic-resources-policies",
-    "href": "syllabus.html#campus-academic-resources-policies",
-    "title": "Artificial Intelligence Policy",
-    "section": "🏫 Campus Academic Resources & Policies",
-    "text": "🏫 Campus Academic Resources & Policies\nThe following reflects the approved campus-wide academic policies of Syracuse University. For more information and detail, please consult the full documentation of University policies here.\n\n⚠️ Academic Drop Deadline\nAs part of our efforts to track satisfactory academic progress, the Academic Drop Deadline and the Financial Drop Deadline will both occur on September 15, 2025, for the fall semester and February 2, 2026, for the spring semester. Students may still withdraw from courses after these deadlines; this would place a ‘WD’ grade on their transcripts. Students enrolled in “flex” classes (Flexibly formatted classes) have different deadlines and will need to check MySlice for the Academic and Financial Drop deadlines that pertain to their class.\n\n\n📖 Academic Integrity\nAs a pre-eminent and inclusive student-focused research institution, Syracuse University considers academic integrity at the forefront of learning, serving as a core value and guiding pillar of education. Syracuse University’s Academic Integrity Policy provides students with the necessary guidelines to complete academic work with integrity throughout their studies. Students are required to uphold both course-specific and university-wide academic integrity expectations such as crediting your sources, doing your own work, communicating honestly, and supporting academic integrity. The full Syracuse University Academic Integrity Policy can be viewed by visiting the Syracuse University Policies website.\nUpholding Academic Integrity includes the protection of faculty’s intellectual property. Students should not upload, distribute, or share instructors’ course materials, including presentations, assignments, exams, or other evaluative materials without permission. Using websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others, which are then presented as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation. All academic integrity expectations that apply to in-person assignments, quizzes, and exams also apply online.\nStudents found in violation of the policy are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the School or College where the course is offered. Students may not drop or withdraw from courses in which they face a suspected violation. Any established violation in this course may result in course failure regardless of violation level.\n\n\n🤖 Artificial Intelligence\nBased on the specific learning outcomes and assignments in this course, artificial intelligence is permitted on the following: selected course assignments. Artificial intelligence is not permitted on in-class exams. See each assignment, quiz, or exam instructions for more information about what artificial intelligence tools are permitted and to what extent, as well as citation requirements. If no instructions are provided for a specific assignment, then no use of any artificial intelligence tool is permitted. Any AI use beyond that which is detailed in course assignments is explicitly prohibited except when documented permission is granted.\nPlease also see Syracuse University’s general campus AI policies here.\nI, as the instructor, may use generative AI tools to help develop course materials. When I do, I take full responsibility for reviewing and verifying all AI-generated content to ensure it is accurate, appropriate and aligned with our learning objectives. All final course materials represent my professional judgment about what will best support your learning.\n\n\n💻 Academic Integrity Online\nAll academic integrity expectations that apply to in-person quizzes and exams also apply to online quizzes and exams. In this course, all work submitted for quizzes and exams must be yours alone. Discussing quiz or exam questions with anyone during the quiz or exam period violates academic integrity expectations for this course.\nUsing websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others and present the work as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation, resulting in suspension or expulsion from Syracuse University.\n\n\n👤 Attendance Policy\nAttendance in classes is expected in all courses at Syracuse University. It is a federal requirement that faculty promptly notify the university of students who do not attend or cease to attend any class. Faculty will use Early-Semester Progress Reports and Mid-Semester Progress Reports in Orange SUccess to alert the Registrar and Financial Aid Office on non-attendance. For more information visit:\nFaculty: Information for Faculty: Non-attendance or Stopped Attending Students: Information for Students: Non-attendance or Stopped Attending\nIf a student is unable to participate in-person or virtually for an extended period of time (48 hours or more), the student may request an absence notification from their home school/college Dean’s Office or through Student Outreach and Support office. Instructors will be notified via the “Absence Notification” flag in Orange SUccess.\nBarnes Center at the Arch (Health, Counseling, etc.) staff will not provide medical excuse notes for students. When Barnes Center staff determine it is medically necessary to remove a student from classes, they will coordinate with Student Outreach and Support case management staff to provide appropriate notification to faculty through Orange Success. For absences lasting less than 48 hours, students are encouraged to discuss academic arrangements directly with their faculty.\nAdditional information may be found at Student Outreach and Support: Absence Notifications.\n\n\n🖼 Blackboard\nThis class will use the Blackboard Learning Management to house the syllabus, course content, links to external course materials, assignments, quizzes, exams, feedback, and grades. Due dates and times in Blackboard are stored in Coordinated Universal Time (UTC) and displayed for each user based on the time zone setting of their computer and data from their internet browser. The system will always display the time zone being used. If an instructor sets a due date of 11pm Eastern time, a student in the Pacific time zone will see a due date of 8pm.”\nInformation about Blackboard is available on Answers Blackboard; alternatively, you can contact Information Technology Services by sending an email to help@syr.edu, calling 315.443.2677, or in-person at the ITS Service Center, located at 1-227 CST in the Life Sciences Complex. Business hours for the Service Center can be found on the ITS website.\n\n\n🚫 Discrimination and Harassment\nThe University does not discriminate and prohibits harassment or discrimination related to any protected category including creed, ethnicity, citizenship, sexual orientation, national origin, sex, gender, pregnancy, reproductive health decisions, disability, marital status, political or social affiliation, age, race, color, veteran status, military status, religion, sexual orientation, domestic violence status, genetic information, gender identity, gender expression or perceived gender.\nAny complaint of discrimination or harassment related to any of these protected bases should be reported to Sheila Johnson-Willis, the University’s Chief Equal Opportunity & Title IX Officer for Faculty and Staff. She is responsible for coordinating compliance efforts under the various laws including Titles VI, VII, IX and Section 504 of the Rehabilitation Act. She can be contacted at Equal Opportunity, Inclusion, and Resolution Services, 621 Skytop Road, Suite 1001, Syracuse University, Syracuse, NY 13244-1120; or by email: equalopp@syr.edu; or by telephone: 315-443-4018.\n\n\n🌍 Diversity\nIt is the intent of this course for students from all diverse backgrounds and perspectives to be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. It is also critical to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let your instructor know ways to improve the effectiveness of the course for you personally or for other students or student groups.\n\n\n🤝 Disability\nSyracuse University values access and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be necessary to ensure equitable access, and to collaborate with the Center for Disability Resources (CDR) in this process.\nIf you would like to discuss disability-related accommodations or register with CDR, please visit Center for Disability Resources. Please call 315.443.4498 or email CDRspecialist@syr.edu for more detailed information.\nCDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Since academic accommodations are generally not provided retroactively, please contact CDR as soon as possible to initiate this process.\n\n\n🌐 Faith and Religious Accommodations\nSyracuse University’s Religious Observances Policy recognizes the diversity of faiths represented in the campus community and protects the rights of students, faculty, and staff to observe religious holy days according to their traditions. Under the policy, students are given an opportunity to make up any examination, study, or work requirements that may be missed due to a religious observance, provided they notify their instructors no later than the academic drop deadline. For observances occurring before the drop deadline, notification is required at least two academic days in advance. Students may enter their observances in MySlice under Student Services/Enrollment/My Religious Observances/Add a Notification.\n\n\n📝 FERPA\nThe Family Educational Rights and Privacy Act (FERPA) sets forth requirements regarding the privacy of student records. FERPA governs both the access to and release of those records, known as education records, and the information they contain. Under FERPA, faculty have a legal responsibility to protect the confidentiality of student records. For additional information about FERPA and Syracuse University’s FERPA policy, see Compliance with the Family Education Rights and Privacy Act or contact the Office of the Registrar (315.443.2422).\n\n\n🩺 Health and Wellness\nWell-being and mental health are significant predictors of academic success. It is critical to take care of yourself physically and emotionally and to effectively navigate stress, anxiety, and depression. Please familiarize yourself with the range of resources the Barnes Center provides https://ese.syr.edu/bewell/ and seek out support for mental health concerns as needed. Counseling services are available 24/7, 365 days, at 315-443-8000.\n\n\n🍊 ORANGE Alert\nORANGE ALERT, Syracuse University’s crisis notification system, uses text messages, phone, and email alerts to provide rapid notification and instructions to members of the University community in the event of a crisis in progress. In the event of an emergency, please use one of the following numbers to reach us:\nFrom any phone: 315.443.2224 From your cell phone: #78 (#SU) Campus landline: 711\nFor more information on ORANGE ALERT, including how to update your contact information, visit the DPS website.\n\n\nSyllabus Format Note\nThis syllabus is coverted automatically to your document format from its original version. Please visit the course website to see the original version and for any changes."
-  },
-  {
-    "objectID": "syllabus.html#footnotes",
-    "href": "syllabus.html#footnotes",
-    "title": "Artificial Intelligence Policy",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIn addition to formal office hours, I have an open door policy - feel free to stop by if you see the door open. In particular, I stay around after class for up to half an hour if students come by - feel free to stay after and meet with me.↩︎\nFor the grade for this section, I hope and expect to be able to simply award full points to everyone based on apparent enthusiasm and contributions across the whole semester.↩︎\nI also understand that some of these things that come up may be things you don’t want to discuss with your professor. That’s OK! The attendance policy is designed so that you typically don’t have to tell me you missed because you have a medical emergency or a family matter you’d rather not discuss.↩︎\nRemember that technology presents a significant negative externality: it is not just you that is distracted, but it is you who are distracting others as well with the bright shiny colors on your screen.↩︎\nUsually I aim to be much much faster! But if you don’t hear from me by this baseline, feel free to bump a reminder. No hard feelings. Sometimes things get busy and I lose track of an email.↩︎"
-  },
-  {
-    "objectID": "work/index.html",
-    "href": "work/index.html",
-    "title": "📝 Work",
-    "section": "",
-    "text": "Hello and welcome to the work page for our course. All assigned work for the course will be posted here, including debate guidelines and prompts, assignments, exam review guides, and project guidelines.\nNote that, while you can find assignments here, submission of assignments goes through the course blackboard.",
-    "crumbs": [
-      "🏠 Overview",
-      "Debates"
-    ]
-  },
-  {
-    "objectID": "work/assign2.html",
-    "href": "work/assign2.html",
-    "title": "Assignment 2 - Final Project Identification",
-    "section": "",
-    "text": "Submit a short (&lt;1 page) abstract for your final project. This abstract should include:\n\nThe topic you are choosing. This includes both:\n\nAn identification of topic 1, 2, 3, or 4 from the final project page.\nWhat subject within that topic you are choosing to work on for your project.\n\nSubjects within topics can be refined a little between identification and final project - I’m not looking for a final definitive exact topic identifcation for this assignment; I’m just looking for the overall field or subject you’re focused on along with a little context.\nFour citations for sources (from outside of class) that will begin informing your project.\nWho you are working on your project with (if anyone).\n\nI strongly recommend meeting with me before submitting your project to talk it through.",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 2 - Final Project Identification"
-    ]
-  },
-  {
-    "objectID": "work/assign2.html#instructions",
-    "href": "work/assign2.html#instructions",
-    "title": "Assignment 2 - Final Project Identification",
-    "section": "",
-    "text": "Submit a short (&lt;1 page) abstract for your final project. This abstract should include:\n\nThe topic you are choosing. This includes both:\n\nAn identification of topic 1, 2, 3, or 4 from the final project page.\nWhat subject within that topic you are choosing to work on for your project.\n\nSubjects within topics can be refined a little between identification and final project - I’m not looking for a final definitive exact topic identifcation for this assignment; I’m just looking for the overall field or subject you’re focused on along with a little context.\nFour citations for sources (from outside of class) that will begin informing your project.\nWho you are working on your project with (if anyone).\n\nI strongly recommend meeting with me before submitting your project to talk it through.",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 2 - Final Project Identification"
-    ]
-  },
-  {
-    "objectID": "work/assign2.html#submission",
-    "href": "work/assign2.html#submission",
-    "title": "Assignment 2 - Final Project Identification",
-    "section": "Submission",
-    "text": "Submission\nEach member of a group must submit their work independently (even though the content and files will be the same).",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 2 - Final Project Identification"
-    ]
-  },
-  {
-    "objectID": "work/assign2.html#deadline",
-    "href": "work/assign2.html#deadline",
-    "title": "Assignment 2 - Final Project Identification",
-    "section": "Deadline",
-    "text": "Deadline\nThis assignment is due March 26 (Week 10.2) to Blackboard as a PDF.",
-    "crumbs": [
-      "📝 Work",
-      "Assignments",
-      "Assignment 2 - Final Project Identification"
-    ]
-  },
-  {
-    "objectID": "work/debate_extras.html",
-    "href": "work/debate_extras.html",
-    "title": "Debate 1",
-    "section": "",
-    "text": "A structured debate is a deliberation around a resolution.\n\nThere are two sides:\n\nOne side that affirms (supports) the resolution,\nand another that negates (opposes) the resolution.\n\n\nEach side offers facts, evidence, and argumentation in favor of their side.\nOur class debates are team-based modified Lincoln-Douglas1 debates. They have four components:\n\nConstructive (3 min per team)\n\n1 min prep\n\nCross-Examination (5 min total, back and forth)\n\n1 min prep\n\nRebuttal (2 min per team)\n\n1 min prep\n\nFinal Focus (1 min per team)\n\nThe debate round is organized and timed so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them.\nYour primary evaluation will be on the debate itself. You must submit citations for any non-class sources you reference in the debate, and the opposition may challenge you to support any fact that you use with a reference. If you cannot support the fact with a reference, the jury is instructed to disregard the point.\nDifferent team members should take “lead” presenting roles in the different debate components. Teams are encouraged, although not required, to vary who takes “lead” in each component across different debates as well.\nDebate winners will be evaluated by the jury.\nThe jury must attempt to be as even handed and open-minded as possible: do not judge based upon which side you began thinking was the “correct” answer; judge based upon which side you think debated more effectively and persuaded toward their side."
-  },
-  {
-    "objectID": "work/debate_extras.html#overview",
-    "href": "work/debate_extras.html#overview",
-    "title": "Debate 1",
-    "section": "",
-    "text": "A structured debate is a deliberation around a resolution.\n\nThere are two sides:\n\nOne side that affirms (supports) the resolution,\nand another that negates (opposes) the resolution.\n\n\nEach side offers facts, evidence, and argumentation in favor of their side.\nOur class debates are team-based modified Lincoln-Douglas1 debates. They have four components:\n\nConstructive (3 min per team)\n\n1 min prep\n\nCross-Examination (5 min total, back and forth)\n\n1 min prep\n\nRebuttal (2 min per team)\n\n1 min prep\n\nFinal Focus (1 min per team)\n\nThe debate round is organized and timed so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them.\nYour primary evaluation will be on the debate itself. You must submit citations for any non-class sources you reference in the debate, and the opposition may challenge you to support any fact that you use with a reference. If you cannot support the fact with a reference, the jury is instructed to disregard the point.\nDifferent team members should take “lead” presenting roles in the different debate components. Teams are encouraged, although not required, to vary who takes “lead” in each component across different debates as well.\nDebate winners will be evaluated by the jury.\nThe jury must attempt to be as even handed and open-minded as possible: do not judge based upon which side you began thinking was the “correct” answer; judge based upon which side you think debated more effectively and persuaded toward their side."
-  },
-  {
-    "objectID": "work/debate_extras.html#structure-and-flow",
-    "href": "work/debate_extras.html#structure-and-flow",
-    "title": "Debate 1",
-    "section": "Structure and Flow",
-    "text": "Structure and Flow\nEach debate round has a specific structure.\n\nThe affirm side (team one) always goes first; the negate side (team two) always goes second.\n\nPart I: Constructive\n\nTeam one presents their case. They don’t mention or directly talk about their opponents or their opponent’s case. The constructive is delivered by a single member of the team. Three minutes.\nTeam two presents their case. They don’t mention or directly talk about their opponents or their opponent’s case. The constructive is delivered by a single member of the team. Three minutes.\nOne minute of prep time.\n\nPart II: Cross Examination\n\nTeam one and team two exchange asking questions. Team one asks first; team two, second. Once team one finishes their question, team two responds. Team two then immediately asks their question, followed by team one’s response and question, leading to team two’s response and question, and so on and so forth until time expires.\nThree minutes of prep time.\n\nPart III: Rebuttal\n\nTeam one has an opportunity to rebut the arguments presented by their opponents in the debate. Two minutes.\nTeam two has an opportunity to rebut the arguments presented by their opponents in the debate. Two minutes.\nOne minute of prep time.\n\nPart IV: Final Focus\n\nTeam one summarizes why they think the judges should vote for them. One minute.\nTeam two summarizes why they think the judges should vote for them. One minute."
-  },
-  {
-    "objectID": "work/debate_extras.html#team-roles",
-    "href": "work/debate_extras.html#team-roles",
-    "title": "Debate 1",
-    "section": "Team Roles",
-    "text": "Team Roles\nThere are at least five roles, per team, per debate:\n\nConstructive\nCross-Examination: Questioner\nCross-Examination: Responder\nCross-Examination: Note-taker\nRebuttal\nFinal Focus\n\nNot all roles are necessarily equal. Delivering the constructive, for instance, is a three minute delivered speech, and the single most important part of the debate - but is also the only portion that can be fully and completely prepared ahead of time and does not need to respond in any way to what happens in real time.\nEach student should take one or more roles, as necessary, but it is the entire team’s responsibility to coordinate and prepare each section."
-  },
-  {
-    "objectID": "work/debate_extras.html#general-tips-and-advice",
-    "href": "work/debate_extras.html#general-tips-and-advice",
-    "title": "Debate 1",
-    "section": "General Tips and Advice",
-    "text": "General Tips and Advice\n\nRefer to the other team as “our opponents” or “my opponent”.\nThink carefully about the resolution. What exactly is the resolution asking you to debate? Do not allow yourself to be distracted by anything off topic (which good debaters will try to do, of course).\n\nThe only thing you need to do to beat an genuinely off topic argument is say “Judge, please disregard my opponent’s contention because it is off topic.” (Of course, if the jury does not think that a contention is off topic, this may backfire.)\n\nDefine the terms of the debate. Resolutions, by their nature, have inherent ambiguities. Define and frame the resolution further in a way that is simultaneously fair and that gives you an argumentative advantage. Make the terms of the debate clear to the judges: what, for instance, should determine a winner and loser in the debate? What points does your side need to make and what points does the other side need to make to win?\nIn oral debate presentation, clarity is key. Subtlety is not your friend. Use the following format for your constructive speech:\n\nClaim I (The first point you argue. Literally say, “Our first claim is that . . . “)\n\nWarrant (“This is true because…”)\nEvidence\nImpact (“This is important because…”)\n\nClaim II (The second point you argue)\n\nWarrant\nEvidence\nImpact\n\nClaim III (The third point you argue)\n\nWarrant\nEvidence\nImpact\n\n\nIn cross examination, avoid the trap of over explaining or over questioning. The most memorable points are quick and pithy. If you’re asking too long a question, both the other team and the jury will lose track of what you’re asking. (You have all other parts of the debate to speech-ify. This is your time to exract concessions from your opponents directly.)\nIn questions, go on the offensive and ask questions that you know your opponents don’t have good answers for. Good examples of questions include:\n\nTesting assumptions: “Does your argument depend on . . .”\nHighlight tradeoffs: “Does your policy require sacrificing . . .”\nClarifications: “What exactly do you mean by . . .”\nLock in concessions: “Do you agree that . . .”\n\nIf you’re over explaining in response, you’re probably losing. More time spent in response is more time spent in your opponents debate frame, and less time in yours. Answer honestly, but remember that too much time in reponse is time that you’re not spending pressing your opponent on the weaknesses in their arguments.\nRemember: The cross examination is more typically won by asking good questions rather than having good responses. Prepare accordingly.\nThe rebuttal and final focus have different purposes. The rebuttal is where you tell the judge and jury why your opponents are wrong and you are right. The final focus is where you focus the judge on jury on why you should win the debate.\nUse the similar format for your rebuttal and final focus:\n\nMy opponent’s arguments are incorrect becuase/here is why we’ve won today’s round:\n\nReason (Tell the jury very literally why they should vote for you)\nReason\nReason\n\n\nPay attention to your time. The debate can feel simultaneously short and long - a three minute constructive is plenty of time to say what you need to, so long as you plan well ahead of time. Use all of your time effectively but do not go over.\nSpeak quickly if you can, but above all else be clear and calm. If you want to perform well you must practice giving your constructive speech at least twice.\nUse resources from class, including readings and lectures, as well as material from outside class. Consider the optional readings listed in the course agenda. They are there to help you.\nRemember: if you want to win, you need to focus on persuading your judges. How many times have you been in an argument with someone and find yourself thinking, “oh my god why don’t you understand?! The evidence is right there!”? Facts alone don’t win arguments. Persuasion wins arguments."
-  },
-  {
-    "objectID": "work/debate_extras.html#what-to-prepare",
-    "href": "work/debate_extras.html#what-to-prepare",
-    "title": "Debate 1",
-    "section": "What to prepare",
-    "text": "What to prepare\n\nTyped case papers that are, word for word, what you will read for your constructive.\nYour sources. (Which you will submit).\nQuestions for your opponents in the cross-examination. (These can be edited briefly after the first rounds, but you will not have enough time in debate to write good questions without preparing ahead of time.)\nAny notes that will help you prepare for the rejoinder, cross examination, or final focus. You will not have time to draft a full word for word speech in the debate, so it’s good to have some pieces that you can build from.\nA pen and paper so you can take notes on what your opponents say."
-  },
-  {
-    "objectID": "work/debate_extras.html#footnotes",
-    "href": "work/debate_extras.html#footnotes",
-    "title": "Debate 1",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nI tell you this intentionally so that you can, if you wish, go look up strategy for Lincoln-Douglas debate styles. The modifications made are inspired partially by Public Forum debates and partially to allow for team-based debate.↩︎"
   },
   {
     "objectID": "work/dguidelines.html",
@@ -891,80 +488,518 @@
     ]
   },
   {
-    "objectID": "work/d1res.html",
-    "href": "work/d1res.html",
-    "title": "Debate 1 - Philosophy",
+    "objectID": "work/debate_extras.html",
+    "href": "work/debate_extras.html",
+    "title": "Debate 1",
     "section": "",
-    "text": "An entity that passes the Turing Test is intelligent.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 2\nTeam 3",
+    "text": "A structured debate is a deliberation around a resolution.\n\nThere are two sides:\n\nOne side that affirms (supports) the resolution,\nand another that negates (opposes) the resolution.\n\n\nEach side offers facts, evidence, and argumentation in favor of their side.\nOur class debates are team-based modified Lincoln-Douglas1 debates. They have four components:\n\nConstructive (3 min per team)\n\n1 min prep\n\nCross-Examination (5 min total, back and forth)\n\n1 min prep\n\nRebuttal (2 min per team)\n\n1 min prep\n\nFinal Focus (1 min per team)\n\nThe debate round is organized and timed so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them.\nYour primary evaluation will be on the debate itself. You must submit citations for any non-class sources you reference in the debate, and the opposition may challenge you to support any fact that you use with a reference. If you cannot support the fact with a reference, the jury is instructed to disregard the point.\nDifferent team members should take “lead” presenting roles in the different debate components. Teams are encouraged, although not required, to vary who takes “lead” in each component across different debates as well.\nDebate winners will be evaluated by the jury.\nThe jury must attempt to be as even handed and open-minded as possible: do not judge based upon which side you began thinking was the “correct” answer; judge based upon which side you think debated more effectively and persuaded toward their side."
+  },
+  {
+    "objectID": "work/debate_extras.html#overview",
+    "href": "work/debate_extras.html#overview",
+    "title": "Debate 1",
+    "section": "",
+    "text": "A structured debate is a deliberation around a resolution.\n\nThere are two sides:\n\nOne side that affirms (supports) the resolution,\nand another that negates (opposes) the resolution.\n\n\nEach side offers facts, evidence, and argumentation in favor of their side.\nOur class debates are team-based modified Lincoln-Douglas1 debates. They have four components:\n\nConstructive (3 min per team)\n\n1 min prep\n\nCross-Examination (5 min total, back and forth)\n\n1 min prep\n\nRebuttal (2 min per team)\n\n1 min prep\n\nFinal Focus (1 min per team)\n\nThe debate round is organized and timed so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them.\nYour primary evaluation will be on the debate itself. You must submit citations for any non-class sources you reference in the debate, and the opposition may challenge you to support any fact that you use with a reference. If you cannot support the fact with a reference, the jury is instructed to disregard the point.\nDifferent team members should take “lead” presenting roles in the different debate components. Teams are encouraged, although not required, to vary who takes “lead” in each component across different debates as well.\nDebate winners will be evaluated by the jury.\nThe jury must attempt to be as even handed and open-minded as possible: do not judge based upon which side you began thinking was the “correct” answer; judge based upon which side you think debated more effectively and persuaded toward their side."
+  },
+  {
+    "objectID": "work/debate_extras.html#structure-and-flow",
+    "href": "work/debate_extras.html#structure-and-flow",
+    "title": "Debate 1",
+    "section": "Structure and Flow",
+    "text": "Structure and Flow\nEach debate round has a specific structure.\n\nThe affirm side (team one) always goes first; the negate side (team two) always goes second.\n\nPart I: Constructive\n\nTeam one presents their case. They don’t mention or directly talk about their opponents or their opponent’s case. The constructive is delivered by a single member of the team. Three minutes.\nTeam two presents their case. They don’t mention or directly talk about their opponents or their opponent’s case. The constructive is delivered by a single member of the team. Three minutes.\nOne minute of prep time.\n\nPart II: Cross Examination\n\nTeam one and team two exchange asking questions. Team one asks first; team two, second. Once team one finishes their question, team two responds. Team two then immediately asks their question, followed by team one’s response and question, leading to team two’s response and question, and so on and so forth until time expires.\nThree minutes of prep time.\n\nPart III: Rebuttal\n\nTeam one has an opportunity to rebut the arguments presented by their opponents in the debate. Two minutes.\nTeam two has an opportunity to rebut the arguments presented by their opponents in the debate. Two minutes.\nOne minute of prep time.\n\nPart IV: Final Focus\n\nTeam one summarizes why they think the judges should vote for them. One minute.\nTeam two summarizes why they think the judges should vote for them. One minute."
+  },
+  {
+    "objectID": "work/debate_extras.html#team-roles",
+    "href": "work/debate_extras.html#team-roles",
+    "title": "Debate 1",
+    "section": "Team Roles",
+    "text": "Team Roles\nThere are at least five roles, per team, per debate:\n\nConstructive\nCross-Examination: Questioner\nCross-Examination: Responder\nCross-Examination: Note-taker\nRebuttal\nFinal Focus\n\nNot all roles are necessarily equal. Delivering the constructive, for instance, is a three minute delivered speech, and the single most important part of the debate - but is also the only portion that can be fully and completely prepared ahead of time and does not need to respond in any way to what happens in real time.\nEach student should take one or more roles, as necessary, but it is the entire team’s responsibility to coordinate and prepare each section."
+  },
+  {
+    "objectID": "work/debate_extras.html#general-tips-and-advice",
+    "href": "work/debate_extras.html#general-tips-and-advice",
+    "title": "Debate 1",
+    "section": "General Tips and Advice",
+    "text": "General Tips and Advice\n\nRefer to the other team as “our opponents” or “my opponent”.\nThink carefully about the resolution. What exactly is the resolution asking you to debate? Do not allow yourself to be distracted by anything off topic (which good debaters will try to do, of course).\n\nThe only thing you need to do to beat an genuinely off topic argument is say “Judge, please disregard my opponent’s contention because it is off topic.” (Of course, if the jury does not think that a contention is off topic, this may backfire.)\n\nDefine the terms of the debate. Resolutions, by their nature, have inherent ambiguities. Define and frame the resolution further in a way that is simultaneously fair and that gives you an argumentative advantage. Make the terms of the debate clear to the judges: what, for instance, should determine a winner and loser in the debate? What points does your side need to make and what points does the other side need to make to win?\nIn oral debate presentation, clarity is key. Subtlety is not your friend. Use the following format for your constructive speech:\n\nClaim I (The first point you argue. Literally say, “Our first claim is that . . . “)\n\nWarrant (“This is true because…”)\nEvidence\nImpact (“This is important because…”)\n\nClaim II (The second point you argue)\n\nWarrant\nEvidence\nImpact\n\nClaim III (The third point you argue)\n\nWarrant\nEvidence\nImpact\n\n\nIn cross examination, avoid the trap of over explaining or over questioning. The most memorable points are quick and pithy. If you’re asking too long a question, both the other team and the jury will lose track of what you’re asking. (You have all other parts of the debate to speech-ify. This is your time to exract concessions from your opponents directly.)\nIn questions, go on the offensive and ask questions that you know your opponents don’t have good answers for. Good examples of questions include:\n\nTesting assumptions: “Does your argument depend on . . .”\nHighlight tradeoffs: “Does your policy require sacrificing . . .”\nClarifications: “What exactly do you mean by . . .”\nLock in concessions: “Do you agree that . . .”\n\nIf you’re over explaining in response, you’re probably losing. More time spent in response is more time spent in your opponents debate frame, and less time in yours. Answer honestly, but remember that too much time in reponse is time that you’re not spending pressing your opponent on the weaknesses in their arguments.\nRemember: The cross examination is more typically won by asking good questions rather than having good responses. Prepare accordingly.\nThe rebuttal and final focus have different purposes. The rebuttal is where you tell the judge and jury why your opponents are wrong and you are right. The final focus is where you focus the judge on jury on why you should win the debate.\nUse the similar format for your rebuttal and final focus:\n\nMy opponent’s arguments are incorrect becuase/here is why we’ve won today’s round:\n\nReason (Tell the jury very literally why they should vote for you)\nReason\nReason\n\n\nPay attention to your time. The debate can feel simultaneously short and long - a three minute constructive is plenty of time to say what you need to, so long as you plan well ahead of time. Use all of your time effectively but do not go over.\nSpeak quickly if you can, but above all else be clear and calm. If you want to perform well you must practice giving your constructive speech at least twice.\nUse resources from class, including readings and lectures, as well as material from outside class. Consider the optional readings listed in the course agenda. They are there to help you.\nRemember: if you want to win, you need to focus on persuading your judges. How many times have you been in an argument with someone and find yourself thinking, “oh my god why don’t you understand?! The evidence is right there!”? Facts alone don’t win arguments. Persuasion wins arguments."
+  },
+  {
+    "objectID": "work/debate_extras.html#what-to-prepare",
+    "href": "work/debate_extras.html#what-to-prepare",
+    "title": "Debate 1",
+    "section": "What to prepare",
+    "text": "What to prepare\n\nTyped case papers that are, word for word, what you will read for your constructive.\nYour sources. (Which you will submit).\nQuestions for your opponents in the cross-examination. (These can be edited briefly after the first rounds, but you will not have enough time in debate to write good questions without preparing ahead of time.)\nAny notes that will help you prepare for the rejoinder, cross examination, or final focus. You will not have time to draft a full word for word speech in the debate, so it’s good to have some pieces that you can build from.\nA pen and paper so you can take notes on what your opponents say."
+  },
+  {
+    "objectID": "work/debate_extras.html#footnotes",
+    "href": "work/debate_extras.html#footnotes",
+    "title": "Debate 1",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI tell you this intentionally so that you can, if you wish, go look up strategy for Lincoln-Douglas debate styles. The modifications made are inspired partially by Public Forum debates and partially to allow for team-based debate.↩︎"
+  },
+  {
+    "objectID": "work/assign2.html",
+    "href": "work/assign2.html",
+    "title": "Assignment 2 - Final Project Identification",
+    "section": "",
+    "text": "Submit a short (&lt;1 page) abstract for your final project. This abstract should include:\n\nThe topic you are choosing. This includes both:\n\nAn identification of topic 1, 2, 3, or 4 from the final project page.\nWhat subject within that topic you are choosing to work on for your project.\n\nSubjects within topics can be refined a little between identification and final project - I’m not looking for a final definitive exact topic identifcation for this assignment; I’m just looking for the overall field or subject you’re focused on along with a little context.\nFour citations for sources (from outside of class) that will begin informing your project.\nWho you are working on your project with (if anyone).\n\nI strongly recommend meeting with me before submitting your project to talk it through.",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate 1 - Philosophy"
+      "Assignments",
+      "Assignment 2 - Final Project Identification"
     ]
   },
   {
-    "objectID": "work/d1res.html#resolution",
-    "href": "work/d1res.html#resolution",
-    "title": "Debate 1 - Philosophy",
+    "objectID": "work/assign2.html#instructions",
+    "href": "work/assign2.html#instructions",
+    "title": "Assignment 2 - Final Project Identification",
     "section": "",
-    "text": "An entity that passes the Turing Test is intelligent.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 2\nTeam 3",
+    "text": "Submit a short (&lt;1 page) abstract for your final project. This abstract should include:\n\nThe topic you are choosing. This includes both:\n\nAn identification of topic 1, 2, 3, or 4 from the final project page.\nWhat subject within that topic you are choosing to work on for your project.\n\nSubjects within topics can be refined a little between identification and final project - I’m not looking for a final definitive exact topic identifcation for this assignment; I’m just looking for the overall field or subject you’re focused on along with a little context.\nFour citations for sources (from outside of class) that will begin informing your project.\nWho you are working on your project with (if anyone).\n\nI strongly recommend meeting with me before submitting your project to talk it through.",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate 1 - Philosophy"
+      "Assignments",
+      "Assignment 2 - Final Project Identification"
     ]
   },
   {
-    "objectID": "work/d1res.html#amendments-and-adjustments",
-    "href": "work/d1res.html#amendments-and-adjustments",
-    "title": "Debate 1 - Philosophy",
+    "objectID": "work/assign2.html#submission",
+    "href": "work/assign2.html#submission",
+    "title": "Assignment 2 - Final Project Identification",
+    "section": "Submission",
+    "text": "Submission\nEach member of a group must submit their work independently (even though the content and files will be the same).",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 2 - Final Project Identification"
+    ]
+  },
+  {
+    "objectID": "work/assign2.html#deadline",
+    "href": "work/assign2.html#deadline",
+    "title": "Assignment 2 - Final Project Identification",
+    "section": "Deadline",
+    "text": "Deadline\nThis assignment is due March 26 (Week 10.2) to Blackboard as a PDF.",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 2 - Final Project Identification"
+    ]
+  },
+  {
+    "objectID": "work/index.html",
+    "href": "work/index.html",
+    "title": "📝 Work",
+    "section": "",
+    "text": "Hello and welcome to the work page for our course. All assigned work for the course will be posted here, including debate guidelines and prompts, assignments, exam review guides, and project guidelines.\nNote that, while you can find assignments here, submission of assignments goes through the course blackboard.",
+    "crumbs": [
+      "🏠 Overview",
+      "Debates"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Artificial Intelligence Policy",
+    "section": "",
+    "text": "Time: Tuesday and Thursday, 2:00 PM - 3:20 PM\nLocation: Eggers 070\n\n\n\nProfessor Jack Reilly\nOffice: Eggers 225\nOffice Hours: Tuesday and Thursday, 11 AM - Noon, Wednesday 1:30-2:30 PM, and by appointment.1\nPhone: 315-443-2687 (office)\ne-mail: jlreilly@syr.edu\n\n\n\nThis course is designed for students who want to think critically about artificial intelligence and design artificial intelligence policies for government, business, and nonprofit organizations of all sizes.\n\n\n\nThis course serves as an introduction to the politics and policy of artificial intelligence. It presumes no particular prior knowledge of artificial intelligence, political science, public policy, or computer science; rather, it will introduce students to what artificial intelligence is as well as to the ethics of AI, its social implications, and the policy choices around AI that currently face governments, corporations, and organizations worldwide. This is a “non-technical” course: assignments will include reading, class discussion and leadership, debates, writing, and learning about the use of AI tools and prompts to generate output. Students will not be expected, however, to program or write any formal code.\n\n\n\nPrinciple - Practice - Politics - Policy\nThe course moves from the conceptual to the practical. First, we start with an introduction to the philosophy of artificial intelligence itself. What is “intelligence” and “consciousness” in the first place? What are minds? What are agents and legal persons, and when are agents responsible for their actions? What is artificial intelligence, and what is artificial “general” intelligence? Second, we proceed to discuss the mechanics of current computational approaches to AI, with a particular focus on large language models (such as OpenAI’s ChatGPT), including approachable, non-technical overviews of the principles behind machine learning, neural networks, and assorted technologies that have given rise to the current state of the art in AI. Third, we consider the societal impacts of current artificial intelligence systems, including data practices as well as current AI applications, uses, risks, and ethics. Fourth, we turn to policy, examining the decisions in front of governments, companies, and organizations in the United States and worldwide as well as complications in the policy process for producing effective AI legislation.\n\n\n\nIntroductory coursework in (any) related area(s). No particular knowledge is expected, but the reading level is high and this course may not be suitable for first year students.\nWhile this course has no formal pre-requisites, it does have a substantial informal prerequisite: motivation. This class is conducted as a seminar, not a lecture, and interest and participation is presumed and required.\n\n\n\n\nExplain the core technical, economic, and political forces that shape how modern AI models are developed, deployed, and governed.\nCritically evaluate and debate alternate perspectives on contemporary AI policy issues, using evidence to construct and defend reasoned arguments.\nDesign and evaluate AI policy proposals by applying principles of data ethics, policy analysis, and policy design to real-world issue domains."
+  },
+  {
+    "objectID": "syllabus.html#course-information",
+    "href": "syllabus.html#course-information",
+    "title": "Artificial Intelligence Policy",
+    "section": "",
+    "text": "Time: Tuesday and Thursday, 2:00 PM - 3:20 PM\nLocation: Eggers 070\n\n\n\nProfessor Jack Reilly\nOffice: Eggers 225\nOffice Hours: Tuesday and Thursday, 11 AM - Noon, Wednesday 1:30-2:30 PM, and by appointment.1\nPhone: 315-443-2687 (office)\ne-mail: jlreilly@syr.edu\n\n\n\nThis course is designed for students who want to think critically about artificial intelligence and design artificial intelligence policies for government, business, and nonprofit organizations of all sizes.\n\n\n\nThis course serves as an introduction to the politics and policy of artificial intelligence. It presumes no particular prior knowledge of artificial intelligence, political science, public policy, or computer science; rather, it will introduce students to what artificial intelligence is as well as to the ethics of AI, its social implications, and the policy choices around AI that currently face governments, corporations, and organizations worldwide. This is a “non-technical” course: assignments will include reading, class discussion and leadership, debates, writing, and learning about the use of AI tools and prompts to generate output. Students will not be expected, however, to program or write any formal code.\n\n\n\nPrinciple - Practice - Politics - Policy\nThe course moves from the conceptual to the practical. First, we start with an introduction to the philosophy of artificial intelligence itself. What is “intelligence” and “consciousness” in the first place? What are minds? What are agents and legal persons, and when are agents responsible for their actions? What is artificial intelligence, and what is artificial “general” intelligence? Second, we proceed to discuss the mechanics of current computational approaches to AI, with a particular focus on large language models (such as OpenAI’s ChatGPT), including approachable, non-technical overviews of the principles behind machine learning, neural networks, and assorted technologies that have given rise to the current state of the art in AI. Third, we consider the societal impacts of current artificial intelligence systems, including data practices as well as current AI applications, uses, risks, and ethics. Fourth, we turn to policy, examining the decisions in front of governments, companies, and organizations in the United States and worldwide as well as complications in the policy process for producing effective AI legislation.\n\n\n\nIntroductory coursework in (any) related area(s). No particular knowledge is expected, but the reading level is high and this course may not be suitable for first year students.\nWhile this course has no formal pre-requisites, it does have a substantial informal prerequisite: motivation. This class is conducted as a seminar, not a lecture, and interest and participation is presumed and required.\n\n\n\n\nExplain the core technical, economic, and political forces that shape how modern AI models are developed, deployed, and governed.\nCritically evaluate and debate alternate perspectives on contemporary AI policy issues, using evidence to construct and defend reasoned arguments.\nDesign and evaluate AI policy proposals by applying principles of data ethics, policy analysis, and policy design to real-world issue domains."
+  },
+  {
+    "objectID": "syllabus.html#materials",
+    "href": "syllabus.html#materials",
+    "title": "Artificial Intelligence Policy",
+    "section": "📘 Materials",
+    "text": "📘 Materials\n\nBooks\n\nRequired\n\nNone. All materials will be available online.\nMaterials may require logging in through the library for access.\n\nRecommended\n\nHaugeland et al, 2023. Mind Design III: Philosophy, Psychology, and Artificial Intelligence.\n\n\n\n\nComputing\nWe will make use of AI models in class as end-users, so you should have a computer you can use to access them. No coding will be required in the course.\nSyracuse University has a campus-wide license to the enterprise version of Anthropic’s Claude, which gives you increased usage before your compute is limited. Anthropic also guarantees Syracuse that it will not train Claude’s models on your data. I recommend you use it when asked in course assignments if you do not have higher-level access to another LLM. Syracuse University: Claude Enterprise\n\n\nOnline Course Resources\n\nWebsite\nThis course website is our primary source of course organization and material: here, you can find the course syllabus, daily content, assignments, and more.\n\n\nBlackboard\nBlackboard is our internet-based course platform: http://blackboard.syr.edu. In it, you will find submission portals for assignments and a link to our course webpage, along with (potentially) a few resources that are copyright protected and not suitable to post here.\n\n\nMicrosoft Teams\nIn addition to Blackboard, we’ll have a class discussion channel in Microsoft Teams for discussion question sharing as well as for sharing news articles. Make sure you set up easy access for yourself wherever is convenient."
+  },
+  {
+    "objectID": "syllabus.html#course-requirements",
+    "href": "syllabus.html#course-requirements",
+    "title": "Artificial Intelligence Policy",
+    "section": "📌 Course Requirements",
+    "text": "📌 Course Requirements\n\nOverview\n\nSeminar Participation (20%)\n\nAttendance, Reading, and Participation\nDiscussion Questions\nAI News Submissions\nDiscussion Leadership\n\nPrepared Work for Class (40%)\n\nDebates (30%)\nShort Assignments (10%)\n\nCore Exam (20%)\nFinal Project (20%)\n\nPresentation\nPaper\n\n\n\n\nSeminar Participation\n\nDaily Attendance, Participation, and Reading\nThis is a preceptorial-style seminar taught at a high level: it only works if everyone takes part. I have a high opinion of your intellectual capability and a similarly high opinion of the quality of your potential contributions - make sure to show them to me!\n\n\nDiscussion Questions\nSubmit discussion questions or points (broadly construed) to the class by 9 AM on the day of class. Make sure to send messages to the course Teams chat so everyone can read them.\n\n\nAI News Submissions\nIn class, we’ll occasionally use time in class to discuss AI news from the week. (Especially if something particularly interesting happens . . . which, because this is AI, happens a lot). If you come across interesting AI news - or broad tech industry news - submit it to our Teams chat.\n\n\nDiscussion Leadership\nEach class has an assigned discussion leader from among the students. While all students are under an obligation to read (or listen, or watch) the material each day from class, the discussion leader has a special role as the person who starts our discussion for the day rolling, and steps in should our discussion of the day’s material falter.\n\n\nParticipation Grading Policy\nA seminar like this doesn’t work if everyone only seeks to do the bare minimum. Informed class participation is expected and required each day in class; you shouldn’t be counting things like “I submitted a number of news articles already this semester, so I no longer need to submit news articles or talk in class”. Participate across all elements of the seminar as and when the spirit moves you, and keep that participation up through the semester, and you’ll do fine for this portion of the class.2\nWith that said, it is useful to have some baselines and expectations for everyone to keep in mind. A few that are useful:\n\nAttendance: One of the guiding principles of my class is that you are adults, and thus, capable of managing your own obligations and time. I have little interest in policing your lives, and I understand that everyone has bad days, things that come up, etc.3 You can miss up to three days of class without excuse or penalty, unless that day is a day you have a special obligation. If you are supposed to be a discussion leader, or giving a presentation, taking part in a debate, or miss more than three days, make sure to send me a note.\n\nDiscussion Questions: At least one each day. (Although do note: you should sometimes submit more than one, too!)\nIn-Class Participation: We should hear your contributions every day. We’ll have systems in class to make sure that everyone gets a turn. I won’t be keeping exact tallies of who said what, or how much, but I will take note of your general contribution tendencies.\n\nNews Submissions: At least two news submissions per semester (hopefully more)!\nDiscussion Leadership: Split evenly according to the number of students in the class.\n\n\n\n\nPrepared Class Work\n\nDebates\nWe will have six formal debates in the class, following a modified Lincoln-Douglas debate format (if you are unfamiliar with these rules, don’t worry! We’ll cover them.) Each student will have a role in each debate, although not all roles are equal: it is easier to judge than it is to affirm or negate. All students will have equal debate responsibilities across the class.\n\n\nShort Assignments\nSmall assignments about AI tools will be given throughout the semester. They may involve presentations to the class.\n\n\n\nCore Exam\nAn in class test on AI basics, held in the middle of the semester.\n\n\nFinal Project\nA final research project on an aspect of AI policy. (There will be options.) Graduate students will have higher expectations than undergraduates."
+  },
+  {
+    "objectID": "syllabus.html#course-expectations-guidelines",
+    "href": "syllabus.html#course-expectations-guidelines",
+    "title": "Artificial Intelligence Policy",
+    "section": "🎓 Course Expectations & Guidelines",
+    "text": "🎓 Course Expectations & Guidelines\n\nEtiquette & Decorum\nThis is an upper level undergraduate and graduate course: I take it for granted that you have a basic interest in the material and an enthusiastic attitude toward participation. A university classroom is fundamentally a learning community that operates on respect: be courteous to fellow students and the professor, attend class on time, listen to fellow seminar participants when they talk, and disagree (or agree) with others’ arguments professionally. Keep cell phones and other technology silenced and out of sight unless doing something directly relevant to the discussion in the class.4\n\n\nOffice & Consultation Hours, Appointments\nI encourage you to chat with me at any point if you have questions about the course. You are always welcome to drop by my office hours, and can schedule a meeting with me by going to my website here: http://jacklreilly.github.io. You do not need an appointment for regularly scheduled drop-in office hours: they are there for you! Furthermore, I have a general open-door policy: feel free to stop by to see if my door is open, and if it is, just come on in. (Don’t feel like you’re intruding! I’ll tell you if it’s not a good time.)\n\n\nE-mail\nEmail is the best way to contact me. I try to be pretty responsive, but as a baseline, I always aim to get back to you in a modified 24-hour fashion: by the end of the business day the day after you email (at minimum). So if you email me at 2 PM Tuesday, I’ll get back to you by 6 PM Wednesday at the latest; if 10 PM Thursday, by 6 PM Friday; if you email me at 3 PM on Friday, by 6 PM Monday, etc.5\n\n\n\n\n\n\nNote\n\n\n\nIf your email requires a long response, expect me to encourage you to meet with me in person so we can have a more effective discussion.\n\n\n\n\nArtificial Intelligence and Class Technology Policy\nTo be discussed (and decided upon!) in class on a per-assignment basis."
+  },
+  {
+    "objectID": "syllabus.html#learning-objective-assessment",
+    "href": "syllabus.html#learning-objective-assessment",
+    "title": "Artificial Intelligence Policy",
+    "section": "📊 Learning Objective Assessment",
+    "text": "📊 Learning Objective Assessment\n\nCourse Assessment Plan\n\n\n\n\n\n\n\nLearning Objective\nAssessment Measure\n\n\n\n\nExplain the core technical, economic, and political forces that shape how modern AI models are developed, deployed, and governed.\nCore Exam\n\n\nCritically evaluate and debate diverse perspectives on contemporary AI policy issues, using evidence to construct and defend reasoned arguments.\nDebates\n\n\nDesign and evaluate AI policy proposals by applying principles of data ethics, policy analysis, and policy design to real-world issue domains.\nFinal Project"
+  },
+  {
+    "objectID": "syllabus.html#course-schedule",
+    "href": "syllabus.html#course-schedule",
+    "title": "Artificial Intelligence Policy",
+    "section": "🗓️ Course Schedule",
+    "text": "🗓️ Course Schedule"
+  },
+  {
+    "objectID": "syllabus.html#unit-i-philosophy",
+    "href": "syllabus.html#unit-i-philosophy",
+    "title": "Artificial Intelligence Policy",
+    "section": "Unit I | Philosophy",
+    "text": "Unit I | Philosophy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n1.1\nJan 13\nClass Introduction\n\n\n1.2\nJan 15\nIntelligence, Consciousness, Sentience\n\n\n2.1\nJan 20\nCrash Course: Emergence Phenomena & Systems Thinking\n\n\n2.2\nJan 22\nEvaluating Intelligence\n\n\n3.1\nJan 27\nAI Embodiment, Agency, & Responsibility\n\n\n3.2\nJan 29\nDebate I"
+  },
+  {
+    "objectID": "syllabus.html#unit-ii-technology",
+    "href": "syllabus.html#unit-ii-technology",
+    "title": "Artificial Intelligence Policy",
+    "section": "Unit II | Technology",
+    "text": "Unit II | Technology\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n4.1\nFeb 3\nCrash Course: Designing AI: Computers & Technology\n\n\n4.2\nFeb 5\nData Privacy and Algorithmic Bias\n\n\n5.1\nFeb 10\nEnergy\n\n\n5.2\nFeb 12\nDebate II"
+  },
+  {
+    "objectID": "syllabus.html#unit-iii-business",
+    "href": "syllabus.html#unit-iii-business",
+    "title": "Artificial Intelligence Policy",
+    "section": "Unit III | Business",
+    "text": "Unit III | Business\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n6.1\nFeb 17\nCrash Course: Building AI: Business & Economics\n\n\n6.2\nFeb 19\nFinancing AI\n\n\n7.1\nFeb 24\nLabor Replacement I Rebooting the Singularity\n\n\n7.2\nFeb 26\nDebate III"
+  },
+  {
+    "objectID": "syllabus.html#unit-iv-geopolitics",
+    "href": "syllabus.html#unit-iv-geopolitics",
+    "title": "Artificial Intelligence Policy",
+    "section": "Unit IV | Geopolitics",
+    "text": "Unit IV | Geopolitics\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n8.1\nMar 3\nCore Exam\n\n\n8.2\nMar 5\nCrash Course: Negotiating AI: Geopolitics & The World\n\n\n9.1\nMar 17\nGeopolitics\n\n\n9.2\nMar 19\nDebate IV"
+  },
+  {
+    "objectID": "syllabus.html#unit-v-policy",
+    "href": "syllabus.html#unit-v-policy",
+    "title": "Artificial Intelligence Policy",
+    "section": "Unit V | Policy",
+    "text": "Unit V | Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement II\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
+  },
+  {
+    "objectID": "syllabus.html#unit-vi-humanity",
+    "href": "syllabus.html#unit-vi-humanity",
+    "title": "Artificial Intelligence Policy",
+    "section": "Unit VI | Humanity",
+    "text": "Unit VI | Humanity\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n12.1\nApr 7\nCrash Course: Assessing AI: Harms, Implications, and Futures\n\n\n12.2\nApr 9\nAuthoritarianism and AI\n\n\n13.1\nApr 14\nSingularities, xRisk, & AGI\n\n\n13.2\nApr 16\nDebate VI\n\n\n14.1\nApr 21\nFinal Presentations\n\n\n14.2\nApr 23\nFinal Presentations\n\n\n\nThis is a tentative course schedule. Content subject to change.\nKey\nCrash Course - lecture day; no student discussion leader"
+  },
+  {
+    "objectID": "syllabus.html#notes",
+    "href": "syllabus.html#notes",
+    "title": "Artificial Intelligence Policy",
+    "section": "🗒️ Notes",
+    "text": "🗒️ Notes\nA Note on Readings\nAll readings may be found linked from the course content pages. Readings will be posted at least one week ahead of time. Each day will have one or two primary sources that should be read, listened to, or watched in full, a series of simpler secondary readings (often, news coverage, podcasts, and/or videos) that should be browsed or scanned, and (frequently) further secondary and background reference reading for those interested in diving deeper.\nUndergraduate students are expected to read or listen to the primary source(s) for the day and scan background readings.\nGraduate students are expected to read or listen to the primary source(s), scan secondary readings, and select one or more of the secondary or background readings to read in further depth, as well."
+  },
+  {
+    "objectID": "syllabus.html#campus-academic-resources-policies",
+    "href": "syllabus.html#campus-academic-resources-policies",
+    "title": "Artificial Intelligence Policy",
+    "section": "🏫 Campus Academic Resources & Policies",
+    "text": "🏫 Campus Academic Resources & Policies\nThe following reflects the approved campus-wide academic policies of Syracuse University. For more information and detail, please consult the full documentation of University policies here.\n\n⚠️ Academic Drop Deadline\nAs part of our efforts to track satisfactory academic progress, the Academic Drop Deadline and the Financial Drop Deadline will both occur on September 15, 2025, for the fall semester and February 2, 2026, for the spring semester. Students may still withdraw from courses after these deadlines; this would place a ‘WD’ grade on their transcripts. Students enrolled in “flex” classes (Flexibly formatted classes) have different deadlines and will need to check MySlice for the Academic and Financial Drop deadlines that pertain to their class.\n\n\n📖 Academic Integrity\nAs a pre-eminent and inclusive student-focused research institution, Syracuse University considers academic integrity at the forefront of learning, serving as a core value and guiding pillar of education. Syracuse University’s Academic Integrity Policy provides students with the necessary guidelines to complete academic work with integrity throughout their studies. Students are required to uphold both course-specific and university-wide academic integrity expectations such as crediting your sources, doing your own work, communicating honestly, and supporting academic integrity. The full Syracuse University Academic Integrity Policy can be viewed by visiting the Syracuse University Policies website.\nUpholding Academic Integrity includes the protection of faculty’s intellectual property. Students should not upload, distribute, or share instructors’ course materials, including presentations, assignments, exams, or other evaluative materials without permission. Using websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others, which are then presented as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation. All academic integrity expectations that apply to in-person assignments, quizzes, and exams also apply online.\nStudents found in violation of the policy are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the School or College where the course is offered. Students may not drop or withdraw from courses in which they face a suspected violation. Any established violation in this course may result in course failure regardless of violation level.\n\n\n🤖 Artificial Intelligence\nBased on the specific learning outcomes and assignments in this course, artificial intelligence is permitted on the following: selected course assignments. Artificial intelligence is not permitted on in-class exams. See each assignment, quiz, or exam instructions for more information about what artificial intelligence tools are permitted and to what extent, as well as citation requirements. If no instructions are provided for a specific assignment, then no use of any artificial intelligence tool is permitted. Any AI use beyond that which is detailed in course assignments is explicitly prohibited except when documented permission is granted.\nPlease also see Syracuse University’s general campus AI policies here.\nI, as the instructor, may use generative AI tools to help develop course materials. When I do, I take full responsibility for reviewing and verifying all AI-generated content to ensure it is accurate, appropriate and aligned with our learning objectives. All final course materials represent my professional judgment about what will best support your learning.\n\n\n💻 Academic Integrity Online\nAll academic integrity expectations that apply to in-person quizzes and exams also apply to online quizzes and exams. In this course, all work submitted for quizzes and exams must be yours alone. Discussing quiz or exam questions with anyone during the quiz or exam period violates academic integrity expectations for this course.\nUsing websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others and present the work as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation, resulting in suspension or expulsion from Syracuse University.\n\n\n👤 Attendance Policy\nAttendance in classes is expected in all courses at Syracuse University. It is a federal requirement that faculty promptly notify the university of students who do not attend or cease to attend any class. Faculty will use Early-Semester Progress Reports and Mid-Semester Progress Reports in Orange SUccess to alert the Registrar and Financial Aid Office on non-attendance. For more information visit:\nFaculty: Information for Faculty: Non-attendance or Stopped Attending Students: Information for Students: Non-attendance or Stopped Attending\nIf a student is unable to participate in-person or virtually for an extended period of time (48 hours or more), the student may request an absence notification from their home school/college Dean’s Office or through Student Outreach and Support office. Instructors will be notified via the “Absence Notification” flag in Orange SUccess.\nBarnes Center at the Arch (Health, Counseling, etc.) staff will not provide medical excuse notes for students. When Barnes Center staff determine it is medically necessary to remove a student from classes, they will coordinate with Student Outreach and Support case management staff to provide appropriate notification to faculty through Orange Success. For absences lasting less than 48 hours, students are encouraged to discuss academic arrangements directly with their faculty.\nAdditional information may be found at Student Outreach and Support: Absence Notifications.\n\n\n🖼 Blackboard\nThis class will use the Blackboard Learning Management to house the syllabus, course content, links to external course materials, assignments, quizzes, exams, feedback, and grades. Due dates and times in Blackboard are stored in Coordinated Universal Time (UTC) and displayed for each user based on the time zone setting of their computer and data from their internet browser. The system will always display the time zone being used. If an instructor sets a due date of 11pm Eastern time, a student in the Pacific time zone will see a due date of 8pm.”\nInformation about Blackboard is available on Answers Blackboard; alternatively, you can contact Information Technology Services by sending an email to help@syr.edu, calling 315.443.2677, or in-person at the ITS Service Center, located at 1-227 CST in the Life Sciences Complex. Business hours for the Service Center can be found on the ITS website.\n\n\n🚫 Discrimination and Harassment\nThe University does not discriminate and prohibits harassment or discrimination related to any protected category including creed, ethnicity, citizenship, sexual orientation, national origin, sex, gender, pregnancy, reproductive health decisions, disability, marital status, political or social affiliation, age, race, color, veteran status, military status, religion, sexual orientation, domestic violence status, genetic information, gender identity, gender expression or perceived gender.\nAny complaint of discrimination or harassment related to any of these protected bases should be reported to Sheila Johnson-Willis, the University’s Chief Equal Opportunity & Title IX Officer for Faculty and Staff. She is responsible for coordinating compliance efforts under the various laws including Titles VI, VII, IX and Section 504 of the Rehabilitation Act. She can be contacted at Equal Opportunity, Inclusion, and Resolution Services, 621 Skytop Road, Suite 1001, Syracuse University, Syracuse, NY 13244-1120; or by email: equalopp@syr.edu; or by telephone: 315-443-4018.\n\n\n🌍 Diversity\nIt is the intent of this course for students from all diverse backgrounds and perspectives to be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. It is also critical to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let your instructor know ways to improve the effectiveness of the course for you personally or for other students or student groups.\n\n\n🤝 Disability\nSyracuse University values access and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be necessary to ensure equitable access, and to collaborate with the Center for Disability Resources (CDR) in this process.\nIf you would like to discuss disability-related accommodations or register with CDR, please visit Center for Disability Resources. Please call 315.443.4498 or email CDRspecialist@syr.edu for more detailed information.\nCDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Since academic accommodations are generally not provided retroactively, please contact CDR as soon as possible to initiate this process.\n\n\n🌐 Faith and Religious Accommodations\nSyracuse University’s Religious Observances Policy recognizes the diversity of faiths represented in the campus community and protects the rights of students, faculty, and staff to observe religious holy days according to their traditions. Under the policy, students are given an opportunity to make up any examination, study, or work requirements that may be missed due to a religious observance, provided they notify their instructors no later than the academic drop deadline. For observances occurring before the drop deadline, notification is required at least two academic days in advance. Students may enter their observances in MySlice under Student Services/Enrollment/My Religious Observances/Add a Notification.\n\n\n📝 FERPA\nThe Family Educational Rights and Privacy Act (FERPA) sets forth requirements regarding the privacy of student records. FERPA governs both the access to and release of those records, known as education records, and the information they contain. Under FERPA, faculty have a legal responsibility to protect the confidentiality of student records. For additional information about FERPA and Syracuse University’s FERPA policy, see Compliance with the Family Education Rights and Privacy Act or contact the Office of the Registrar (315.443.2422).\n\n\n🩺 Health and Wellness\nWell-being and mental health are significant predictors of academic success. It is critical to take care of yourself physically and emotionally and to effectively navigate stress, anxiety, and depression. Please familiarize yourself with the range of resources the Barnes Center provides https://ese.syr.edu/bewell/ and seek out support for mental health concerns as needed. Counseling services are available 24/7, 365 days, at 315-443-8000.\n\n\n🍊 ORANGE Alert\nORANGE ALERT, Syracuse University’s crisis notification system, uses text messages, phone, and email alerts to provide rapid notification and instructions to members of the University community in the event of a crisis in progress. In the event of an emergency, please use one of the following numbers to reach us:\nFrom any phone: 315.443.2224 From your cell phone: #78 (#SU) Campus landline: 711\nFor more information on ORANGE ALERT, including how to update your contact information, visit the DPS website.\n\n\nSyllabus Format Note\nThis syllabus is coverted automatically to your document format from its original version. Please visit the course website to see the original version and for any changes."
+  },
+  {
+    "objectID": "syllabus.html#footnotes",
+    "href": "syllabus.html#footnotes",
+    "title": "Artificial Intelligence Policy",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn addition to formal office hours, I have an open door policy - feel free to stop by if you see the door open. In particular, I stay around after class for up to half an hour if students come by - feel free to stay after and meet with me.↩︎\nFor the grade for this section, I hope and expect to be able to simply award full points to everyone based on apparent enthusiasm and contributions across the whole semester.↩︎\nI also understand that some of these things that come up may be things you don’t want to discuss with your professor. That’s OK! The attendance policy is designed so that you typically don’t have to tell me you missed because you have a medical emergency or a family matter you’d rather not discuss.↩︎\nRemember that technology presents a significant negative externality: it is not just you that is distracted, but it is you who are distracting others as well with the bright shiny colors on your screen.↩︎\nUsually I aim to be much much faster! But if you don’t hear from me by this baseline, feel free to bump a reminder. No hard feelings. Sometimes things get busy and I lose track of an email.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Artificial Intelligence Policy",
+    "section": "",
+    "text": "Think critically about artificial intelligence and learn how to design and evaluate artificial intelligence policies for government, business, and nonprofit organizations of all sizes.\n    \n\n    \n      PAI 400/600 • Spring 2026\n      Maxwell School of Citizenship & Public Affairs\n      Syracuse University\n    \n  \n\n\n\n\n\n\n\n\n\n\n\nNoteInstructor\n\n\n\n\n👤 Dr. Jack Reilly\n🏛️ Eggers Hall 225\n✉️ jlreilly@syr.edu\n\n\n\n\n\n\n\n\n\n\nNoteCourse details\n\n\n\n\n📅 Tuesdays & Thursdays\n🕒 2:00 – 3:20 PM\n📍 Eggers Hall 070\n\n\n\n\n\nPlease browse the course pages for course overview, schedule, content and reading, work and assignments, course and campus policies, and guidelines for initially thinking about use of AI in this class. If you would prefer to have the syllabus as a single page, go here. And note you can download any page on the website you like as a pdf or formatted document.\nI look forward to seeing you in class."
+  },
+  {
+    "objectID": "cssstylesextras.html",
+    "href": "cssstylesextras.html",
+    "title": "Artificial Intelligence Policy",
+    "section": "",
+    "text": "preferred navbar color #e8bc00\n/* css styles */\n#quarto-content h1 { color: ;} #quarto-content h2 { color: ;} #quarto-content h3 { color: ;}\n.quarto-title-banner { background-color: ; }\n.navbar, .navbar.bg-primary { background-color: #cfa700; }\n#quarto-content a { color: ; }\n#quarto-content a:hover { color: ; }\n/* Active item in the page TOC */ #TOC a.active, #TOC a[aria-current=“true”] { color: ; }\n@media (min-width: 992px) { .navbar .navbar-nav.me-auto { margin-right: 0 !important; margin-left: auto !important; } }\n    - section: \"2. AI and Technology\"\n      href: content/index.qmd\n      contents:\n      - content/w41.qmd\n      - content/w42.qmd\n      - content/w51.qmd\n      - content/w52.qmd\n    - section: \"3. AI and the World\"\n      href: content/index.qmd\n      contents:\n      - content/w61.qmd\n      - content/w62.qmd\n      - content/w71.qmd\n      - content/w72.qmd\n    - section: \"4. AI and Business\"\n      href: content/index.qmd\n      contents:\n      - content/w81.qmd\n      - content/w82.qmd\n      - content/w91.qmd\n      - content/w92.qmd\n    - section: \"5. AI and Governance\"\n      href: content/index.qmd\n      contents:\n      - content/w101.qmd\n      - content/w102.qmd\n      - content/w111.qmd\n      - content/w112.qmd\n    - section: \"6. AI and Humanity\"\n      href: content/index.qmd\n      contents:\n      - content/w121.qmd\n      - content/w122.qmd\n      - content/w131.qmd\n      - content/w132.qmd"
+  },
+  {
+    "objectID": "work/assign1.html",
+    "href": "work/assign1.html",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "",
+    "text": "For this assignment, choose your favorite LLM (it can be anything, free or otherwise - ChatGPT, Gemini, Claude, Grok, etc). Use it to answer the following questions.\n\nAsk the LLM to write a paper on a topic of your choosing. It should be a topic that you know very well, so that you can identify correct and incorrect information easily. The topic doesn’t have to be directly related to policy.1 Feel free to specify the question however you want, but make sure it looks like a “regular” essay prompt: there should be details about topic, page length requirements, bibliographic expectations, etc.\nOnce you are satisfied with your prompt, give it to your chosen LLM. Then, grade the LLM’s answer, looking for style, prose, accuracy, and overall argumentation. In your grade, provide both a letter grade (A to F) and, more critically, a justification for that grade. What did the LLM do well? What did it do poorly? Are there any factual inaccuracies or hallucinations? Is there anything that really should have been included in the essay, but wasn’t? Did it follow proper formatting and length requirements?\nGive the LLM feedback on its first essay and ask for improvements. Then, assess the improvements. Did the LLM accurately correct mistakes?\nReflect on the process. In other assignments where you are allowed to use LLMs, how does this experience inform your future use of LLMs? How can you best utilize this tool while still taking responsibility for the quality of the final product?",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/assign1.html#instructions",
+    "href": "work/assign1.html#instructions",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "",
+    "text": "For this assignment, choose your favorite LLM (it can be anything, free or otherwise - ChatGPT, Gemini, Claude, Grok, etc). Use it to answer the following questions.\n\nAsk the LLM to write a paper on a topic of your choosing. It should be a topic that you know very well, so that you can identify correct and incorrect information easily. The topic doesn’t have to be directly related to policy.1 Feel free to specify the question however you want, but make sure it looks like a “regular” essay prompt: there should be details about topic, page length requirements, bibliographic expectations, etc.\nOnce you are satisfied with your prompt, give it to your chosen LLM. Then, grade the LLM’s answer, looking for style, prose, accuracy, and overall argumentation. In your grade, provide both a letter grade (A to F) and, more critically, a justification for that grade. What did the LLM do well? What did it do poorly? Are there any factual inaccuracies or hallucinations? Is there anything that really should have been included in the essay, but wasn’t? Did it follow proper formatting and length requirements?\nGive the LLM feedback on its first essay and ask for improvements. Then, assess the improvements. Did the LLM accurately correct mistakes?\nReflect on the process. In other assignments where you are allowed to use LLMs, how does this experience inform your future use of LLMs? How can you best utilize this tool while still taking responsibility for the quality of the final product?",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/assign1.html#submission",
+    "href": "work/assign1.html#submission",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "Submission",
+    "text": "Submission\nYour submission should include:\n\nYour original prompt to your LLM (and an identification of what LLM you used), along with the LLM’s original answer.\nYour grade and assessment of the LLM’s answer (~500 words).\nThe feedback you gave the LLM and the LLM’s new answer.\nA brief assessment of whether the new answer met expectations (~200 words).\nA reflection on the quality of the LLM’s answer and process (~200 words).\n\nYou should also be prepared to briefly discuss your assignment in class.",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/assign1.html#deadline",
+    "href": "work/assign1.html#deadline",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "Deadline",
+    "text": "Deadline\nThis assignment is due February 19 (Week 6.2) to Blackboard as a PDF.",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/assign1.html#footnotes",
+    "href": "work/assign1.html#footnotes",
+    "title": "Assignment 1 - Using LLMs",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn fact, it might be better if it isn’t! If you want to make it about policy, that’s perfectly ok, but it’s more important you know the topic very well, so that you are able to easily assess the results of your prompting.↩︎",
+    "crumbs": [
+      "📝 Work",
+      "Assignments",
+      "Assignment 1 - Using LLMs"
+    ]
+  },
+  {
+    "objectID": "work/d5res.html",
+    "href": "work/d5res.html",
+    "title": "Debate 5 - Policy",
+    "section": "",
+    "text": "To ameliorate future disruption in the labor market caused by artificial intelligence, the United States should implement a universal basic income.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 3\nTeam 2\nTeam 1"
+  },
+  {
+    "objectID": "work/d5res.html#resolution",
+    "href": "work/d5res.html#resolution",
+    "title": "Debate 5 - Policy",
+    "section": "",
+    "text": "To ameliorate future disruption in the labor market caused by artificial intelligence, the United States should implement a universal basic income.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 3\nTeam 2\nTeam 1"
+  },
+  {
+    "objectID": "work/d5res.html#amendments-and-adjustments",
+    "href": "work/d5res.html#amendments-and-adjustments",
+    "title": "Debate 5 - Policy",
+    "section": "Amendments and Adjustments",
+    "text": "Amendments and Adjustments\n\nTBD"
+  },
+  {
+    "objectID": "work/d5res.html#judges-notes",
+    "href": "work/d5res.html#judges-notes",
+    "title": "Debate 5 - Policy",
+    "section": "Judge’s Notes",
+    "text": "Judge’s Notes"
+  },
+  {
+    "objectID": "work/d2res.html",
+    "href": "work/d2res.html",
+    "title": "Debate 2 - Technology",
+    "section": "",
+    "text": "The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 3\nTeam 1",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate 2 - Technology"
+    ]
+  },
+  {
+    "objectID": "work/d2res.html#resolution",
+    "href": "work/d2res.html#resolution",
+    "title": "Debate 2 - Technology",
+    "section": "",
+    "text": "The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 3\nTeam 1",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate 2 - Technology"
+    ]
+  },
+  {
+    "objectID": "work/d2res.html#amendments-and-adjustments",
+    "href": "work/d2res.html#amendments-and-adjustments",
+    "title": "Debate 2 - Technology",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nSee debate guidelines and debate tips for guidance and details.\nThere are no adjustments to the standard debate format for this debate.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 1 - Philosophy"
+      "Debate 2 - Technology"
     ]
   },
   {
-    "objectID": "work/d1res.html#judges-notes",
-    "href": "work/d1res.html#judges-notes",
-    "title": "Debate 1 - Philosophy",
+    "objectID": "work/d2res.html#judges-notes",
+    "href": "work/d2res.html#judges-notes",
+    "title": "Debate 2 - Technology",
     "section": "Judge’s Notes",
-    "text": "Judge’s Notes\nIt may help to think of this debate as a warm-up and illustration of the debate format. Later debates typically take place over more substantive policy disputes, with a potential greater role for evidence; this first debate is meant to illustrate the form of debate itself. It can help, for instance, to think about how you might have a debate over similar “debate training” resolutions, like:\n\n“A hot dog is a sandwich”\n“Cereal is a soup”\n“Peppers are fruits”\n“Pluto should be classified as a planet”\n“Chess is a sport”\n“Coffee is better than tea”\n“Breakfast food is superior to dinner food”\n\nYou should expect that much of this debate will turn on how key terms like “intelligence” and “passing the Turing Test” are defined. It’s not that there is no role for evidence in these resolutions - there is - but evidentiary proof is secondary to argumentative structure and strategy in winning these kinds of “training” debates. Remember, the goal is not to be correct: the goal is to make the best case possible under reasonable definitions (and learn something substantive about both sides of a debate along the way).",
+    "text": "Judge’s Notes\n\nThis debate has the same general form as Debate #1. All the same things apply: think carefully about what the resolution is actually about and how you want to frame the debate.\nUnlike the first debate, however, this resolution has an increased role for external research. You may wish to learn more about details of the resolution (methods and mechanisms of energy production; AI demand for energy; the current role the state has in energy; etc).\nThat said, make sure to think about the right level of detail: this is a short-form debate, not an extended white paper, so while you need evidence, getting too deep into the weeds of energy policy may not be to your advantage.",
     "crumbs": [
       "📝 Work",
       "Debates",
-      "Debate 1 - Philosophy"
+      "Debate 2 - Technology"
     ]
   },
   {
-    "objectID": "work/d4res.html",
-    "href": "work/d4res.html",
-    "title": "Debate 4 - Geopolitics",
+    "objectID": "work/d6res.html",
+    "href": "work/d6res.html",
+    "title": "Debate 6 - Humanity",
     "section": "",
-    "text": "The United States government should further subsidize Intel’s foundry operations.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 1\nTeam 3"
+    "text": "The United States should ban the sale of advanced US-designed GPUs to China.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 3\nTeam 2"
   },
   {
-    "objectID": "work/d4res.html#resolution",
-    "href": "work/d4res.html#resolution",
-    "title": "Debate 4 - Geopolitics",
+    "objectID": "work/d6res.html#resolution",
+    "href": "work/d6res.html#resolution",
+    "title": "Debate 6 - Humanity",
     "section": "",
-    "text": "The United States government should further subsidize Intel’s foundry operations.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 2\nTeam 1\nTeam 3"
+    "text": "The United States should ban the sale of advanced US-designed GPUs to China.\n\nTeams\n\n\nAffirm\nNegate\nJury\n\n\n\n\nTeam 1\nTeam 3\nTeam 2"
   },
   {
-    "objectID": "work/d4res.html#amendments-and-adjustments",
-    "href": "work/d4res.html#amendments-and-adjustments",
-    "title": "Debate 4 - Geopolitics",
+    "objectID": "work/d6res.html#amendments-and-adjustments",
+    "href": "work/d6res.html#amendments-and-adjustments",
+    "title": "Debate 6 - Humanity",
     "section": "Amendments and Adjustments",
     "text": "Amendments and Adjustments\n\nTBD"
   },
   {
-    "objectID": "work/d4res.html#judges-notes",
-    "href": "work/d4res.html#judges-notes",
-    "title": "Debate 4 - Geopolitics",
+    "objectID": "work/d6res.html#judges-notes",
+    "href": "work/d6res.html#judges-notes",
+    "title": "Debate 6 - Humanity",
     "section": "Judge’s Notes",
     "text": "Judge’s Notes"
+  },
+  {
+    "objectID": "work/dtips.html",
+    "href": "work/dtips.html",
+    "title": "Debate Tips",
+    "section": "",
+    "text": "Refer to the other team as “our opponents” or “my opponent”.\nThink carefully about the resolution. What exactly is the resolution asking you to debate? Do not allow yourself to be distracted by anything off topic (which good debaters will try to do, of course).\nDefine the terms of the debate. Resolutions, by their nature, have inherent ambiguities. Define and frame the resolution further in a way that is simultaneously fair and that gives you an argumentative advantage. Make the terms of the debate clear to the jury: what, for instance, should determine a winner and loser in the debate? What points does your side need to make and what points does the other side need to make to win? Tell the jury what it means to win the debate.\nIn oral debate presentation, clarity is key. Subtlety is not your friend. Be straight, simple, and to the point.\nDebates happen fast. Plan. Pay attention to your time. The debate can feel simultaneously short and long - a three minute constructive is plenty of time to say what you need to, so long as you plan well ahead of time. Use all of your time effectively but do not go over.\nSpeak quickly if you can, but above all else, be clear and calm. If you want to perform well you must practice giving your constructive speech at least twice.\nUse resources from class, including readings and lectures, as well as material from outside class. Consider the optional readings listed in the course agenda. They are there to help you.\nRemember: if you want to win, you need to focus on persuading the jury. How many times have you been in an argument with someone and find yourself thinking, “oh my god, why don’t you understand?! The evidence is right there!”? Facts alone don’t win arguments. Persuasion wins arguments.",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate Tips"
+    ]
+  },
+  {
+    "objectID": "work/dtips.html#general-tips-and-advice",
+    "href": "work/dtips.html#general-tips-and-advice",
+    "title": "Debate Tips",
+    "section": "",
+    "text": "Refer to the other team as “our opponents” or “my opponent”.\nThink carefully about the resolution. What exactly is the resolution asking you to debate? Do not allow yourself to be distracted by anything off topic (which good debaters will try to do, of course).\nDefine the terms of the debate. Resolutions, by their nature, have inherent ambiguities. Define and frame the resolution further in a way that is simultaneously fair and that gives you an argumentative advantage. Make the terms of the debate clear to the jury: what, for instance, should determine a winner and loser in the debate? What points does your side need to make and what points does the other side need to make to win? Tell the jury what it means to win the debate.\nIn oral debate presentation, clarity is key. Subtlety is not your friend. Be straight, simple, and to the point.\nDebates happen fast. Plan. Pay attention to your time. The debate can feel simultaneously short and long - a three minute constructive is plenty of time to say what you need to, so long as you plan well ahead of time. Use all of your time effectively but do not go over.\nSpeak quickly if you can, but above all else, be clear and calm. If you want to perform well you must practice giving your constructive speech at least twice.\nUse resources from class, including readings and lectures, as well as material from outside class. Consider the optional readings listed in the course agenda. They are there to help you.\nRemember: if you want to win, you need to focus on persuading the jury. How many times have you been in an argument with someone and find yourself thinking, “oh my god, why don’t you understand?! The evidence is right there!”? Facts alone don’t win arguments. Persuasion wins arguments.",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate Tips"
+    ]
+  },
+  {
+    "objectID": "work/dtips.html#the-constructive",
+    "href": "work/dtips.html#the-constructive",
+    "title": "Debate Tips",
+    "section": "The Constructive",
+    "text": "The Constructive\n\nUse the following format for your constructive speech:\n\nClaim I (The first point you argue. Literally say, “Our first claim is that . . . “)\n\nWarrant (“This is true because…”)\nEvidence (reference sources to add authority to your claim; the more well known and respected, the better)\nImpact (“This is important because…”)\n\nClaim II (The second point you argue)\n\nWarrant\nEvidence\nImpact\n\nClaim III (The third point you argue)\n\nWarrant\nEvidence\nImpact\n\n\nUsing three claims nicely maps on to three minutes. That said, you can increase or decrease the number of claims if you think it important. Just remember that quality matters. Too few substantive claims, and it seems like you don’t have much to say; too many claims and the jury loses track of your argument.",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate Tips"
+    ]
+  },
+  {
+    "objectID": "work/dtips.html#the-cross-examination",
+    "href": "work/dtips.html#the-cross-examination",
+    "title": "Debate Tips",
+    "section": "The Cross Examination",
+    "text": "The Cross Examination\n\nAvoid the trap of over explaining in either question or response. The most memorable points are quick and pithy.\n\nIf you’re asking too long a question, both the other team and the jury will lose track of what you’re asking.1\nIf you’re over explaining in response, you’re probably losing. More time spent in response is more time spent in your opponent’s frame of the debate terms, and less time in yours.\n\nIn questions, go on the offensive and ask questions that you know your opponents don’t have good answers for. Good examples of questions include:\n\nTesting assumptions: “Does your argument depend on . . .”\nHighlight tradeoffs: “Does your policy require sacrificing . . .”\nClarifications: “What exactly do you mean by . . .”\nLock in concessions: “Do you agree that . . .”\n\nIn responses, answer honestly, but remember that too much time in response is time that you’re not spending pressing your opponent on the weaknesses in their arguments. Many best responses tend to deflect quickly, rather than parry fully.2\n\nParry: “That’s wrong because . . .”\nDeflect: “Even if that were true, it doesn’t matter/doesn’t undermine our claim because . . .”\n\nRemember: The cross examination is more typically won by asking good questions rather than having good responses. Prepare accordingly. A strong cross-examination plan can (and should) be written before debate day and probably needs only small tweaks and adjustments within the debate itself.",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate Tips"
+    ]
+  },
+  {
+    "objectID": "work/dtips.html#rebuttal-and-final-focus",
+    "href": "work/dtips.html#rebuttal-and-final-focus",
+    "title": "Debate Tips",
+    "section": "Rebuttal and Final Focus",
+    "text": "Rebuttal and Final Focus\n\nThe rebuttal and final focus have related but different purposes.\n\nThe rebuttal is where you rebut and reinforce arguments, telling the jury why your opponents are wrong and you are right.\n\nThe final focus is where you focus the jury on why you should win the debate. It introduces no new arguments; it exists to crystallize what has come before.\n\nThe rebuttal expands and contracts according to the scale of the arguments made. You want to be exhaustive, but remember that there is a limit to how many points can be remembered by a jury, so choose wisely.\nIn the final focus, use a similar format to the constructive:\n\n“Members of the jury, here is why we’ve won today’s round:”\n\nReason (Tell the jury very literally why they should vote for you)\nReason\nReason",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate Tips"
+    ]
+  },
+  {
+    "objectID": "work/dtips.html#footnotes",
+    "href": "work/dtips.html#footnotes",
+    "title": "Debate Tips",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nYou have all other parts of the debate to speech-ify. This is your time to extract concessions from your opponents directly.↩︎\nAn important caveat: if you deflect, rather than parry, a very legitimate question, the jury will likely see you as evasive and not engaging with the substance of the debate.↩︎",
+    "crumbs": [
+      "📝 Work",
+      "Debates",
+      "Debate Tips"
+    ]
+  },
+  {
+    "objectID": "work/final.html",
+    "href": "work/final.html",
+    "title": "Final Project",
+    "section": "",
+    "text": "Choose one of the following.\n\nChoose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:\n\nA definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?\nAn assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?\nThe policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?\nDiscussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up “winning” and “losing”?\n\nIdentify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.\nWrite a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.\nChoose your own topic! Students selecting this option must have their project approved by the professor.",
+    "crumbs": [
+      "📝 Work",
+      "Final Project"
+    ]
+  },
+  {
+    "objectID": "work/final.html#possible-topics",
+    "href": "work/final.html#possible-topics",
+    "title": "Final Project",
+    "section": "",
+    "text": "Choose one of the following.\n\nChoose an area of AI application and propose your own public policy in this area to address a compelling public interest or need. Included in this proposal should be:\n\nA definition of the problem at hand and a justification for the need for policy in this space. What is it that the private market is not addressing properly? Is there a collective good that is not being protected? Are individual rights being violated in a way that existing law does not protect?\nAn assessment of the key actors that the policy would impact, along with the interests of these actors. Will actors in the space oppose or support legislative action? Why or why not?\nThe policy proposal itself, constructed with a sense of reality. Is there likely opposition to this policy that would yield challenges to moving it through the policy process? How? What will the policy cost, and how could it be paid for?\nDiscussion of both the positive and negative impacts of the proposal that would likely occur if the policy were enacted. No policy exists without tradeoffs - what tradeoffs have been made? Who will end up “winning” and “losing”?\n\nIdentify a real-world policy proposal written around AI and automation (broadly construed). Track the origin, development, and current status (or implementation) of the proposal, and analyze and assess the proposal for its aims, intentions, and efficacy. Does this policy, or piece of legislation, meaningfully solve the problems it seeks to address? Note that, while the most likely policy to choose will be some kind of public policy (law), other kinds of policy - like those enacted at organizations or businesses - could also be used.\nWrite a proposal for an empirical research project with AI. Your proposal should define research questions, hypotheses, and methods, contain a brief literature review of prior work in the area, and identify variables to be measured and analyzed.\nChoose your own topic! Students selecting this option must have their project approved by the professor.",
+    "crumbs": [
+      "📝 Work",
+      "Final Project"
+    ]
+  },
+  {
+    "objectID": "work/final.html#requirements",
+    "href": "work/final.html#requirements",
+    "title": "Final Project",
+    "section": "Requirements",
+    "text": "Requirements\nYou will need to prepare a paper and a class presentation around your chosen topic.\n\nPapers\nPapers should be double-spaced in 12 point font with one inch margins. Papers should also include proper citations and a works cited page. Any style formatting is acceptable, so long as it is internally consistent. I encourage in-text citations and the use of footnotes over endnotes.\nUndergraduate: 8-10 pages\nGraduate: 14-16 pages\n\n\nPresentations\nPresentations should be designed in a graphically compelling fashion and practiced ahead of time. Professionalism counts! You should be in command of your material, and be ready to answer audience questions about your project proposal after you finish. Exact length constraints will depend on the number of presentations, but you should imagine targeting about 5-7 minutes, with groups being allocated slightly more time.\n\n\nCollaboration\nYou may work individually or in a group of up to three for this final project. Those working in groups should prepare papers that meet the following length requirements:\nUndergraduate: \\(length = (6+3x) \\pm 1\\)\nGraduate: \\(length = (10+5x) \\pm 1\\)\nWhere \\(x\\) is the number of people working in the group and \\(length\\) is paper length measured in pages. Collaborative projects should be understood as full co-authorships: all group members are responsible for all content, and they should read (and be presented) like a coherent whole, not as separate uncoordinated mini-papers assembled within an umbrella document.\n\n\nAI Policy\nYou may use AI to assist you in the creation of your projects. You must disclose what AIs you used, and how and for what purpose you used them, in an appendix. (Did you use it to search for literature? For explanations of policy areas or policy problems? To assist in the creation of a draft or in editing?)\nIf you use AI, remember what we have discussed in our class: AI has its uses, but you must also be aware of its weaknesses. AI prose is often poor from an academic perspective, and typically lacks precision, commitment, and clarity of original thought. LLMs can also have an uncomfortably loose relationship with truth. Accordingly, I would suggest that it is appropriate to use AI to assist you in automating research tasks, but also strongly encourage you not to substitute it for your own writing, thoughts, judgment, and proposal.\n\n\nDeadlines\n\nMarch 26: Topics must be chosen and submitted (and approved, if necessary). See Assignment 2.\nWeek 14: Presentations will be given in class during the final week of class, with exact days TBD.\nMay 1: Papers due. Papers should incorporate feedback from the presentation.",
+    "crumbs": [
+      "📝 Work",
+      "Final Project"
+    ]
+  },
+  {
+    "objectID": "work/final.html#submit",
+    "href": "work/final.html#submit",
+    "title": "Final Project",
+    "section": "Submit",
+    "text": "Submit\nPapers and slides to Blackboard; PDF format. Don’t forget your AI appendix (even if to say you did not use AI) and your works cited page.",
+    "crumbs": [
+      "📝 Work",
+      "Final Project"
+    ]
   },
   {
     "objectID": "work/d3res.html",
@@ -1145,7 +1180,7 @@
     "href": "content/w131.html",
     "title": "Placeholder - Check Back Later",
     "section": "",
-    "text": "⚖️ Debate!\n\ntest\n\n\n\n🧠 Think:\n\ntest\n\n\n\n📖 Read:\n\ntest\n\n\n\n🎧 Listen:\n\ntest\n\n\n\n📺 Watch:\n\ntest\n\n\n\n🌐 Browse:\n\ntest\n\n\n\n📚 Additional Resources:\n\ntest\n\n\n\n📝 Submit:\n\nDiscussion question to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later."
+    "text": "⚖️ Debate!\n\ntest\n\n\n\n🧠 Think:\n\ntest\n\n\n\n📖 Read:\n\ntest\n\n\n\n🎧 Listen:\n\ntest\n\n\n\n📺 Watch:\n\ntest\n\n\n\n🌐 Browse:\n\ntest\n\n\n\n📚 Additional Resources:\n\ntest\n\n\n\n📝 Submit:\n\nDiscussion question to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.\n\n\n\nNotes: Alignment"
   },
   {
     "objectID": "content/w22.html",
