@@ -79,7 +79,7 @@ website:
       #logo: images/pai600_dwv_logo2.svg
       contents:
         - section: "Debates"
-          href: work/index.qmd
+          href: work/dguidelines.qmd
           contents:
           - work/dguidelines.qmd
           - work/dtips.qmd
@@ -97,6 +97,11 @@ website:
           href: work/final.qmd
           contents:
           - work/final.qmd
+
+        - section: "Exams"
+          href: work/examguide.qmd
+          contents:
+          - work/examguide.qmd
 
 format:
   html:

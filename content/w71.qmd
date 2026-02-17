@@ -1,10 +1,16 @@
 ---
-title: "7.1 - *Rebooting the Singularity*"
+title: "7.1 - Speed and Scaling"
 ---
 
 #### 👤 Attend:
 - There is no class today.  Instead, attend the [Rebooting the Singularity](https://www.maxwell.syr.edu/events/2026/02/25/default-calendar/rebooting-the-singularity-why-you-should-still-expect-ai-progress-to-be-fast-and-furious) public lecture on Wednesday, February 25 at 3:30 PM in Maxwell 204.
 - If you cannot attend because of another class, work, or other prior commitment, that's OK! Just [let Professor Reilly know](mailto:jlreilly@syr.edu).
+
+#### 🎧 Listen: 
+  - Dario Amodei, 2026. "[We are near the end of the exponential](https://www.dwarkesh.com/p/dario-amodei-2)" *Dwarkesh Podcast*
+
+#### 📖 Read: 
+  - Sutton, 2019. "[The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)" Blog post.
 
 #### 📝 Submit:
   - Reflection question or comment on *Rebooting the Singularity* to course chat

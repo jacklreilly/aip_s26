@@ -1,5 +1,5 @@
 ---
-title: "Exam Guide"
+title: "Core Exam Guide"
 format: 
     html: default
     pdf: default
@@ -68,6 +68,7 @@ format:
     - Revenue streams
     - AI product possibilities 
     - Market positions of current major tech & AI companies
+    - "Hyperscalers"
 2. Implications
     - Data Access
     - Energy  
