@@ -18,7 +18,7 @@
     "href": "schedule.html#unit-iii-business",
     "title": "Schedule",
     "section": "Unit III | Business",
-    "text": "Unit III | Business\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n6.1\nFeb 17\nCrash Course: Building AI: Business & Economics\n\n\n6.2\nFeb 19\nFinancing AI\n\n\n7.1\nFeb 24\nLabor Replacement I Rebooting the Singularity\n\n\n7.2\nFeb 26\nDebate III"
+    "text": "Unit III | Business\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n6.1\nFeb 17\nCrash Course: Building AI: Business & Economics\n\n\n6.2\nFeb 19\nFinancing AI\n\n\n7.1\nFeb 24\nLabor Replacement I Scale and Speed\n\n\n7.2\nFeb 26\nDebate III"
   },
   {
     "objectID": "schedule.html#unit-iv-geopolitics",
@@ -134,13 +134,13 @@
   {
     "objectID": "content/w71.html",
     "href": "content/w71.html",
-    "title": "7.1 - Rebooting the Singularity",
+    "title": "7.1 - Speed and Scaling",
     "section": "",
-    "text": "👤 Attend:\n\nThere is no class today. Instead, attend the Rebooting the Singularity public lecture on Wednesday, February 25 at 3:30 PM in Maxwell 204.\nIf you cannot attend because of another class, work, or other prior commitment, that’s OK! Just let Professor Reilly know.\n\n\n\n📝 Submit:\n\nReflection question or comment on Rebooting the Singularity to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.",
+    "text": "👤 Attend:\n\nThere is no class today. Instead, attend the Rebooting the Singularity public lecture on Wednesday, February 25 at 3:30 PM in Maxwell 204.\nIf you cannot attend because of another class, work, or other prior commitment, that’s OK! Just let Professor Reilly know.\n\n\n\n🎧 Listen:\n\nDario Amodei, 2026. “We are near the end of the exponential” Dwarkesh Podcast\n\n\n\n📖 Read:\n\nSutton, 2019. “The Bitter Lesson” Blog post.\n\n\n\n📝 Submit:\n\nReflection question or comment on Rebooting the Singularity to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.",
     "crumbs": [
       "🏠 Overview",
       "3. Business",
-      "7.1 - *Rebooting the Singularity*"
+      "7.1 - Speed and Scaling"
     ]
   },
   {
@@ -259,37 +259,57 @@
   {
     "objectID": "work/examguide.html",
     "href": "work/examguide.html",
-    "title": "Exam Guide",
+    "title": "Core Exam Guide",
     "section": "",
-    "text": "The exam will be in class, paper and pen (no pencils, please - they smudge!). No computers will be used or needed. Write legibly.1\nThe exam will have two sections - IDs and short answer.\n\nAn “ID”, or identification, question, simply gives you a term and asks you to define it and identify its relevance for the study of AI and AI Policy.\nA short answer is like a short essay - nothing terribly long, but should be structured, potentially with short paragraphs. You could also be given a news article or data graphic about AI and be asked to interpret and situate it, saying why it is important to the broader discussion of AI.\n\nI do not imagine the exam will take the entire class period, but you will have the entire class period to complete it."
+    "text": "The exam will be in class, paper and pen (no pencils, please - they smudge!). No computers will be used or needed. Write legibly.1\nThe exam will have two sections - IDs and short answer.\n\nAn “ID”, or identification, question, simply gives you a term and asks you to define it and identify its relevance for the study of AI and AI Policy.\nA short answer is like a short essay - nothing terribly long, but should be structured, potentially with short paragraphs. You could also be given a news article or data graphic about AI and be asked to interpret and situate it, saying why it is important to the broader discussion of AI.\n\nI do not imagine the exam will take the entire class period, but you will have the entire class period to complete it.",
+    "crumbs": [
+      "📝 Work",
+      "Exams"
+    ]
   },
   {
     "objectID": "work/examguide.html#overall-guidelines",
     "href": "work/examguide.html#overall-guidelines",
-    "title": "Exam Guide",
+    "title": "Core Exam Guide",
     "section": "",
-    "text": "The exam will be in class, paper and pen (no pencils, please - they smudge!). No computers will be used or needed. Write legibly.1\nThe exam will have two sections - IDs and short answer.\n\nAn “ID”, or identification, question, simply gives you a term and asks you to define it and identify its relevance for the study of AI and AI Policy.\nA short answer is like a short essay - nothing terribly long, but should be structured, potentially with short paragraphs. You could also be given a news article or data graphic about AI and be asked to interpret and situate it, saying why it is important to the broader discussion of AI.\n\nI do not imagine the exam will take the entire class period, but you will have the entire class period to complete it."
+    "text": "The exam will be in class, paper and pen (no pencils, please - they smudge!). No computers will be used or needed. Write legibly.1\nThe exam will have two sections - IDs and short answer.\n\nAn “ID”, or identification, question, simply gives you a term and asks you to define it and identify its relevance for the study of AI and AI Policy.\nA short answer is like a short essay - nothing terribly long, but should be structured, potentially with short paragraphs. You could also be given a news article or data graphic about AI and be asked to interpret and situate it, saying why it is important to the broader discussion of AI.\n\nI do not imagine the exam will take the entire class period, but you will have the entire class period to complete it.",
+    "crumbs": [
+      "📝 Work",
+      "Exams"
+    ]
   },
   {
     "objectID": "work/examguide.html#definitions-and-key-concepts",
     "href": "work/examguide.html#definitions-and-key-concepts",
-    "title": "Exam Guide",
+    "title": "Core Exam Guide",
     "section": "Definitions and Key Concepts",
-    "text": "Definitions and Key Concepts\n\nPhilosophy of AI\n\nFoundations\n\nIntelligence\nConsciousness\nSentience\n“Common Sense”\nAutonomous Systems\nSimulation\nEmergence\nGame of Life\n\nAI Design & Assessment\n\nStrong AI\nWeak AI\nTuring Test\nChinese Room Argument\nEmbodiment\nAgency\nResponsibility\nRole of Language in Thought & Intelligence\n\n\n\n\nTechnology of AI\n\nHardware\n\nTuring Machine\nBasic parts of a computer (processor, memory, etc)\nSerial vs. Parallel Processing\nCPUs vs GPUs (and other, more specialized processing)\nMoore’s Law\nSilicon - design vs. fabrication\n“Die shrinks”\nChip fabrication requirements\n\nSoftware\n\nLow vs. High Level programming languages\nModeling\nMachine Learning\nLarge Language Models\nTokens\nTransformers\nOmitted Data/Algorithmic Bias\nOut of Sample Predictions/Long-Tail Problems\nOverfitting\n\n\n\n\nBusiness of AI\n\nBuilding AI Systems\n\nInfrastructure\nBubbles\nProducts\nB2B vs Consumer\nDisruption\nMoats\nStartup tradeoffs: Profit vs Market Share\nRevenue streams\nAI product possibilities\nMarket positions of current major tech & AI companies\n\nImplications\n\nData Access\nEnergy\n\nLabor Replacement\nMaterials & supply chains"
+    "text": "Definitions and Key Concepts\n\nPhilosophy of AI\n\nFoundations\n\nIntelligence\nConsciousness\nSentience\n“Common Sense”\nAutonomous Systems\nSimulation\nEmergence\nGame of Life\n\nAI Design & Assessment\n\nStrong AI\nWeak AI\nTuring Test\nChinese Room Argument\nEmbodiment\nAgency\nResponsibility\nRole of Language in Thought & Intelligence\n\n\n\n\nTechnology of AI\n\nHardware\n\nTuring Machine\nBasic parts of a computer (processor, memory, etc)\nSerial vs. Parallel Processing\nCPUs vs GPUs (and other, more specialized processing)\nMoore’s Law\nSilicon - design vs. fabrication\n“Die shrinks”\nChip fabrication requirements\n\nSoftware\n\nLow vs. High Level programming languages\nModeling\nMachine Learning\nLarge Language Models\nTokens\nTransformers\nOmitted Data/Algorithmic Bias\nOut of Sample Predictions/Long-Tail Problems\nOverfitting\n\n\n\n\nBusiness of AI\n\nBuilding AI Systems\n\nInfrastructure\nBubbles\nProducts\nB2B vs Consumer\nDisruption\nMoats\nStartup tradeoffs: Profit vs Market Share\nRevenue streams\nAI product possibilities\nMarket positions of current major tech & AI companies\n“Hyperscalers”\n\nImplications\n\nData Access\nEnergy\n\nLabor Replacement\nMaterials & supply chains",
+    "crumbs": [
+      "📝 Work",
+      "Exams"
+    ]
   },
   {
     "objectID": "work/examguide.html#example-short-answer",
     "href": "work/examguide.html#example-short-answer",
-    "title": "Exam Guide",
+    "title": "Core Exam Guide",
     "section": "Example Short Answer",
-    "text": "Example Short Answer\n\nGiven what we know about AI, how would you advise a firm looking to adopt an AI system to support its employees? What kinds of concerns should the firm have, and how might it ameliorate them?\nWhat is the difference between “Weak AI” and “Strong AI”?\nWhat is the Turing Test, and is it a sufficient “test” of AI?\nWhat would be an example of algorithmic bias in the world, why might it have arisen, and what is a proposal for managing it?"
+    "text": "Example Short Answer\n\nGiven what we know about AI, how would you advise a firm looking to adopt an AI system to support its employees? What kinds of concerns should the firm have, and how might it ameliorate them?\nWhat is the difference between “Weak AI” and “Strong AI”?\nWhat is the Turing Test, and is it a sufficient “test” of AI?\nWhat would be an example of algorithmic bias in the world, why might it have arisen, and what is a proposal for managing it?",
+    "crumbs": [
+      "📝 Work",
+      "Exams"
+    ]
   },
   {
     "objectID": "work/examguide.html#footnotes",
     "href": "work/examguide.html#footnotes",
-    "title": "Exam Guide",
+    "title": "Core Exam Guide",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nI’ll try to decipher everything, but ultimately, if I can’t read it, it can’t earn points.↩︎"
+    "text": "Footnotes\n\n\nI’ll try to decipher everything, but ultimately, if I can’t read it, it can’t earn points.↩︎",
+    "crumbs": [
+      "📝 Work",
+      "Exams"
+    ]
   },
   {
     "objectID": "work/d4res.html",
@@ -375,8 +395,7 @@
     "text": "A structured debate is a deliberation around a resolution.\n\nThere are two sides:\n\nOne team affirms (supports) the resolution;\nAnother team negates (opposes) the resolution.\n\n\nEach team offers facts, evidence, and argumentation in favor of their side.\nOur class debates are team-based modified Lincoln-Douglas1 debates. A standard debate2 in our class has four phases:\n\nConstructive (3 min per team)\n\n1 min prep\n\nCross-Examination (5 min total, back and forth)\n\n2 min prep\n\nRebuttal (2 min per team)\n\n1 min prep\n\nFinal Focus (1 min per team)\n\nIn addition to the two debating teams, there is a jury who deliberates and delivers a verdict (winner and opinion).\nThe debate round is timed by the judge so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them. The judge also enforces procedure.",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -387,8 +406,7 @@
     "text": "A structured debate is a deliberation around a resolution.\n\nThere are two sides:\n\nOne team affirms (supports) the resolution;\nAnother team negates (opposes) the resolution.\n\n\nEach team offers facts, evidence, and argumentation in favor of their side.\nOur class debates are team-based modified Lincoln-Douglas1 debates. A standard debate2 in our class has four phases:\n\nConstructive (3 min per team)\n\n1 min prep\n\nCross-Examination (5 min total, back and forth)\n\n2 min prep\n\nRebuttal (2 min per team)\n\n1 min prep\n\nFinal Focus (1 min per team)\n\nIn addition to the two debating teams, there is a jury who deliberates and delivers a verdict (winner and opinion).\nThe debate round is timed by the judge so that each team has an equal opportunity to present their case, respond to their opponents, and ultimately convince the jury to vote for them. The judge also enforces procedure.",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -399,8 +417,7 @@
     "text": "Debate Schedule\nEach debate class will have two debates: a graduate debate followed by an undergraduate debate. The affirmative team goes first in each debate, sitting to the judge’s left (jury’s right).\n\nSchedule\n\n\nDebate\nAffirm\nNegate\nJury\n\n\n\n\n1\nTeam 1\nTeam 2\nTeam 3\n\n\n2\nTeam 2\nTeam 3\nTeam 1\n\n\n3\nTeam 3\nTeam 1\nTeam 2\n\n\n4\nTeam 2\nTeam 1\nTeam 3\n\n\n5\nTeam 3\nTeam 2\nTeam 1\n\n\n6\nTeam 1\nTeam 3\nTeam 2",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -411,8 +428,7 @@
     "text": "The Debate Teams\nThere are at least six roles per debating team. Different team members should take the lead in presenting different debate components. Teams are encouraged, although not required, to vary who takes lead on each component across different debates as well.\n\nConstructive\nCross-Examination: Questioner\nCross-Examination: Responder\nCross-Examination: Note-taker3\nRebuttal\nFinal Focus\n\nIn addition to each role being filled by one person, each role should also have an “understudy”. Understudies are prepared to play that role in the event of an unexpected absence by the lead.\nIt is up to individual teams to equitably fill out debate roles. Each role can play to the strengths of different individuals. The constructive, for instance, is a three minute delivered speech, and possibly the single most important part of the debate - but is also the only portion that can be fully prepared in advance. It is good for a person who is a dynamic speaker but who may not be as strong thinking on their feet. All other components are a mix of pre-prepared material as well as adjustments that happen in real time.\nFinally, while student take roles, it is the entire team’s responsibility to coordinate and prepare for each debate; it should not be the case that the person delivering the constructive is the only person to take part in writing it.4",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -423,8 +439,7 @@
     "text": "The Jury\n\nThe debate team not debating serves as the jury. The jury takes no speaking part in the debate, but does deliver the verdict once the debate is completed.5\nThe jury must attempt to be as even handed and open-minded as possible: do not judge based upon which side you began thinking was the “correct” answer; judge based upon which side you think debated more effectively and persuaded toward their side.\nJury deliberations take place after class debates have finished. The judge will set the jury deliberation time limit. Juries should hold votes on the victor (majority rule) and then deliver a verdict along with a brief opinion. The jury foreperson delivers the opinion of the jury for each debate.",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -435,8 +450,7 @@
     "text": "Logistics\n\nIn the debate, written materials are secondary to oral delivery of arguments. The only exception to this are your references, which each team must submit on paper to their opponents, judge, and jury before the debate to back up any specific factual claims made in the debate.\nFor any specific fact-based claim your team makes, the opposition may challenge you to support that fact with a reference. If challenged, if you cannot support the fact with a specific citation on your reference sheet, the jury is instructed to disregard the claim.\nNormal class rules on etiquette apply: I encourage you to have fun with the debate and get into it, but remember that you are debating a resolution, not people. Do not make it personal or attack the other team in ad hominem fashion. Professional disagreement is expected, disrespect is not.\nAppeals or complaints on process, fairness, etc, are made to the judge. The judge, however, is primarily a glorified timekeeper: most appeals are unsuccessful so long as teams stay within time limits and maintain appropriate decorum. It is up to the teams themselves to resolve substantive disputes about content.\nBoth teams must agree, a week and a half before the debate, on the policy for AI usage for debate preparation. Once made, this decision is binding on both teams and cannot be changed.\nIf time runs out mid-sentence, speakers must stop immediately. I recommend keeping time yourself.",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -447,8 +461,7 @@
     "text": "What to Bring and Prepare\n\nTyped case papers that are, word for word, what you will deliver for your constructive.\nYour sources. (Which you will submit).\nQuestions for your opponents in the cross-examination. (These can be edited briefly after the constructive round, but you will not have enough time in debate to write good questions without preparing ahead of time.)\nAny notes that will help you prepare for the rebuttal and final focus. You will not have time to draft a full word for word speech in the debate, so it’s good to have some pieces that you can build from.\nA way to take notes on what your opponents say. You may find pen and paper more useful for this than a laptop (and will almost certainly find touch-based devices not useful.)",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -459,8 +472,7 @@
     "text": "Assessment\nEach team is assessed on a check scale.\n\nDebate Performance Rubric\n\n\nGrade\n\nPoints\nDescription\n\n\n\n\n✔️➕\n\n5\nStrong, persuasive debate\n\n\n✔️\n\n4\nStrong debate\n\n\n✔️➖\n\n3\nAcceptable debate, but with weaknesses\n\n\n➖\n\n2\nMinimally acceptable; unpersuasive",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -471,8 +483,7 @@
     "text": "Final Comments\nGood debates are like good jazz: free flowing, improvisational, and adaptable, encompassing both conflict and resolution, but grounded in a shared structure that keeps all players focused. Each part is but a piece of the whole. I encourage you to have fun with each debate, but remember that preparation is necessary for debates to go well, and your team needs to coordinate work toward a common debate strategy. Even the best debaters, if given no prep time, can still get overwhelmed by debate novices who are well prepared. Good luck!",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -483,8 +494,7 @@
     "text": "Footnotes\n\n\nI tell you this intentionally so that you can, if you wish, go look up strategy for Lincoln-Douglas debate styles. The modifications made are inspired partially by Public Forum debates and partially to allow for team-based debate.↩︎\nNote that while this is the standard debate format, as we move through the course, we may add additional elements. Consult individual debate pages for details.↩︎\nThe only role that does not have a direct speaking part, but a critical role for keeping track of concessions and important points to return to, helping both the rebuttal and final focus deploy their arguments. In five person teams, there is no formal note-taker, and the role is filled by those in the rebuttal and final focus positions.↩︎\nAn unprepared individual section reflects not just on the person delivering it, but the whole team.↩︎\nDebate grades are independent of jury deliberations and are assessed by the judge.↩︎",
     "crumbs": [
       "📝 Work",
-      "Debates",
-      "Debate Guidelines"
+      "Debates"
     ]
   },
   {
@@ -592,7 +602,7 @@
     "text": "Hello and welcome to the work page for our course. All assigned work for the course will be posted here, including debate guidelines and prompts, assignments, exam review guides, and project guidelines.\nNote that, while you can find assignments here, submission of assignments goes through the course blackboard.",
     "crumbs": [
       "🏠 Overview",
-      "Debates"
+      "Assignments"
     ]
   },
   {
@@ -663,7 +673,7 @@
     "href": "syllabus.html#unit-iii-business",
     "title": "Artificial Intelligence Policy",
     "section": "Unit III | Business",
-    "text": "Unit III | Business\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n6.1\nFeb 17\nCrash Course: Building AI: Business & Economics\n\n\n6.2\nFeb 19\nFinancing AI\n\n\n7.1\nFeb 24\nLabor Replacement I Rebooting the Singularity\n\n\n7.2\nFeb 26\nDebate III"
+    "text": "Unit III | Business\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n6.1\nFeb 17\nCrash Course: Building AI: Business & Economics\n\n\n6.2\nFeb 19\nFinancing AI\n\n\n7.1\nFeb 24\nLabor Replacement I Scale and Speed\n\n\n7.2\nFeb 26\nDebate III"
   },
   {
     "objectID": "syllabus.html#unit-iv-geopolitics",
