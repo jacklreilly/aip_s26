@@ -19,6 +19,7 @@ title: "5.1 - Energy"
 
 
 #### 📚 Additional Resources:
+- de Vries, 2024. "[The growing energy footprint of artificial intelligence](https://www.cell.com/joule/fulltext/S2542-4351(23)00365-3)" Joule.
 - Crawford, 2022. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence.* Yale.
 
 #### 📝 Submit:
