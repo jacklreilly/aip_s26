@@ -13,7 +13,7 @@ title: "7.1 - Speed and Scaling"
   - Sutton, 2019. "[The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)" Blog post.
 
 #### 📝 Submit:
-  - Reflection question or comment on *Rebooting the Singularity* to course chat
+  - Reflection question or comment on *Rebooting the Singularity* to course chat; posted after the lecture
 
 ::: {.callout-tip}
 ### Tip
