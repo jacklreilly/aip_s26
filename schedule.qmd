@@ -48,10 +48,10 @@ format:
 
 | Week | Date | Topic |
 |:--|:--|:--|
-| 8.1 | *Mar 3* | **[Core Exam]()** |
-| 8.2 | *Mar 5* | *Crash Course*: [Negotiating AI: Geopolitics & The World]() |
-| 9.1 | *Mar 17* | [Geopolitics]() |
-| 9.2 | *Mar 19* | **[Debate IV]()** |
+| 8.1 | *Mar 3* | **[Core Exam](content/w81.qmd)** |
+| 8.2 | *Mar 5* | *Crash Course*: [Negotiating AI: Geopolitics & The World](content/w82.qmd) |
+| 9.1 | *Mar 17* | [Geopolitics](content/w91.qmd) |
+| 9.2 | *Mar 19* | **[Debate IV](content/w92.qmd)** |
 
 
 ## Unit V | *Policy*
