@@ -2,33 +2,7 @@
 title: "8.1 - Core Exam"
 ---
 
-#### ⚖️ Debate!
-- *test*
+#### 📝 Exam!:
+  - The study guide for the test may be found [here](../work/examguide.qmd).
+  - There is no additional work or reading for today.
 
-#### 🧠 Think: 
-- *test*
-
-#### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
-
-#### 📺 Watch: 
-- test
-
-#### 🌐 Browse:
-- test
-
-#### 📚 Additional Resources:
-- test
-
-#### 📝 Submit:
-  - Discussion question to course chat
-
-::: {.callout-tip}
-### Tip
- - "📖 Read", "🎧 Listen", and/or "📺 Watch" items are required content for the day, and should be read/heard/watched before class on that day.
- - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
- - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
-:::

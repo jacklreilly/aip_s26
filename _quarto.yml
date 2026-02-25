@@ -71,7 +71,13 @@ website:
           - content/w62.qmd
           - content/w71.qmd
           - content/w72.qmd
-       
+        - section: "4. Geopolitics"
+          href: content/index.qmd
+          contents:
+          - content/w81.qmd
+          - content/w82.qmd
+          - content/w91.qmd
+          - content/w92.qmd
 
     - id: work
       style: docked

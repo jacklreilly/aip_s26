@@ -22,6 +22,8 @@ title: "4.1 - CC: Computation"
     - Humanity's Last Exam: [website](https://www.lastexam.ai) and article: Phan et al, *[Humanity's Last Exam](https://arxiv.org/pdf/2501.14249)*
     - Ullman, "[Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks](https://arxiv.org/pdf/2302.08399)"
     - Mitchell, "[How do we know how smart AI systems are?](https://www.science.org/doi/10.1126/science.adj5957)"
+  - *[The Silicon Engine: A Timeline of Semiconductors in Computers](https://www.computerhistory.org/siliconengine/)*. Computer History Museum.
+  - "[It's the Most Indispensable Machine in the World - and It Depends on This Woman](https://www.wsj.com/tech/ai/asml-euv-machine-lithography-chips-967954d0)" *Wall Street Journal*
 
 #### 📚 Additional Resources:
   - Complexity Podcast, [Episode 2: The Relationship Between Language and Thought](https://complexity.simplecast.com/episodes/nature-of-intelligence-ep-2-the-relationship-between-language-and-thought).  *We (regrettably) won't get to this episode of the Complexity podcast in our class, but this is a good time to listen to it if you have time.*
