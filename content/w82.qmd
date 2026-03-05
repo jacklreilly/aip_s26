@@ -36,9 +36,6 @@ title: "8.2 - CC: AI Geopolitics"
     - Current Taiwan-related events: <https://www.economist.com/leaders/2025/02/13/countering-chinas-diplomatic-coup>, <https://www.economist.com/international/2025/02/09/chinas-stunning-new-campaign-to-turn-the-world-against-taiwan>
     - American Military Power: <https://www.economist.com/briefing/2025/02/13/americas-military-supremacy-is-in-jeopardy>
 
-#### 📝 Submit
-  - Discussion question to course chat
-
 ::: {.callout-tip}
 ### Tip
  - "📖 Read", "🎧 Listen", and/or "📺 Watch" items are required content for the day, and should be read/heard/watched before class on that day.
