@@ -35,6 +35,3 @@ title: "13.1 - The Singularity and The Future"
  - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
  - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
 :::
-
-Notes:
-Alignment

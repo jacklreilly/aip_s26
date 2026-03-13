@@ -2,26 +2,24 @@
 title: "10.1 - CC: Government"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
+- TBD
 
 #### 📖 Read: 
+- TBD
 
 #### 🎧 Listen: 
 - Ezra Klein Show, "The Government Knows AGI is Coming"
 
 #### 📺 Watch: 
-- test
+- TBD
 
 #### 🌐 Browse:
 - Toby Ord, [Inference Scaling Reshapes AI Governance](https://www.tobyord.com/writing/inference-scaling-reshapes-ai-governance)
 - Zhang, et al. [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://www.jair.org/index.php/jair/article/view/12895) Journal of Artificial Intelligence Research.
 
 #### 📚 Additional Resources:
-- test
+- TBD
 
 #### 📝 Submit:
   - Discussion question to course chat
@@ -33,10 +31,12 @@ title: "10.1 - CC: Government"
  - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
 :::
 
-law & democracy?
+*Notes*:
 
-AI and Law?
-AI Law Hallucination argument
+law & democracy
+
+AI and Law
+AI Law/Hallucination argument
 AI hallucination prevalence
 
 AI and Responsibility 
