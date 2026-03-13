@@ -1,27 +1,14 @@
 ---
-title: "Placeholder - Check Back Later"
+title: "12.2 - Alignment"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
+
 
 #### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
-
-#### 📺 Watch: 
-- test
 
 #### 🌐 Browse:
-- test
 
-#### 📚 Additional Resources:
-- test
 
 #### 📝 Submit:
   - Discussion question to course chat

@@ -1,27 +1,30 @@
 ---
-title: "Placeholder - Check Back Later"
+title: "13.1 - The Singularity and The Future"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
+- *What does the future hold?  Is there an AI Singularity on the horizon?*
+- *Are current AI paradigms, products, and tools sufficient to bring about substantial technological and societal change? Do we need a new paradigm for AI to continue to advance? Is there another AI winter on the horizon without substantial new scientific and technological invention?*
+- *Is AI a greater or lesser exisential risk than other threats (nuclear, climate, disease, etc) facing humanity?  Or is AI not really about threat at all, and more about promise? Can we build a better future for us all with technology?*
 
 #### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
+- Blili-Hamelin et al, 2025. "[Stop Treating AGI as the North Star of AI research](https://arxiv.org/pdf/2502.03689)"
 
 #### 📺 Watch: 
-- test
+- Mitchell, 2025. "[The Past, Present, and Uncertain Future of AI](https://www.youtube.com/watch?v=xdTOrk9jOp0)"
+
+#### 🎧 Listen: 
+- *Optional: *Complexity* podcast, Season 2, Episode 6: "[AI's Changing Seasons](https://www.santafe.edu/culture/podcasts/episode-6-ais-changing-seasons)"
 
 #### 🌐 Browse:
-- test
+*new FB guy venture
+   - Wait But Why (Urban), 2015. "The AI Revolution: The Road to Superintelligence"
+     - [Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+     - [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+   - "[AI 2027](https://ai-2027.com/)"
 
 #### 📚 Additional Resources:
-- test
+  -  Kurzweil, *The Singularity is Near* and *The Singularity is Nearer*
 
 #### 📝 Submit:
   - Discussion question to course chat

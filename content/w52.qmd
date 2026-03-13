@@ -4,7 +4,7 @@ title: "5.2 - Debate: Nuclear Power"
 
 #### ⚖️ Debate!
 
-- Debate II: **The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.**
+- *Resolved*: **The United States should significantly expand nuclear energy production to provide the electricity necessary for artificial intelligence systems.**
 - See [debate information pages](../work/d2res.qmd) for details.
 
 #### 📝 Submit:

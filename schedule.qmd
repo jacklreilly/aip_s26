@@ -9,12 +9,16 @@ format:
 
 ## 🗓️  Course Schedule
 
-## Unit I | *Philosophy*
-
+##  *Course Introduction*
 | Week | Date | Topic |
 |:--|:--|:--|
 | 1.1 | *Jan 13* | [Class Introduction](content/w11.qmd) |
 | 1.2 | *Jan 15* | [Intelligence, Consciousness, Sentience](content/w12.qmd) |
+
+## Unit I | *Philosophy*
+
+| Week | Date | Topic |
+|:--|:--|:--|
 | 2.1 | *Jan 20* | *Crash Course*: [Emergence Phenomena & Systems Thinking](content/w21.qmd) |
 | 2.2 | *Jan 22* | [Evaluating Intelligence](content/w22.qmd) |
 | 3.1 | *Jan 27* | [AI Embodiment, Agency, & Responsibility](content/w31.qmd) |
@@ -59,7 +63,7 @@ format:
 | Week | Date | Topic |
 |:--|:--|:--|
 | 10.1 | *Mar 24* | *Crash Course*: [Managing AI: Domestic Politics & Governance]() |
-| 10.2 | *Mar 26* | [Labor Replacement II]() |
+| 10.2 | *Mar 26* | [Labor Replacement]() |
 | 11.1 | *Mar 31* | [Democracy & AI]() |
 | 11.2 | *Apr 2* | **[Debate V]()** |
 
@@ -73,8 +77,13 @@ format:
 | 12.2 | *Apr 9* | [Authoritarianism and AI]() |
 | 13.1 | *Apr 14* | [Singularities, xRisk, & AGI]() |
 | 13.2 | *Apr 16* | **[Debate VI]()** |
-| 14.1 | *Apr 21* | **[Final Presentations]()** |
-| 14.2 | *Apr 23* | **[Final Presentations]()** |
+
+##  *Project Presentations*
+
+| Week | Date | Topic |
+|:--|:--|:--|
+| 14.1 | *Apr 21* | **[Graduate Presentations]()** |
+| 14.2 | *Apr 23* | **[Undergraduate Presentations]()** |
 
 *This is a tentative course schedule.  Content subject to change.*
 

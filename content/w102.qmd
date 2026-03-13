@@ -3,7 +3,7 @@ title: "10.2 - Labor Replacement"
 ---
 
 #### 🧠 Think: 
-- *What happens as automation replaces humans as the best way to produce economic value? How many human jobs with automation replace?*
+*How do we re-organize society and the economy in light of AI-sparked labor market disruption? Or do we even need to - will the labor market take care of itself?*
 
 #### 📖 Read: 
   - Frey and Osborne, 2017. "[The future of employment: How susceptible are jobs to computerisation?](https://www.sciencedirect.com/science/article/abs/pii/S0040162516302244)"
@@ -17,19 +17,30 @@ title: "10.2 - Labor Replacement"
 
 #### 🌐 Browse:
 - Tyrangiel, 2026. "[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)" *The Atlantic*
-- Gottweis et al, 2025. "[Towards an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)". Google Research.
-- The Economist, 2025. "[How AI will divide the best from the rest](https://www.economist.com/finance-and-economics/2025/02/13/how-ai-will-divide-the-best-from-the-rest)"
-- Pew Research, 2025. [Workers Experience with Chatbots and their Jobs](https://www.pewresearch.org/social-trends/2025/02/25/workers-experience-with-ai-chatbots-in-their-jobs/)
-- Thompson, 2015. "[A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/)". *The Atlantic*
+- *Perhaps AI won't be as destructive to labor markets as we think?*
+     - Edwards, "[AI could create 78 million more jobs than it eliminates by 2030](https://arstechnica.com/ai/2025/01/ai-could-create-78-million-more-jobs-than-it-eliminates-by-2030-report/)" *Ars Technica*
+     - Pethokoukis, "[Another Promising Data Point on the Productivity Impact of AI](https://www.aei.org/economics/another-promising-data-point-on-the-productivity-impact-of-ai/)" *AEIdeas*
+- Acemoglu and Johnson, "[Learning from Ricardo and Thompson: Machinery and labor in the early industrial revolution – and in the age of AI](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-091823-025129)"
+
 
 #### 📚 Additional Resources:
+- Stiefenhofer, 2025. "[Artificial General Intelligence and the End of Human Employment: The Need to Renegotiate the Social Contract](https://arxiv.org/abs/2502.07050)"
+- Thompson, 2015. "[A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/)". *The Atlantic*
 - Two additional podcasts from the *Plain English* podcast:
   - Mollick, 2025. "[What Happens When AI Learns to Do Our Jobs](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/10/24/what-happens-when-ai-learns-to-do-our-jobs)". Podcast: Plain English with Derek Thompson.
   - Korinek, 2025. "[How Superintelligent AI Could Upend Work and Politics](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/11/18/how-superintelligent-ai-could-upend-work-and-politics)". Podcast: Plain English with Derek Thompson.
-- Mollick, 2024. *[Co-Intelligence: Living and Working with AI](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)*. Portfolio Books.
-- Korinek, 2024. "[Preparing for the (Non-Existent?) Future of Work](https://doi.org/10.1093/oxfordhb/9780197579329.013.44)" *Oxford Handbook of AI Governance*
-- Felten, "[How will Language Modelers like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)"
-- [Generative AI for Economic Research](https://genaiforecon.org/JEL-2024-Dec-LLMsCollaborateReason.pdf)
+- Books:
+  - Mollick, 2024. *[Co-Intelligence: Living and Working with AI](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)*. Portfolio Books.
+  - Frey, 2019. *The Technology Trap: Capital, Labor, and Power in the Age of Automation*
+  - Korinek, 2024. "[Preparing for the (Non-Existent?) Future of Work](https://doi.org/10.1093/oxfordhb/9780197579329.013.44)" *Oxford Handbook of AI Governance*
+- Articles
+  - Lobel, 2024. "The Future of Work in the Era of AI"
+  - Felten, "[How will Language Modelers like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)"
+  - [Generative AI for Economic Research](https://genaiforecon.org/JEL-2024-Dec-LLMsCollaborateReason.pdf)
+  - Korinek, "Economic Policy Challenges for the Age of AI"
+  - Gottweis et al, 2025. "[Towards an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)". Google Research.
+  - Pew Research, 2025. [Workers Experience with Chatbots and their Jobs](https://www.pewresearch.org/social-trends/2025/02/25/workers-experience-with-ai-chatbots-in-their-jobs/)
+
 
 #### 📝 Submit:
   - Discussion question to course chat

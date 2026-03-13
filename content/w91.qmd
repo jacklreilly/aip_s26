@@ -10,7 +10,21 @@ title: "9.1 - Foreign Policy"
 - Where do we *most* need policy, and what areas of AI most call out for intervention or support?
 
 #### 🧠 Think 
-- TBD
+- *What is AI's role in national defense and security?*
+- *What responsibility do AI firms have to their "home" countries? Are they like defense contractors? Should the government have a special role in controlling AI technology and approving AI military technology sales?*
 
 #### 📖 Read 
-- TBD
+- Horowitz et al, "[AI, the International Balance of Power, and National Security Strategy](https://academic.oup.com/edited-volume/41989/chapter-abstract/386782541)". *The Oxford Handbook of AI Governance*
+
+
+#### 🌐 Browse:
+  - "[What Google's Return to Defense AI Means](https://www.defenseone.com/business/2025/02/what-googles-return-defense-ai-means/402816/)"
+  - "[Anthropic Refuses Pentagon’s Proposal to Loosen AI Guardrails](https://www.wsj.com/politics/national-security/anthropic-claude-defense-department-update-b17544d9?mod=article_inline)" *Wall Street Journal*
+  - "[Elon Musk Moves Against the Russians in Ukraine](https://www.theatlantic.com/national-security/2026/02/elon-musk-ukraine-russia-starlink/686155/)"
+
+::: {.callout-tip}
+### Tip
+ - "📖 Read", "🎧 Listen", and/or "📺 Watch" items are required content for the day, and should be read/heard/watched before class on that day.
+ - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
+ - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
+:::

@@ -1,5 +1,5 @@
 ---
-title: "12.1 - CC: AI and Humanity/AI as Big History"
+title: "12.1 - CC: AI & Big History"
 ---
 
 #### ⚖️ Debate!
@@ -21,7 +21,7 @@ title: "12.1 - CC: AI and Humanity/AI as Big History"
 - test
 
 #### 📚 Additional Resources:
-- test
+- Ordinal Society
 
 #### 📝 Submit:
   - Discussion question to course chat

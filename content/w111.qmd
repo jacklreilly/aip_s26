@@ -1,27 +1,20 @@
 ---
-title: "Law, Democracy, and AI"
+title: "11.1 - Democracy & Authoritarianism"
 ---
 
-#### ⚖️ Debate!
-- *test*
-
 #### 🧠 Think: 
-- *test*
+- *Is AI compatible with democratic governance?*
+- *What aspects of democratic systems are most under threat in the age of AI?*
+- *How does the use of AI support or undermine authoritarian control?*
 
 #### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
-
-#### 📺 Watch: 
-- test
+- Beraja et al, 2024. "[AI-tocracy](https://academic.oup.com/qje/article-abstract/138/3/1349/7076890)" *Quarterly Journal of Economics*
+- *Make sure to scan and pay attention both articles under "browse" today*
 
 #### 🌐 Browse:
-- test
-
-#### 📚 Additional Resources:
-- test
+  - Himmelriech, 2022. "[Against Democratizing AI](https://link.springer.com/article/10.1007/s00146-021-01357-z)" AI & Society.
+   - Xu, 2020. "[To Repress or to Co-opt? Authoritarian Control in the Age of Digital Surveillance](https://www.jstor.org/stable/45380806)" *American Journal of Political Science*
+   - Yang, 2026. "[The Limits of AI for Authoritarian Control](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70045?af=R)" *American Journal of Political Science*
 
 #### 📝 Submit:
   - Discussion question to course chat
@@ -31,12 +24,4 @@ title: "Law, Democracy, and AI"
  - "📖 Read", "🎧 Listen", and/or "📺 Watch" items are required content for the day, and should be read/heard/watched before class on that day.
  - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
  - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
-:::
-
-
-AI and Law?
-AI Law Hallucination argument
-AI hallucination prevalence
-
-AI and Responsibility 
-Himmelreich; Killer Robots
+ :::

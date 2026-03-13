@@ -4,7 +4,7 @@ title: "9.2 - Debate: Chip Policy"
 
 #### ⚖️ Debate!
 
-- Debate III: **The United States government should further subsidize Intel's foundry operations.**
+- *Resolved*: **The United States government should further subsidize Intel's foundry operations.**
 - See [debate information pages](../work/d4res.qmd) for details.
 
 #### 📝 Submit

@@ -28,7 +28,7 @@ title: "8.2 - CC: AI Geopolitics"
   - *The Economist* "[New fronts will open up in the chip wars in 2025](https://www.economist.com/the-world-ahead/2024/11/20/new-fronts-will-open-up-in-the-chip-wars-in-2025)"
   - *Video:* [Lessons from Intel's First Foundry](https://www.youtube.com/watch?v=-Y9LWYmVQu0&t=5s)
   - Stratechery: "[Intel's Death and Potential Revival](https://stratechery.com/2024/intels-death-and-potential-revival/)"
-  - *Broader references on geopolitics, broadly:*
+  - *References on geopolitics, broadly:*
     - Nye, "[Soft Power](https://www.jstor.org/stable/1148580)"
     - "[Foreign Aid as Foreign Policy Tool](https://doi.org/10.1093/acrefore/9780190228637.013.332)"
     - Belt and Road: [Beijing Spins a Web of Chinese Infrastructure](https://www.wsj.com/articles/beijing-spins-a-web-of-chinese-infrastructure-1484560801) and [China Reboots Belt and Road](https://www.wsj.com/world/china/china-reboots-its-belt-and-road-initiative-99784632)

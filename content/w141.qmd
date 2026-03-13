@@ -1,30 +1,10 @@
 ---
-title: "Placeholder - Check Back Later"
+title: " 14.1 - Graduate"
 ---
 
-#### ⚖️ Debate!
-- *test*
+#### 🎉  Presentations!
 
-#### 🧠 Think: 
-- *test*
-
-#### 📖 Read: 
-- test
-
-#### 🎧 Listen: 
-- test
-
-#### 📺 Watch: 
-- test
-
-#### 🌐 Browse:
-- test
-
-#### 📚 Additional Resources:
-- test
-
-#### 📝 Submit:
-  - Discussion question to course chat
+- Graduate students (both individuals and teams) will present their projects today.
 
 ::: {.callout-tip}
 ### Tip

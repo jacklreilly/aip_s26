@@ -4,7 +4,7 @@ title: "7.2 - Debate: The AI Bubble"
 
 #### ⚖️ Debate!
 
-- Debate III: **The current AI buildout is a substantial economic bubble, the correction of which will cause widespread economic harm.**
+- *Resolved*: **The current AI buildout is a substantial economic bubble, the correction of which will cause widespread economic harm.**
 - See [debate information pages](../work/d3res.qmd) for details.
 
 #### 📝 Submit:

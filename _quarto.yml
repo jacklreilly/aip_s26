@@ -48,36 +48,52 @@ website:
       title: "Content"
       #logo: images/pai600_dwv_logo2.svg
       contents:
-        - section: "1. Philosophy"
+        - section: "Introduction"
           href: content/index.qmd
           contents:
           - content/w11.qmd
-          - content/w12.qmd
+          - content/w12.qmd      
+        - section: "1. Philosophy"
+          contents:
           - content/w21.qmd
           - content/w22.qmd
           - content/w31.qmd
           - content/w32.qmd                    
         - section: "2. Technology"
-          href: content/index.qmd
           contents:
           - content/w41.qmd
           - content/w42.qmd
           - content/w51.qmd
           - content/w52.qmd
         - section: "3. Business"
-          href: content/index.qmd
           contents:
           - content/w61.qmd
           - content/w62.qmd
           - content/w71.qmd
           - content/w72.qmd
         - section: "4. Geopolitics"
-          href: content/index.qmd
           contents:
           - content/w81.qmd
           - content/w82.qmd
           - content/w91.qmd
           - content/w92.qmd
+        - section: "5. Policy"
+          contents:
+          - content/w101.qmd
+          - content/w102.qmd
+          - content/w111.qmd
+          - content/w112.qmd
+        - section: "6. Humanity"
+          contents:
+          - content/w121.qmd
+          - content/w122.qmd
+          - content/w131.qmd
+          - content/w132.qmd
+        - section: "Presentations"
+          contents:
+          - content/w141.qmd
+          - content/w142.qmd
+
 
     - id: work
       style: docked
@@ -93,6 +109,8 @@ website:
           - work/d2res.qmd
           - work/d3res.qmd
           - work/d4res.qmd
+          - work/d5res.qmd
+          - work/d6res.qmd          
 
         - section: "Assignments"
           href: work/index.qmd

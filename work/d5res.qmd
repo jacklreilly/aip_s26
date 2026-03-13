@@ -16,6 +16,21 @@ title: "Debate 5 - Policy"
 
 ## Amendments and Adjustments
 
-- TBD
+- See [debate guidelines](dguidelines.qmd) and [debate tips](dtips.qmd) for guidance and details.
+- The standard class debate format for this debate has been modified in the following ways:
+    1. **Constructive** (4 min per team)
+        - *1 min prep*
+    2. **Cross-Examination** (8 min total, back and forth)
+		- *2 min prep*
+    3. **Rebuttal** (2.5 min per team)
+		- *1 min prep*
+    4. **Final Focus** (1 min per team)
 
 ## Judge's Notes
+
+- This debate may require additional external research. Some places to start on UBI (Universal Basic Income):
+    - "[What is Universal Basic Income](https://basicincome.stanford.edu/about/what-is-ubi/)" Stanford Basic Income Lab.
+    - Flowers, 2016. "[What Would Happen If We Just Gave People Money?](https://fivethirtyeight.com/features/universal-basic-income/)" FiveThirtyEight.com.
+        - *The version at archive.org renders better now*: [Archive.org link](https://web.archive.org/web/20240511173138/https://fivethirtyeight.com/features/universal-basic-income/)
+    - Bidadanure, 2019. "[The Political Theory of Universal Basic Income](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050317-070954)"
+    - Pettit, 2008. "[A Republican Right to Basic Income?](https://www.degruyter.com/document/doi/10.2202/1932-0183.1082/html)"

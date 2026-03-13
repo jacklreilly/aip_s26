@@ -1,5 +1,5 @@
 ---
-title: "10.1 - CC: Public Policy"
+title: "10.1 - CC: Government"
 ---
 
 #### ⚖️ Debate!
@@ -9,7 +9,6 @@ title: "10.1 - CC: Public Policy"
 - *test*
 
 #### 📖 Read: 
-- test
 
 #### 🎧 Listen: 
 - Ezra Klein Show, "The Government Knows AGI is Coming"
@@ -18,7 +17,8 @@ title: "10.1 - CC: Public Policy"
 - test
 
 #### 🌐 Browse:
-- test
+- Toby Ord, [Inference Scaling Reshapes AI Governance](https://www.tobyord.com/writing/inference-scaling-reshapes-ai-governance)
+- Zhang, et al. [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://www.jair.org/index.php/jair/article/view/12895) Journal of Artificial Intelligence Research.
 
 #### 📚 Additional Resources:
 - test
@@ -32,3 +32,12 @@ title: "10.1 - CC: Public Policy"
  - "🌐 Browse" items should be briefly looked at but do not need to be read deeply unless you want to
  - "📚 Additional Resources" do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.
 :::
+
+law & democracy?
+
+AI and Law?
+AI Law Hallucination argument
+AI hallucination prevalence
+
+AI and Responsibility 
+Himmelreich; Killer Robots
