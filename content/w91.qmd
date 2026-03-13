@@ -15,12 +15,30 @@ title: "9.1 - Foreign Policy"
 
 #### 📖 Read 
 - Horowitz et al, "[AI, the International Balance of Power, and National Security Strategy](https://academic.oup.com/edited-volume/41989/chapter-abstract/386782541)". *The Oxford Handbook of AI Governance*
+- Make sure to be familiar with the Anthropic/Department of Defense story for class discussion (see possible sources below).
 
+#### 🎧 Listen: 
+- Nothing required, but see the two (optional) recommended podcasts on Anthropic and the Pentagon under "🌐 Browse"
 
 #### 🌐 Browse:
-  - "[What Google's Return to Defense AI Means](https://www.defenseone.com/business/2025/02/what-googles-return-defense-ai-means/402816/)"
-  - "[Anthropic Refuses Pentagon’s Proposal to Loosen AI Guardrails](https://www.wsj.com/politics/national-security/anthropic-claude-defense-department-update-b17544d9?mod=article_inline)" *Wall Street Journal*
-  - "[Elon Musk Moves Against the Russians in Ukraine](https://www.theatlantic.com/national-security/2026/02/elon-musk-ukraine-russia-starlink/686155/)"
+  - The recent Anthropic/Pentagon dustup is relevant and interesting from a variety of dimensions.
+      - The core story:
+        - "[Anthropic Refuses Pentagon’s Proposal to Loosen AI Guardrails](https://www.wsj.com/politics/national-security/anthropic-claude-defense-department-update-b17544d9). Wall Street Journal.
+        - [OpenAI announces Pentagon deal after Trump bans Anthropic](https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban). NPR.
+        - [Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’](https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html). New York Times.
+        - [A ‘Fight About Vibes’ Drove the Pentagon’s Breakup with Anthropic](https://www.wsj.com/tech/ai/anthropic-amodei-hegseth-ai-c12ee0df). Wall Street Journal.
+        - [Anthropic Sues U.S. Defense Department, Pete Hegseth for Targeting the Company](https://www.wsj.com/politics/national-security/anthropic-sues-trump-administration-for-targeting-it-917b52ca). Wall Street Journal.
+        - [A Guide to the Pentagon’s Dance With Anthropic and OpenAI](https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html). New York Times.
+      - A counter take: [Anthropic and Alignment](https://stratechery.com/2026/anthropic-and-alignment/), 2026. Stratechery blog.
+      - Side effects: 
+        - [The Pentagon-Anthropic Spat Is Good for China](https://www.wsj.com/opinion/the-pentagon-anthropic-spat-is-good-for-china-c7cf8fb2) Wall Street Journal.
+        - [Anthropic’s Standoff With the Pentagon Shakes Up AI Talent Race](https://www.wsj.com/tech/ai/anthropic-trump-ai-talent-race-779c91d7) Wall Street Journal.
+        - [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/). Tech Crunch.
+      - Two podcasts:
+        - Dean Ball, 2026. "[Why the Pentagon Wants to Destroy Anthropic](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)", *The Ezra Klein Show*, New York Times. Also see [Youtube link](https://www.youtube.com/watch?v=xc97F2CFBOY)
+        - Mike Masnick, 2026. "[Anthropic doesn’t trust the Pentagon, and neither should you](https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying)", *Decoder* with Nilay Patel, The Verge.  Also see [Youtube video link](https://www.youtube.com/watch?v=LLwVtA2K6eg)
+  - "[What Google's Return to Defense AI Means](https://www.defenseone.com/business/2025/02/what-googles-return-defense-ai-means/402816/)". Defense One.
+  - "[Elon Musk Moves Against the Russians in Ukraine](https://www.theatlantic.com/national-security/2026/02/elon-musk-ukraine-russia-starlink/686155/)".  The Atlantic.
 
 ::: {.callout-tip}
 ### Tip

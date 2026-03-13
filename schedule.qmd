@@ -93,10 +93,16 @@ format:
 
 ## 🗒️ Notes
 
-**A Note on Readings**
+### A Note on Readings
 
 All readings may be found linked from the course content pages.  Readings will be posted at least one week ahead of time. Each day will have one or two primary sources that should be read, listened to, or watched in full, a series of simpler secondary readings (often, news coverage, podcasts, and/or videos) that should be browsed or scanned, and (frequently) further secondary and background reference reading for those interested in diving deeper. 
 
 **Undergraduate students** are expected to read or listen to the primary source(s) for the day and scan background readings. 
 
 **Graduate students** are expected to read or listen to the primary source(s), scan secondary readings, and select one or more of the secondary or background readings to read in further depth, as well.
+
+### Digital Access to Readings
+
+You may need to log in through the library with your Syracuse ID to access academic articles linked in the readings.  
+
+News stories are predominantly taken from sources you have free digital access to through the SU library: *[The New York Times](https://researchguides.library.syr.edu/nyt)*, *[Wall Street Journal](https://researchguides.library.syr.edu/WSJ)*, *[Washington Post](https://researchguides.library.syr.edu/wapo)*, *[Syracuse Post Standard](https://www.syracuse.com/digitalsubscription/sustudent/)*, and *[The Atlantic](https://theatlantic.com/syracuse-login/)*. Click through and make sure you set up your access to each publication so you can read the articles when assigned.
