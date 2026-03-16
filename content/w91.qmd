@@ -15,6 +15,7 @@ title: "9.1 - Foreign Policy"
 
 #### 📖 Read 
 - Horowitz et al, "[AI, the International Balance of Power, and National Security Strategy](https://academic.oup.com/edited-volume/41989/chapter-abstract/386782541)". *The Oxford Handbook of AI Governance*
+  - [Syracuse library link](https://doi-org.libezproxy2.syr.edu/10.1093/oxfordhb/9780197579329.013.55)
 - Make sure to be familiar with the Anthropic/Department of Defense story for class discussion (see possible sources below).
 
 #### 🎧 Listen: 
