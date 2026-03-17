@@ -9,12 +9,14 @@ title: "11.1 - Democracy & Authoritarianism"
 
 #### 📖 Read: 
 - Beraja et al, 2024. "[AI-tocracy](https://academic.oup.com/qje/article-abstract/138/3/1349/7076890)" *Quarterly Journal of Economics*
-- *Make sure to scan and pay attention both articles under "browse" today*
 
 #### 🌐 Browse:
   - Himmelriech, 2022. "[Against Democratizing AI](https://link.springer.com/article/10.1007/s00146-021-01357-z)" AI & Society.
    - Xu, 2020. "[To Repress or to Co-opt? Authoritarian Control in the Age of Digital Surveillance](https://www.jstor.org/stable/45380806)" *American Journal of Political Science*
    - Yang, 2026. "[The Limits of AI for Authoritarian Control](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70045?af=R)" *American Journal of Political Science*
+
+#### 📚 Additional Resources:
+- Chen et al, 2025. [A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies](https://arxiv.org/abs/2505.00036)
 
 #### 📝 Submit:
   - Discussion question to course chat

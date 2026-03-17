@@ -19,7 +19,7 @@ title: "9.1 - Foreign Policy"
 - Make sure to be familiar with the Anthropic/Department of Defense story for class discussion (see possible sources below).
 
 #### 🎧 Listen: 
-- Nothing required, but see the two (optional) recommended podcasts on Anthropic and the Pentagon under "🌐 Browse"
+- *Not required, but recommended:* Dean Ball, 2026. "[Why the Pentagon Wants to Destroy Anthropic](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)", *The Ezra Klein Show*, New York Times. Also see [Youtube link](https://www.youtube.com/watch?v=xc97F2CFBOY)
 
 #### 🌐 Browse:
   - The recent Anthropic/Pentagon dustup is relevant and interesting from a variety of dimensions.
@@ -37,10 +37,15 @@ title: "9.1 - Foreign Policy"
         - [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/). Tech Crunch.
         - "[Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud](https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/)" Washington Post.
       - Two podcasts:
-        - Dean Ball, 2026. "[Why the Pentagon Wants to Destroy Anthropic](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)", *The Ezra Klein Show*, New York Times. Also see [Youtube link](https://www.youtube.com/watch?v=xc97F2CFBOY)
         - Mike Masnick, 2026. "[Anthropic doesn’t trust the Pentagon, and neither should you](https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying)", *Decoder* with Nilay Patel, The Verge.  Also see [Youtube video link](https://www.youtube.com/watch?v=LLwVtA2K6eg)
   - "[What Google's Return to Defense AI Means](https://www.defenseone.com/business/2025/02/what-googles-return-defense-ai-means/402816/)". Defense One.
   - "[Elon Musk Moves Against the Russians in Ukraine](https://www.theatlantic.com/national-security/2026/02/elon-musk-ukraine-russia-starlink/686155/)".  The Atlantic.
+  - Some additional tidbits on China-US competition:
+    - "[AI experts return from China stunned: The U.S. grid is so weak, the race may already be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)". Fortune.
+    - "[China’s Rare Earth Restrictions Aim to Beat U.S. at Its Own Game](https://www.nytimes.com/2025/10/16/business/economy/china-rare-earths-supply-chain.html)" NYTimes.
+
+#### 📚 Additional Resources
+- Himmelreich, 2019. "[Responsibilty for Killer Robots](https://link.springer.com/article/10.1007/s10677-019-10007-9)" *Ethical Theory and Moral Practice*
 
 ::: {.callout-tip}
 ### Tip

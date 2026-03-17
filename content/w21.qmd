@@ -8,6 +8,7 @@ title: "2.1 - CC: Emergence"
 
 #### 📖 Read
 - Goldstein, [Emergence as a Construct: History and Issues](http://mainline.brynmawr.edu/Courses/cs361/spring2008/Readings/Construct.pdf)
+   - *Alternate*: Krakauer, et al. 2025. "[Large Language Models and Emergence: A Complex Systems Perspective](https://arxiv.org/abs/2506.11135)"
 
 #### 🌐 Browse
 
@@ -20,6 +21,7 @@ title: "2.1 - CC: Emergence"
 - Bedau, Mark. "Weak Emergence"
 - Johnson, "Eliminating the mystery from the concept of emergence"
 - Hofstadter, "Gödel, Escher, Bach: an Eternal Golden Braid"
+- Langton, "[Computation at the Edge of Chaos](https://www.sciencedirect.com/science/article/abs/pii/016727899090064V)".  Physica D: Nonlinear Phenomena.
 - Holland, John. *Emergence*
 - Wolfram, *A New Kind of Science*
 - Simon, Herb. *Sciences of the Artificial*

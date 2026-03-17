@@ -33,6 +33,7 @@ title: "4.1 - CC: Computation"
   - Similarly, the *[Crash Course: Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)* series provides a high level overview of many current AI principles
   - There is also a *[Crash Course: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)* for more about computers themselves
   - Finally, if you are already statistically inclined, the final episodes of *[Crash Course: Statistics](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW3iJO4T0qUeUEp_X-f1U7S)* also cover elements of machine learning and big data analysis building off of core statistical concepts
+  - Edwards, 2025. "[With the launch of o3-pro, let’s talk about what AI “reasoning” actually does](https://arstechnica.com/ai/2025/06/with-the-launch-of-o3-pro-lets-talk-about-what-ai-reasoning-actually-does/)" Ars Technica.
   - Rumelhart, "The Architecture of the Mind: A Connectionist Approach" *Mind Design III*
   - Churchland and Sejnowski, "The Computational Brain" *Mind Design III*
   - Cowie and Woodard, "The Mind is Not (Just) a System of Modules Shaped (Just) by Natural Selection" *Mind Design III*

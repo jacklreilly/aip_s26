@@ -22,9 +22,13 @@ title: "13.1 - The Singularity and The Future"
      - [Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
      - [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
    - "[AI 2027](https://ai-2027.com/)"
+    - *See also*: [The AI 2027 scenario and what it means: a video tour](https://80000hours.org/2025/07/the-ai-2027-scenario-and-what-it-means-a-video-tour/) 
 
 #### 📚 Additional Resources:
-  -  Kurzweil, *The Singularity is Near* and *The Singularity is Nearer*
+  - Kurzweil, *The Singularity is Near* and *The Singularity is Nearer*
+  - Altman, 2025. "[The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)"
+  - Shojaee, 2025. "The Illusion of Thinking: Undestanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity(https://machinelearning.apple.com/research/illusion-of-thinking)" Apple.
+    - *See also*: Marcus, 2025. "[Seven replies to the viral Apple reasoning paper – and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)"
 
 #### 📝 Submit:
   - Discussion question to course chat

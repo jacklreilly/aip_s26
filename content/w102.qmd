@@ -7,7 +7,6 @@ title: "10.2 - Labor Replacement"
 
 #### 📖 Read: 
   - Frey and Osborne, 2017. "[The future of employment: How susceptible are jobs to computerisation?](https://www.sciencedirect.com/science/article/abs/pii/S0040162516302244)"
-  - Frey and Osborne, 2023. "[Generative Al and the Future of Work: A Reappraisal](https://heinonline.org/HOL/P?h=hein.journals/brownjwa30&i=161)"
 
 #### 📺 Watch: 
 - CGP Grey, "[Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)"
@@ -32,13 +31,16 @@ title: "10.2 - Labor Replacement"
   - Korinek, 2025. "[How Superintelligent AI Could Upend Work and Politics](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/11/18/how-superintelligent-ai-could-upend-work-and-politics)". Podcast: Plain English with Derek Thompson.
 - Books:
   - Mollick, 2024. *[Co-Intelligence: Living and Working with AI](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)*. Portfolio Books.
-  - Frey, 2019. *The Technology Trap: Capital, Labor, and Power in the Age of Automation*
-  - Korinek, 2024. "[Preparing for the (Non-Existent?) Future of Work](https://doi.org/10.1093/oxfordhb/9780197579329.013.44)" *Oxford Handbook of AI Governance*
+  - Frey, 2019. [*The Technology Trap: Capital, Labor, and Power in the Age of Automation*](https://press.princeton.edu/books/hardcover/9780691172798/the-technology-trap)
+  - Acemoglu and Johnson, 2024. [*Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity*](https://shapingwork.mit.edu/power-and-progress/) Public Affairs Books, Hachette.
 - Articles
+  - Frey and Osborne, 2023. "[Generative Al and the Future of Work: A Reappraisal](https://heinonline.org/HOL/P?h=hein.journals/brownjwa30&i=161)"
+  - Korinek, 2024. "[Preparing for the (Non-Existent?) Future of Work](https://doi.org/10.1093/oxfordhb/9780197579329.013.44)" *Oxford Handbook of AI Governance*
   - Lobel, 2024. "The Future of Work in the Era of AI"
   - Felten, "[How will Language Modelers like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)"
   - [Generative AI for Economic Research](https://genaiforecon.org/JEL-2024-Dec-LLMsCollaborateReason.pdf)
   - Korinek, "Economic Policy Challenges for the Age of AI"
+  - Brynjolfsson, 2025. "[Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence](https://siepr.stanford.edu/publications/working-paper/canaries-coal-mine-six-facts-about-recent-employment-effects-artificial)" Working paper.
   - Gottweis et al, 2025. "[Towards an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)". Google Research.
   - Pew Research, 2025. [Workers Experience with Chatbots and their Jobs](https://www.pewresearch.org/social-trends/2025/02/25/workers-experience-with-ai-chatbots-in-their-jobs/)
 

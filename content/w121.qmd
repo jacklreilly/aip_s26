@@ -2,9 +2,12 @@
 title: "12.1 - CC: AI & Big History"
 ---
 
+*In Progress*
+
 #### 🧠 Think: 
 
 #### 📖 Read: 
+- "The Harms of AI"
 
 #### 🎧 Listen: 
 
@@ -12,8 +15,12 @@ title: "12.1 - CC: AI & Big History"
 
 #### 🌐 Browse:
 
+\item "Pause Giant AI Experiments: An Open Letter" \url{https://futureoflife.org/open-letter/pause-giant-ai-experiments/} and "Policymaking in the Pause" \url{https://futureoflife.org/document/policymaking-in-the-pause/}
+	\item Grace et al, 2024. "Thousands of AI Authors on the Future of AI" Preprint. \url{https://arxiv.org/abs/2401.02843}
+
 #### 📚 Additional Resources:
 - Ordinal Society
+- End of History
 
 #### 📝 Submit:
   - Discussion question to course chat

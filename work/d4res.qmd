@@ -28,4 +28,6 @@ title: "Debate 4 - Geopolitics"
 
 ## Judge's Notes
 
-- This debate may require additional external research.
+- This debate may require additional external research. Some potentially useful tidbits and starting points:
+  - "[Intel's foundry future depends on securing a customer for next-gen chipmaking tech](https://www.reuters.com/world/asia-pacific/intels-foundry-future-depends-securing-customer-next-gen-chipmaking-tech-2025-07-25/)" Reuters.
+  - "[Intel’s Big Bet: Inside the Chipmaker’s Make-or-Break Factory](https://www.nytimes.com/2025/10/09/technology/intel-chip-factory-fab52.html)" NYTimes.

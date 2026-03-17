@@ -3,23 +3,27 @@ title: "10.1 - CC: Government"
 ---
 
 #### 🧠 Think: 
-- TBD
+- *How does the use of AI support or undermine shared civic life?*
+- *What complications does AI pose for the public policy process?*
+- *What kinds of policy and governance do we neeed to consider - or re-consider - in the age of AI?*
 
 #### 📖 Read: 
-- TBD
+- Farrell, 2025.  "[AI As Governance](https://doi.org/10.1146/annurev-polisci-040723-013245)" Annual Review of Political Science.
 
 #### 🎧 Listen: 
-- Ezra Klein Show, "The Government Knows AGI is Coming"
-
-#### 📺 Watch: 
-- TBD
+- Buchanan, Ben. 2025. "[The Government Knows AGI is Coming](https://www.nytimes.com/2025/03/04/opinion/ezra-klein-podcast-ben-buchanan.html)" The Ezra Klein Show.  See also [YouTube Link](https://www.youtube.com/watch?v=Btos-LEYQ30)
 
 #### 🌐 Browse:
 - Toby Ord, [Inference Scaling Reshapes AI Governance](https://www.tobyord.com/writing/inference-scaling-reshapes-ai-governance)
 - Zhang, et al. [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://www.jair.org/index.php/jair/article/view/12895) Journal of Artificial Intelligence Research.
 
 #### 📚 Additional Resources:
-- TBD
+- Risse, 2022. "[Artificial Intelligence and the Past, Present, and Future of Democracy](https://www.cambridge.org/core/books/cambridge-handbook-of-responsible-artificial-intelligence/artificial-intelligence-and-the-past-present-and-future-of-democracy/B6A19E65F15179EC41AB226D24A9FC51)" *Cambridge Handbook of Responsible Artificial Intelligence*
+- Martin, et al. "[Political Machines: Understanding the role of Generative AI in the US 2024 elections and beyond](https://mediaengagement.org/research/generative-ai-elections-and-beyond/)"
+- Jungherr, 2023. "[Artificial Intelligence and Democracy: A Conceptual Framework](https://journals.sagepub.com/doi/10.1177/20563051231186353)"
+- Zhang, "[Public Opinion toward Artificial Intelligence](https://academic.oup.com/edited-volume/41989/chapter-abstract/411053295?redirectedFrom=fulltext)" *Oxford Handbook of AI Governance*
+- Sifry, 2024. "[How AI is Transforming the Way Political Campaigns Work](https://www.thenation.com/article/politics/how-ai-is-transforming-the-way-political-campaigns-work/)"
+- Green et al, 2025. "[Linking artificial intelligence job exposure to expectations: Understanding AI losers, winners, and their political preferences](https://doi.org/10.1177/20531680251337897)"
 
 #### 📝 Submit:
   - Discussion question to course chat

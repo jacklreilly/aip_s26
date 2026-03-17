@@ -2,11 +2,26 @@
 title: "12.2 - Alignment"
 ---
 
+*In Progress*
+
 #### 🧠 Think: 
 
 #### 📖 Read: 
 
 #### 🌐 Browse:
+
+- claude constitution
+- openai spec
+- [Hidden AI instructions reveal how Anthropic controls Claude 4](https://arstechnica.com/ai/2025/05/hidden-ai-instructions-reveal-how-anthropic-controls-claude-4/). 2025. Ars Technica
+- Shao et al, 2026. [Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce](https://arxiv.org/abs/2506.06576v3). arXiv.
+- Farrell et al, 2025. "[Large AI models are cultural and social technologies](https://www.science.org/doi/full/10.1126/science.adt9819)".  Science.
+- Mobayed, 2025. "[Your Brain on ChatGPT](https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202506/your-brain-on-chatgpt)" Psychology Today.
+- Bastani et al, 2025. "[Generative AI without guardrails can harm learning: Evidence from high school mathematics](https://doi.org/10.1073/pnas.2422633122)" PNAS.
+- Berg and Rosenblatt, 2025. "[The Monster inside ChatGPT](https://www.wsj.com/opinion/the-monster-inside-chatgpt-safety-training-ai-alignment-796ac9d3)" Wall Street Journal.
+- "[Is AI Rewiring our Minds? Scientists probe cognitive cost of chatbots](https://www.washingtonpost.com/health/2025/06/29/chatgpt-ai-brain-impact/)" Washington Post.
+- Li et al, 2025. "(Core Knowledge Deficits in MMLMs)(https://arxiv.org/abs/2410.10855v4)" arXiv.
+   - *See also*: [Grow AI like a Child](https://grow-ai-like-a-child.github.io/core-knowledge/)
+- Gao et al, 2025. [Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation](https://arxiv.org/abs/2506.21876)
 
 #### 📝 Submit:
   - Discussion question to course chat
