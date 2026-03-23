@@ -35,18 +35,18 @@
     "text": "Unit IV | Geopolitics\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n8.1\nMar 3\nCore Exam\n\n\n8.2\nMar 5\nCrash Course: Negotiating AI: Geopolitics & The World\n\n\n9.1\nMar 17\nGeopolitics\n\n\n9.2\nMar 19\nDebate IV"
   },
   {
-    "objectID": "schedule.html#unit-v-policy",
-    "href": "schedule.html#unit-v-policy",
+    "objectID": "schedule.html#unit-v-government",
+    "href": "schedule.html#unit-v-government",
     "title": "Schedule",
-    "section": "Unit V | Policy",
-    "text": "Unit V | Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
+    "section": "Unit V | Government",
+    "text": "Unit V | Government\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement\n\n\n11.1\nMar 31\nDemocracy & Authoritarianism\n\n\n11.2\nApr 2\nDebate V"
   },
   {
     "objectID": "schedule.html#unit-vi-humanity",
     "href": "schedule.html#unit-vi-humanity",
     "title": "Schedule",
     "section": "Unit VI | Humanity",
-    "text": "Unit VI | Humanity\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n12.1\nApr 7\nCrash Course: Assessing AI: Harms, Implications, and Futures\n\n\n12.2\nApr 9\nAuthoritarianism and AI\n\n\n13.1\nApr 14\nSingularities, xRisk, & AGI\n\n\n13.2\nApr 16\nDebate VI"
+    "text": "Unit VI | Humanity\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n12.1\nApr 7\nCrash Course: Assessing AI: Harms, Implications, and Futures\n\n\n12.2\nApr 9\nAlignment\n\n\n13.1\nApr 14\nSingularities, xRisk, & AGI\n\n\n13.2\nApr 16\nDebate VI"
   },
   {
     "objectID": "schedule.html#project-presentations",
@@ -67,10 +67,10 @@
     "href": "content/w111.html",
     "title": "11.1 - Democracy & Authoritarianism",
     "section": "",
-    "text": "🧠 Think:\n\nIs AI compatible with democratic governance?\nWhat aspects of democratic systems are most under threat in the age of AI?\nHow does the use of AI support or undermine authoritarian control?\n\n\n\n📖 Read:\n\nBeraja et al, 2024. “AI-tocracy” Quarterly Journal of Economics\n\n\n\n🌐 Browse:\n\nHimmelriech, 2022. “Against Democratizing AI” AI & Society.\nXu, 2020. “To Repress or to Co-opt? Authoritarian Control in the Age of Digital Surveillance” American Journal of Political Science\nYang, 2026. “The Limits of AI for Authoritarian Control” American Journal of Political Science\n\n\n\n📚 Additional Resources:\n\nChen et al, 2025. A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies\n\n\n\n📝 Submit:\n\nDiscussion question to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later. :::",
+    "text": "🧠 Think:\n\nIs AI compatible with democratic governance?\nWhat aspects of democratic systems are most under threat in the age of AI?\nHow does the use of AI support or undermine authoritarian control?\n\n\n\n📖 Read:\n\nBeraja et al, 2024. “AI-tocracy” Quarterly Journal of Economics\n\n\n\n🌐 Browse:\n\nHimmelriech, 2022. “Against Democratizing AI” AI & Society.\nXu, 2020. “To Repress or to Co-opt? Authoritarian Control in the Age of Digital Surveillance” American Journal of Political Science\nYang, 2026. “The Limits of AI for Authoritarian Control” American Journal of Political Science\n\n\n\n📚 Additional Resources:\n\nChen et al, 2025. A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies\n\n\n\n📝 Submit:\n\nDiscussion question to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.",
     "crumbs": [
       "🏠 Overview",
-      "5. Policy",
+      "5. Government",
       "11.1 - Democracy & Authoritarianism"
     ]
   },
@@ -327,7 +327,7 @@
     "href": "work/examguide.html#definitions-and-key-concepts",
     "title": "Core Exam Guide",
     "section": "Definitions and Key Concepts",
-    "text": "Definitions and Key Concepts\n\nPhilosophy of AI\n\nFoundations\n\nIntelligence\nConsciousness\nSentience\n“Common Sense”\nAutonomous Systems\nSimulation\nEmergence\nGame of Life\n\nAI Design & Assessment\n\nStrong AI\nWeak AI\nTuring Test\nChinese Room Argument\nEmbodiment\nAgency\nResponsibility\nRole of Language in Thought & Intelligence\n\n\n\n\nTechnology of AI\n\nHardware\n\nTuring Machine\nBasic parts of a computer (processor, memory, etc)\nSerial vs. Parallel Processing\nCPUs vs GPUs (and other, more specialized processing)\nMoore’s Law\nSilicon - design vs. fabrication\n“Die shrinks”\nChip fabrication requirements\n\nSoftware\n\nLow vs. High Level programming languages\nModeling\nMachine Learning\nLarge Language Models\nTokens\nTransformers\nOmitted Data/Algorithmic Bias\nOut of Sample Predictions/Long-Tail Problems\nOverfitting\n\n\n\n\nBusiness of AI\n\nBuilding AI Systems\n\nInfrastructure\nBubbles\nProducts\nB2B vs Consumer\nDisruption\nMoats\nStartup tradeoffs: Profit vs Market Share\nRevenue streams\nAI product possibilities\nMarket positions of current major tech & AI companies\n“Hyperscalers”\n\nImplications\n\nData Access\nEnergy\n\nLabor Replacement\nMaterials & supply chains",
+    "text": "Definitions and Key Concepts\n\nPhilosophy of AI\n\nFoundations\n\nIntelligence\nConsciousness\nSentience\n“Common Sense”\nAutonomous Systems\nSimulation\nEmergence\nGame of Life\n\nAI Design & Assessment\n\nStrong AI\nWeak AI\nTuring Test\nChinese Room Argument\nEmbodiment\nAgency\nResponsibility\nRole of Language in Thought & Intelligence\n\n\n\n\nTechnology of AI\n\nHardware\n\nTuring Machine\nBasic parts of a computer (processor, memory, etc)\nSerial vs. Parallel Processing\nCPUs vs GPUs (and other, more specialized processing)\nMoore’s Law\nSilicon - design vs. fabrication\nEUV (Extreme Ultraviote Lithography)\n“Die shrinks”\nChip fabrication requirements\n\nSoftware\n\nLow vs. High Level programming languages\nModeling\nMachine Learning\nLarge Language Models\nTokens\nTransformers\nOmitted Data/Algorithmic Bias\nOut of Sample Predictions/Long-Tail Problems\nOverfitting\nTraining vs Inference\n\n\n\n\nBusiness of AI\n\nBuilding AI Systems\n\nInfrastructure\nBubbles\nProducts\nB2B vs Consumer\nDisruption\nMoats\nStartup tradeoffs: Profit vs Market Share\nRevenue streams\nAI product possibilities\nMarket positions of current major tech & AI companies\n“Hyperscalers”\n\nImplications\n\nData Access\nEnergy\n\nLabor Replacement\nMaterials & supply chains",
     "crumbs": [
       "📝 Work",
       "Exams"
@@ -754,18 +754,18 @@
     "text": "Unit IV | Geopolitics\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n8.1\nMar 3\nCore Exam\n\n\n8.2\nMar 5\nCrash Course: Negotiating AI: Geopolitics & The World\n\n\n9.1\nMar 17\nGeopolitics\n\n\n9.2\nMar 19\nDebate IV"
   },
   {
-    "objectID": "syllabus.html#unit-v-policy",
-    "href": "syllabus.html#unit-v-policy",
+    "objectID": "syllabus.html#unit-v-government",
+    "href": "syllabus.html#unit-v-government",
     "title": "Artificial Intelligence Policy",
-    "section": "Unit V | Policy",
-    "text": "Unit V | Policy\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement\n\n\n11.1\nMar 31\nDemocracy & AI\n\n\n11.2\nApr 2\nDebate V"
+    "section": "Unit V | Government",
+    "text": "Unit V | Government\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n10.1\nMar 24\nCrash Course: Managing AI: Domestic Politics & Governance\n\n\n10.2\nMar 26\nLabor Replacement\n\n\n11.1\nMar 31\nDemocracy & Authoritarianism\n\n\n11.2\nApr 2\nDebate V"
   },
   {
     "objectID": "syllabus.html#unit-vi-humanity",
     "href": "syllabus.html#unit-vi-humanity",
     "title": "Artificial Intelligence Policy",
     "section": "Unit VI | Humanity",
-    "text": "Unit VI | Humanity\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n12.1\nApr 7\nCrash Course: Assessing AI: Harms, Implications, and Futures\n\n\n12.2\nApr 9\nAuthoritarianism and AI\n\n\n13.1\nApr 14\nSingularities, xRisk, & AGI\n\n\n13.2\nApr 16\nDebate VI"
+    "text": "Unit VI | Humanity\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n12.1\nApr 7\nCrash Course: Assessing AI: Harms, Implications, and Futures\n\n\n12.2\nApr 9\nAlignment\n\n\n13.1\nApr 14\nSingularities, xRisk, & AGI\n\n\n13.2\nApr 16\nDebate VI"
   },
   {
     "objectID": "syllabus.html#project-presentations",
@@ -1268,10 +1268,10 @@
     "href": "content/w101.html",
     "title": "10.1 - CC: Government",
     "section": "",
-    "text": "🧠 Think:\n\nHow does the use of AI support or undermine shared civic life?\nWhat complications does AI pose for the public policy process?\nWhat kinds of policy and governance do we neeed to consider - or re-consider - in the age of AI?\n\n\n\n📖 Read:\n\nFarrell, 2025. “AI As Governance” Annual Review of Political Science.\n\n\n\n🎧 Listen:\n\nBuchanan, Ben. 2025. “The Government Knows AGI is Coming” The Ezra Klein Show. See also YouTube Link\n\n\n\n🌐 Browse:\n\nToby Ord, Inference Scaling Reshapes AI Governance\nZhang, et al. Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers Journal of Artificial Intelligence Research.\n\n\n\n📚 Additional Resources:\n\nRisse, 2022. “Artificial Intelligence and the Past, Present, and Future of Democracy” Cambridge Handbook of Responsible Artificial Intelligence\nMartin, et al. “Political Machines: Understanding the role of Generative AI in the US 2024 elections and beyond”\nJungherr, 2023. “Artificial Intelligence and Democracy: A Conceptual Framework”\nZhang, “Public Opinion toward Artificial Intelligence” Oxford Handbook of AI Governance\nSifry, 2024. “How AI is Transforming the Way Political Campaigns Work”\nGreen et al, 2025. “Linking artificial intelligence job exposure to expectations: Understanding AI losers, winners, and their political preferences”\n\n\n\n📝 Submit:\n\nDiscussion question to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.\n\n\n\nNotes:\nlaw & democracy\nAI and Law AI Law/Hallucination argument AI hallucination prevalence\nAI and Responsibility Himmelreich; Killer Robots",
+    "text": "🧠 Think:\n\nHow does the use of AI support or undermine shared civic life?\nWhat complications does AI pose for the public policy process?\nWhat kinds of policy and governance do we neeed to consider - or re-consider - in the age of AI?\n\n\n\n📖 Read:\n\nFarrell, 2025. “AI As Governance” Annual Review of Political Science.\n\n\n\n🎧 Listen:\n\nBuchanan, Ben. 2025. “The Government Knows AGI is Coming” The Ezra Klein Show. See also YouTube Link\n\n\n\n🌐 Browse:\n\nToby Ord, Inference Scaling Reshapes AI Governance\nZhang, et al. Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers Journal of Artificial Intelligence Research.\nThe new proposed National Policy AI Framework:\n\nThe framework\nThe press release\nSome press coverage:\n\nWall Stret Journal\nNew York Times\n\n\n\n\n\n📚 Additional Resources:\n\nRisse, 2022. “Artificial Intelligence and the Past, Present, and Future of Democracy” Cambridge Handbook of Responsible Artificial Intelligence\nMartin, et al. “Political Machines: Understanding the role of Generative AI in the US 2024 elections and beyond”\nJungherr, 2023. “Artificial Intelligence and Democracy: A Conceptual Framework”\nZhang, “Public Opinion toward Artificial Intelligence” Oxford Handbook of AI Governance\nSifry, 2024. “How AI is Transforming the Way Political Campaigns Work”\nGreen et al, 2025. “Linking artificial intelligence job exposure to expectations: Understanding AI losers, winners, and their political preferences”\n\n\n\n📝 Submit:\n\nDiscussion question to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.\n\n\n\nNotes:\nlaw & democracy\nAI and Law AI Law/Hallucination argument AI hallucination prevalence\nAI and Responsibility Himmelreich; Killer Robots",
     "crumbs": [
       "🏠 Overview",
-      "5. Policy",
+      "5. Government",
       "10.1 - CC: Government"
     ]
   },
@@ -1391,7 +1391,7 @@
     "text": "🧠 Think:\nHow do we re-organize society and the economy in light of AI-sparked labor market disruption? Or do we even need to - will the labor market take care of itself?\n\n\n📖 Read:\n\nFrey and Osborne, 2017. “The future of employment: How susceptible are jobs to computerisation?”\n\n\n\n📺 Watch:\n\nCGP Grey, “Humans Need Not Apply”\n\n\n\n🎧 Listen:\n\nTyrangiel, 2026. “America Isn’t Ready for What AI Will Do to Jobs” Podcast: Plain English with Derek Thompson.\n\n\n\n🌐 Browse:\n\nAnthropic, 2026. “Labor market impacts of AI: A new measure and early evidence”\nTyrangiel, 2026. “America Isn’t Ready for What AI Will Do to Jobs” The Atlantic\nPerhaps AI won’t be as destructive to labor markets as we think?\n\nEdwards, “AI could create 78 million more jobs than it eliminates by 2030” Ars Technica\nPethokoukis, “Another Promising Data Point on the Productivity Impact of AI” AEIdeas\n\nAcemoglu and Johnson, “Learning from Ricardo and Thompson: Machinery and labor in the early industrial revolution – and in the age of AI”\n\n\n\n📚 Additional Resources:\n\nStiefenhofer, 2025. “Artificial General Intelligence and the End of Human Employment: The Need to Renegotiate the Social Contract”\nThompson, 2015. “A World Without Work”. The Atlantic\nTwo additional podcasts from the Plain English podcast:\n\nMollick, 2025. “What Happens When AI Learns to Do Our Jobs”. Podcast: Plain English with Derek Thompson.\nKorinek, 2025. “How Superintelligent AI Could Upend Work and Politics”. Podcast: Plain English with Derek Thompson.\n\nBooks:\n\nMollick, 2024. Co-Intelligence: Living and Working with AI. Portfolio Books.\nFrey, 2019. The Technology Trap: Capital, Labor, and Power in the Age of Automation\nAcemoglu and Johnson, 2024. Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity Public Affairs Books, Hachette.\n\nArticles\n\nFrey and Osborne, 2023. “Generative Al and the Future of Work: A Reappraisal”\nKorinek, 2024. “Preparing for the (Non-Existent?) Future of Work” Oxford Handbook of AI Governance\nLobel, 2024. “The Future of Work in the Era of AI”\nFelten, “How will Language Modelers like ChatGPT Affect Occupations and Industries?”\nGenerative AI for Economic Research\nKorinek, “Economic Policy Challenges for the Age of AI”\nBrynjolfsson, 2025. “Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence” Working paper.\nGottweis et al, 2025. “Towards an AI co-scientist”. Google Research.\nPew Research, 2025. Workers Experience with Chatbots and their Jobs\n\n\n\n\n📝 Submit:\n\nDiscussion question to course chat\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.",
     "crumbs": [
       "🏠 Overview",
-      "5. Policy",
+      "5. Government",
       "10.2 - Labor Replacement"
     ]
   },
@@ -1403,7 +1403,7 @@
     "text": "⚖️ Debate!\n\nResolved: To ameliorate future disruption in the labor market caused by artificial intelligence, the United States should implement a universal basic income.\nSee debate information pages for details.\n\n\n\n📝 Submit\n\nOn paper:\n\nReferences list (for debate teams)\nDebate roles (for debate teams; to professor)\n\n\n\n\n\n\n\n\nTipTip\n\n\n\n\n“📖 Read”, “🎧 Listen”, and/or “📺 Watch” items are required content for the day, and should be read/heard/watched before class on that day.\n“🌐 Browse” items should be briefly looked at but do not need to be read deeply unless you want to\n“📚 Additional Resources” do not need to be looked at; they are there to serve, if useful, as further references for your debates, final projects, and general edification later.",
     "crumbs": [
       "🏠 Overview",
-      "5. Policy",
+      "5. Government",
       "11.2 - Debate: Labor"
     ]
   },
