@@ -16,6 +16,12 @@ title: "10.1 - CC: Government"
 #### 🌐 Browse:
 - Toby Ord, [Inference Scaling Reshapes AI Governance](https://www.tobyord.com/writing/inference-scaling-reshapes-ai-governance)
 - Zhang, et al. [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://www.jair.org/index.php/jair/article/view/12895) Journal of Artificial Intelligence Research.
+- The new proposed National Policy AI Framework:
+  - [The framework](https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf)
+  - [The press release](https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/)
+  - Some press coverage:
+    - [Wall Stret Journal](https://www.wsj.com/articles/white-house-ai-plan-favors-speed-over-new-rules-fba67509)
+    - [New York Times](https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html)
 
 #### 📚 Additional Resources:
 - Risse, 2022. "[Artificial Intelligence and the Past, Present, and Future of Democracy](https://www.cambridge.org/core/books/cambridge-handbook-of-responsible-artificial-intelligence/artificial-intelligence-and-the-past-present-and-future-of-democracy/B6A19E65F15179EC41AB226D24A9FC51)" *Cambridge Handbook of Responsible Artificial Intelligence*
