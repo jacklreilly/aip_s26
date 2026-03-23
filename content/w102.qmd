@@ -36,7 +36,7 @@ title: "10.2 - Labor Replacement"
 - Articles
   - Frey and Osborne, 2023. "[Generative Al and the Future of Work: A Reappraisal](https://heinonline.org/HOL/P?h=hein.journals/brownjwa30&i=161)"
   - Korinek, 2024. "[Preparing for the (Non-Existent?) Future of Work](https://doi.org/10.1093/oxfordhb/9780197579329.013.44)" *Oxford Handbook of AI Governance*
-  - Lobel, 2024. "The Future of Work in the Era of AI"
+  - Lobel, 2024. "[The Future of Work in the Era of AI](https://www.repository.law.indiana.edu/ilj/vol100/iss1/7/)"
   - Felten, "[How will Language Modelers like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)"
   - [Generative AI for Economic Research](https://genaiforecon.org/JEL-2024-Dec-LLMsCollaborateReason.pdf)
   - Korinek, "Economic Policy Challenges for the Age of AI"
