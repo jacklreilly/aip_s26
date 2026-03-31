@@ -1,9 +1,9 @@
 ---
-title: "13.2 - Debate: Export Controls"
+title: "13.2 - Debate: An AI Pause?"
 ---
 
 #### ⚖️ Debate!
-- *Resolved*: **The United States should ban the sale of advanced US-designed GPUs to China.**
+- *Resolved*: **The development of frontier AI systems should be put on a temporary hold because their risks to humanity outweigh their benefits.**
 - See [debate information pages](../work/d6res.qmd) for details.
 
 #### 📝 Submit

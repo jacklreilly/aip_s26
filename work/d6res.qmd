@@ -5,7 +5,7 @@ title: "Debate 6 - Humanity"
 
 ## Resolution
 
-**The United States should ban the sale of advanced US-designed GPUs to China.**
+**The development of frontier AI systems should be put on a temporary hold because their risks to humanity outweigh their benefits.**
 
 : Teams
 
@@ -28,4 +28,15 @@ title: "Debate 6 - Humanity"
 
 ## Judge's Notes
 
-- This debate may require additional external research.
+- This debate may require additional external research. However, you should also make sure to consider the sum of material that has led to this point in the class. It is - by design - a debate that is summative in nature.
+- Note that variations on this topic has many in the real world argue both for and against it (although its popularity as a general topic of debate rises and falls). For instance, see:
+  - "[Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)", signed by, among others, Elon Musk, Steve Wozniak, Gary Marcus, Daron Acemoglu
+  - "[Policymaking in the Pause](https://futureoflife.org/document/policymaking-in-the-pause/)"
+  - "[Statement on AI Risk](https://aistatement.com)", signed by, among others, Geoffrey Hinton, Sam Altman, Dario Amodei, Bill Gates, Ilya Sutskever, Mira Murati
+- It may be fruitful to think about how AI firms have split and/or reformed, often around stated issues that relate to this question (according to their founders).  
+  - OpenAI was first founded by a group led by Sam Altman and Elon Musk. The group had two stated motivations: first, to make sure that Google did not "run away" entirely with the AI market, and second, to control and develop AI keeping [safety, alignment, and existential risk in mind](https://www.csmonitor.com/Technology/2015/1214/Open-AI-Effort-to-democratize-artificial-intelligence-research).
+  - Anthropic was originally founded when Daniela and Dario Amodei - both OpenAI employees - split to found their own AI firm, more focused on [AI safety](https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/).
+  - OpenAI, initially founded as a pure nonprofit, attempted to [fire CEO Sam Altman](https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d) over matters that are not entirely publicly clear, but may have had something to do with his approach to AI safety and OpenAI's initial public mission.  Altman ultimately regained the CEO role and and pursued an agenda of turning OpenAI's for-profit arm into a more independent and powerful entity.
+  - Post-Altman kerfuffle, a number of high-ranking OpenAI executives interested in AI alignment left and founded their own companies, including most notably [Mira Murati](https://thinkingmachines.ai/) and [Ilya Sutskever](https://ssi.inc/).  
+  - A [large number](https://fortune.com/2024/08/26/openai-agi-safety-researchers-exodus/) of other initial OpenAI employees have also left, before and after the Altman firing.
+  - Elon Musk, initally a founder of OpenAI who later left, found a new AI firm, xAI, partially to combat what he saw as [alignment issues endemic to existing frontier models](https://www.businessinsider.com/elon-musk-vows-to-make-xai-chatbot-grok-politically-neutral-2023-12).
