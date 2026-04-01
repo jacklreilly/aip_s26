@@ -13,12 +13,12 @@ title: "12.1 - CC: AI & Humanity"
 - Jack Clark, *Plain English with Derek Thopmson.* "[Anthropic Thinks AI Might Destroy the Economy. It’s Building It Anyway](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/03/27/anthropic-thinks-ai-might-destroy-the-economy-its-building-it-anyway)."
 
 #### 🌐 Browse:
-- "The Harms of AI"
+- Acemoglu, 2024. "[The Harms of AI](https://economics.mit.edu/sites/default/files/publications/Harms%20of%20AI.pdf)" *Oxford Handbook of AI Governance.*
 - "[Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)" and "[Policymaking in the Pause](https://futureoflife.org/document/policymaking-in-the-pause/)"
 - Grace et al, 2024. "[Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)" Preprint.}
 
 #### 📚 Additional Resources:
-- A few slightly further flung resources than usual, but ones I have found useful and interesting as I think about the future of societey and technology:
+- A few slightly further flung resources than usual, but ones I have found useful and interesting as I think about the future of society and technology:
   - Healy, 2024. *[Ordinal Society](https://theordinalsociety.com)*
   - Scott, 2020. *[Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.amazon.com/Seeing-Like-State-Condition-Paperbacks/dp/0300246757/)*
   - Fukuyama, 1992. *[The End of History and the Last Man](https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man)*
