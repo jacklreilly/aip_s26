@@ -1,16 +1,10 @@
 ---
-title: "13.1 - Debate: An AI Pause?"
+title: " 13.2 - Volunteers"
 ---
 
-#### ⚖️ Debate!
-- *Resolved*: **The development of frontier AI systems should be put on a temporary hold because their risks to humanity outweigh their benefits.**
-- See [debate information pages](../work/d6res.qmd) for details.
+#### 🎉  Presentations!
 
-#### 📝 Submit
-
-- On paper:
-    - References list (for debate teams)
-    - Debate roles (for debate teams; to professor)
+- Early volunteers (both individuals and teams) will present their projects today.
 
 ::: {.callout-tip}
 ### Tip
