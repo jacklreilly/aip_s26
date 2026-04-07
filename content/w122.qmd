@@ -2,15 +2,13 @@
 title: "12.2 - Alignment"
 ---
 
-*In Progress*
-
 #### 🧠 Think: 
 
 - *What does it mean for a model to be "aligned"? To whose interests is it aligned, and how do we evaluate that?*
 
 #### 📖 Read: 
 
-- *TBD*
+- **None Required.** Discussion for today will include items originally assigned for [Week 13.1](w131.qmd) as well; please do the reading originally assigned for that day.
 
 #### 🌐 Browse:
 
