@@ -6,12 +6,16 @@ title: "12.2 - Alignment"
 
 #### 🧠 Think: 
 
+- *What does it mean for a model to be "aligned"? To whose interests is it aligned, and how do we evaluate that?*
+
 #### 📖 Read: 
+
+- *TBD*
 
 #### 🌐 Browse:
 
-- claude constitution
-- openai spec
+- [Claude Constitution](https://www.anthropic.com/constitution)
+- OpenAI spec: [Introduction](https://openai.com/index/introducing-the-model-spec/) and [Source](https://github.com/openai/model_spec)
 - [Hidden AI instructions reveal how Anthropic controls Claude 4](https://arstechnica.com/ai/2025/05/hidden-ai-instructions-reveal-how-anthropic-controls-claude-4/). 2025. Ars Technica
 - Shao et al, 2026. [Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce](https://arxiv.org/abs/2506.06576v3). arXiv.
 - Farrell et al, 2025. "[Large AI models are cultural and social technologies](https://www.science.org/doi/full/10.1126/science.adt9819)".  Science.
