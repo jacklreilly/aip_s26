@@ -82,7 +82,7 @@ If you do such things in your work, you will find that I take points off *not* n
 
 ::: callout-warning 
 ### An Aside on Grading
-I would also encourage you to not make the mistake of confusing *assessement* with *learning*.[^assess] Assessment is an obligation of your professor to measure how well you know class material, but assessment is not the end goal of education any more than taking your blood pressure is the end goal of going to a physician's office. The goal of an education is for you to learn and enhance your critical thinking in ways that will enrich your personal and professional lives. Don't mistake the means for the end: I don't care about assessing what ChatGPT "thinks" about something any more than your physician cares about measuring what ChatGPT's blood pressure is, and I would suggest that you probably don't care much about that, either. 
+I would also encourage you to not make the mistake of confusing *assessment* with *learning*.[^assess] Assessment is an obligation of your professor to measure how well you know class material, but assessment is not the end goal of education any more than taking your blood pressure is the end goal of going to a physician's office. The goal of an education is for you to learn and enhance your critical thinking in ways that will enrich your personal and professional lives. Don't mistake the means for the end: I don't care about assessing what ChatGPT "thinks" about something any more than your physician cares about measuring what ChatGPT's blood pressure is, and I would suggest that you probably don't care much about that, either. 
 
 Use AI like a tool, keep your thinking your own, and remember: your education is about your own enrichment, not about passing some tests and assignments.
 
