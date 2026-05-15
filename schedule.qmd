@@ -19,7 +19,7 @@ format:
 
 | Week | Date | Topic |
 |:--|:--|:--|
-| 2.1 | *Jan 20* | *Crash Course*: [Emergence Phenomena & Systems Thinking](content/w21.qmd) |
+| 2.1 | *Jan 20* | *Crash Course*: [Emergent Phenomena & Systems Thinking](content/w21.qmd) |
 | 2.2 | *Jan 22* | [Evaluating Intelligence](content/w22.qmd) |
 | 3.1 | *Jan 27* | [AI Embodiment, Agency, & Responsibility](content/w31.qmd) |
 | 3.2 | *Jan 29* | **[Debate I](content/w32.qmd)** |
