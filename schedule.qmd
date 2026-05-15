@@ -54,7 +54,7 @@ format:
 |:--|:--|:--|
 | 8.1 | *Mar 3* | **[Core Exam](content/w81.qmd)** |
 | 8.2 | *Mar 5* | *Crash Course*: [Negotiating AI: Geopolitics & The World](content/w82.qmd) |
-| 9.1 | *Mar 17* | [Foreign Policy](content/w91.qmd) |
+| 9.1 | *Mar 17* | [International Security](content/w91.qmd) |
 | 9.2 | *Mar 19* | **[Debate IV](content/w92.qmd)** |
 
 
