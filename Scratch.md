@@ -1,3 +1,7 @@
+---
+format: html
+---
+
 1. Demonstrate capability in open science and contemporary reproducible data processing, wrangling, and management tools
 2. Apply appropriate principles of data and file management to data projects
 3. Evaluate the credibility and clarity of data visualizations

@@ -1,3 +1,7 @@
+---
+format: html
+---
+
 preferred navbar color
 #e8bc00
 

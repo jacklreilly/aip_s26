@@ -15,6 +15,8 @@ format:
 
 **Location**: Eggers 070
 
+**Course Website**: [jacklreilly.github.io/aip_s26](https://jacklreilly.github.io/aip_s26)
+
 ### Instructor
 
 **Professor Jack Reilly**

@@ -14,12 +14,12 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          tinytex: true  
-
+      # Pinned to the version the PDF styling was tested on (same as dwv_f26).
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.10.18
+          tinytex: true
       
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

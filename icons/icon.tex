@@ -1,0 +1,32 @@
+% Home-screen / web-app icon, generated rather than drawn so it can be redone
+% from scratch and stays consistent with the site's navbar colour.
+%
+% Regenerate (from this directory):
+%   pdflatex icon.tex && sips -s format png icon.pdf --out icon-512.png
+%   sips -Z 192 icon-512.png --out icon-192.png
+%   sips -Z 180 icon-512.png --out apple-touch-icon.png
+%
+% sips rasterises PDF at 72dpi, so a 512bp page yields exactly 512px.
+% Text is kept well inside the centre so Android's maskable crop cannot clip it.
+\documentclass{article}
+\usepackage[paperwidth=512bp,paperheight=512bp,margin=0bp]{geometry}
+\usepackage{mathpazo}
+\usepackage{xcolor}
+\definecolor{tile}{HTML}{F6D85E}
+\definecolor{tileink}{HTML}{222222}
+\pagecolor{tile}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\begin{document}
+\vspace*{\fill}
+\begin{center}
+  \color{tileink}\bfseries
+  {\fontsize{140bp}{150bp}\selectfont AI}\\[24bp]
+  {\fontsize{140bp}{150bp}\selectfont Policy}
+\end{center}
+% Optical centring: the last line's text box reserves descender space that has
+% no ink in these all-caps/digit lines, so the glyphs sit ~11bp low when the
+% box is centred. This rigid space rebalances it (measured on the rendered PNG).
+\vspace*{11bp}
+\vspace*{\fill}
+\end{document}

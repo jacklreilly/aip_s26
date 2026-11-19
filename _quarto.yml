@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  # Favicon / home-screen icon (see head-theme.html). icons/icon.tex is the
+  # source, so only the PNGs are published.
+  resources:
+    - manifest.webmanifest
+    - icons/*.png
 
 website:
   title: "Artificial Intelligence Policy"
@@ -134,7 +139,39 @@ format:
     theme:
       - cosmo
     css: styles.css
+    include-in-header: head-theme.html
     toc: true
+  pdf:
+    # Print styling copied from dwv_f26 (Nov 2026): Palatino, ruled section
+    # headings, dark-blue links. pdflatex is REQUIRED - Pandoc ignores
+    # `fontfamily:` on the Unicode engines - and pdflatex cannot print emoji,
+    # which is why the emoji-strip filter below has to stay with it.
+    # Body headings start at ## on this site; shift them up one level so top
+    # sections become real \section headings. The key is SINGULAR "level".
+    shift-heading-level-by: -1
+    documentclass: article
+    pdf-engine: pdflatex
+    fontsize: 11pt
+    fontfamily: mathpazo
+    papersize: letter
+    geometry:
+      - paper=letterpaper
+      - margin=1.25in
+    include-in-header: print-style.tex
+    callout-appearance: simple
+    callout-icon: false
+    toc: false
+    # Link colours live here, not in print-style.tex: hyperref loads after
+    # include-in-header, so \hypersetup there fails.
+    colorlinks: true
+    linkcolor: darkblue
+    urlcolor: darkblue
+    citecolor: darkblue
+
+filters:
+  - emoji-strip.lua
+  - callouts-plain.lua
+
 execute:
   freeze: auto
 

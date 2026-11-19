@@ -1,0 +1,35 @@
+% Print styling for the PDF exports.
+%
+% Deliberately uses only base LaTeX plus geometry and xcolor -- both of which
+% the site already builds with -- so this adds NO new package dependency.
+% Palatino comes from `fontfamily: mathpazo` in _quarto.yml (psnfss, which is
+% part of TinyTeX's default set).
+
+% Link colour, matching the syllabi.
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+
+% Headings: serif (Palatino) bold, with a clear size hierarchy and roomy space
+% above so sections separate cleanly. Third level is small caps.
+\makeatletter
+% Beforeskip is ~one extra line beyond the usual 3.5ex, for breathing room
+% above each main section. Negative keeps the following paragraph unindented.
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+  {-6ex \@plus -1.2ex \@minus -.2ex}{1.3ex \@plus .2ex}%
+  {\normalfont\Large\bfseries\raggedright}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2.6ex \@plus -0.9ex \@minus -.2ex}{0.9ex \@plus .2ex}%
+  {\normalfont\large\bfseries\raggedright}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-2.1ex \@plus -0.7ex \@minus -.2ex}{0.7ex \@plus .2ex}%
+  {\normalfont\normalsize\scshape\raggedright}}
+\makeatother
+
+% A hairline under each top-level heading -- the one signature detail from the
+% syllabi that base LaTeX can manage. Pandoc only ever emits \section{...}
+% with no optional argument, so this one-argument wrapper is safe.
+\let\statsection\section
+\renewcommand{\section}[1]{%
+  \statsection{#1}%
+  \nobreak\vspace{-0.85\baselineskip}%
+  \noindent\rule{\textwidth}{0.6pt}%
+  \nobreak\vspace{-0.3\baselineskip}\par\nobreak}
